@@ -177,7 +177,7 @@ export default function App() {
 
   // Navigation
   const goToDetail = (kanji: Kanji) => {
-    if (isGuest && kanji.category !== 'N5') {
+    if (isGuest && !['N5', 'N4'].includes(kanji.category)) {
       setShowPremiumModal(true)
       return
     }
@@ -594,12 +594,12 @@ export default function App() {
                   <h3>학습 진척도</h3>
                   <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem' }}>
                     <div className="progress-item">
-                      <div className="progress-header"><span>N5 기초 한자</span><span>{Math.round((memorizedIds.length / typedKanjiData.length) * 100)}%</span></div>
-                      <div className="progress-bar-bg"><div className="progress-bar-fill" style={{ width: `${(memorizedIds.length / typedKanjiData.length) * 100}%`, transition: 'width 0.5s' }}></div></div>
+                      <div className="progress-header"><span>N5 한자</span><span>{Math.round((memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N5').length / typedKanjiData.filter(k => k.category === 'N5').length) * 100)}%</span></div>
+                      <div className="progress-bar-bg"><div className="progress-bar-fill" style={{ width: `${(memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N5').length / typedKanjiData.filter(k => k.category === 'N5').length) * 100}%`, transition: 'width 0.5s' }}></div></div>
                     </div>
                     <div className="progress-item">
-                      <div className="progress-header"><span>퀴즈 평균 점수</span><span>{quizScore}점</span></div>
-                      <div className="progress-bar-bg"><div className="progress-bar-fill" style={{ width: `${quizScore}%`, background: '#10B981' }}></div></div>
+                      <div className="progress-header"><span>N4 한자</span><span>{Math.round((memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N4').length / Math.max(1, typedKanjiData.filter(k => k.category === 'N4').length)) * 100)}%</span></div>
+                      <div className="progress-bar-bg"><div className="progress-bar-fill" style={{ width: `${(memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N4').length / Math.max(1, typedKanjiData.filter(k => k.category === 'N4').length)) * 100}%`, transition: 'width 0.5s', background: 'var(--japan-gold)' }}></div></div>
                     </div>
                   </div>
                 </div>
@@ -610,7 +610,7 @@ export default function App() {
                     <span style={{ fontSize: '0.8rem', color: 'var(--japan-gold)', cursor: 'pointer', fontWeight: 700 }} onClick={() => setActiveTab('library')}>전체보기</span>
                   </div>
                   <div className="recent-grid">
-                    {typedKanjiData.slice(0, 6).map(k => (
+                    {[...typedKanjiData.filter(k => k.category === 'N5').slice(0, 3), ...typedKanjiData.filter(k => k.category === 'N4').slice(0, 3)].map(k => (
                       <motion.div
                         key={k.id}
                         className="recent-item"

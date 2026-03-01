@@ -156,11 +156,18 @@ export default function App() {
   // Filtered kanji
   const filteredKanji = useMemo(() => {
     return typedKanjiData.filter(item => {
-      const matchesSearch = item.kanji.includes(searchQuery) || item.meaning.includes(searchQuery)
-      const matchesCategory = selectedCategory === 'All' || item.category === selectedCategory
-      return matchesSearch && matchesCategory
+      const matchesSearch = item.kanji.includes(searchQuery) ||
+        item.meaning.includes(searchQuery) ||
+        item.on_reading.includes(searchQuery) ||
+        item.kun_reading.includes(searchQuery)
+
+      if (selectedCategory === 'All') return matchesSearch
+      if (selectedCategory === 'Bookmarks') return matchesSearch && bookmarkedIds.includes(item.id)
+      if (selectedCategory === 'Completed') return matchesSearch && memorizedIds.includes(item.id)
+
+      return matchesSearch && item.category === selectedCategory
     })
-  }, [searchQuery, selectedCategory])
+  }, [searchQuery, selectedCategory, bookmarkedIds, memorizedIds])
 
   // Navigation
   const goToDetail = (kanji: Kanji) => {
@@ -604,7 +611,10 @@ export default function App() {
                       >
                         <div className="recent-kanji">{k.kanji}</div>
                         <div className="recent-meaning">{k.meaning.split(' ')[1]}</div>
-                        {memorizedIds.includes(k.id) && <CheckCircle2 size={12} color="#10B981" style={{ position: 'absolute', top: 5, right: 5 }} />}
+                        <div style={{ position: 'absolute', top: 5, right: 5, display: 'flex', gap: '2px' }}>
+                          {memorizedIds.includes(k.id) && <CheckCircle2 size={12} color="#10B981" />}
+                          {bookmarkedIds.includes(k.id) && <Bookmark size={12} color="var(--japan-vermilion)" fill="var(--japan-vermilion)" />}
+                        </div>
                       </motion.div>
                     ))}
                   </div>
@@ -637,15 +647,31 @@ export default function App() {
                   </div>
                 </div>
                 <div className="category-filter">
-                  {['All', 'N5', 'N4', 'N3', 'N2', 'N1'].map(cat => (
+                  <div className="filter-group">
+                    {['All', 'N5', 'N4', 'N3', 'N2', 'N1'].map(cat => (
+                      <button
+                        key={cat}
+                        className={`filter-chip ${selectedCategory === cat ? 'active' : ''}`}
+                        onClick={() => setSelectedCategory(cat)}
+                      >
+                        {cat}
+                      </button>
+                    ))}
+                  </div>
+                  <div className="filter-group-special">
                     <button
-                      key={cat}
-                      className={`filter-chip ${selectedCategory === cat ? 'active' : ''}`}
-                      onClick={() => setSelectedCategory(cat)}
+                      className={`filter-chip special bookmark ${selectedCategory === 'Bookmarks' ? 'active' : ''}`}
+                      onClick={() => setSelectedCategory('Bookmarks')}
                     >
-                      {cat}
+                      <Bookmark size={14} /> 즐겨찾기
                     </button>
-                  ))}
+                    <button
+                      className={`filter-chip special completed ${selectedCategory === 'Completed' ? 'active' : ''}`}
+                      onClick={() => setSelectedCategory('Completed')}
+                    >
+                      <Medal size={14} /> 학습 완료
+                    </button>
+                  </div>
                 </div>
 
                 <div className="kanji-grid">
@@ -662,7 +688,10 @@ export default function App() {
                         <span className="item-sound-text">{k.meaning.split(' ')[1]}</span>
                       </div>
                       <div className="item-readings">{k.on_reading} / {k.kun_reading}</div>
-                      {memorizedIds.includes(k.id) && <CheckCircle2 size={16} color="#10B981" style={{ marginTop: '0.5rem' }} />}
+                      <div style={{ marginTop: '0.5rem', display: 'flex', gap: '0.5rem', justifyContent: 'center' }}>
+                        {memorizedIds.includes(k.id) && <CheckCircle2 size={16} color="#10B981" />}
+                        {bookmarkedIds.includes(k.id) && <Bookmark size={16} color="var(--japan-vermilion)" fill="var(--japan-vermilion)" />}
+                      </div>
                     </motion.div>
                   ))}
                 </div>

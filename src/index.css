@@ -632,33 +632,77 @@ body {
 /* Category Filter */
 .category-filter {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  padding: 0.5rem;
+  background: rgba(15, 23, 42, 0.4);
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.filter-group,
+.filter-group-special {
+  display: flex;
   gap: 0.75rem;
-  margin-bottom: 2rem;
-  flex-wrap: wrap;
 }
 
 .filter-chip {
   padding: 0.6rem 1.25rem;
-  border-radius: 30px;
+  border-radius: 14px;
   background: var(--bg-card);
-  border: 1px solid #334155;
-  color: #94A3B8;
+  border: 1px solid var(--border-color);
+  color: var(--text-muted);
+  font-size: 0.9rem;
   font-weight: 700;
   cursor: pointer;
-  transition: all 0.2s;
-  font-size: 0.9rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
 }
 
 .filter-chip:hover {
-  background: #334155;
-  color: #E2E8F0;
+  background: var(--secondary-blue);
+  border-color: var(--primary-blue);
+  color: white;
+  transform: translateY(-2px);
 }
 
 .filter-chip.active {
   background: var(--primary-blue);
-  border-color: var(--primary-blue);
   color: white;
-  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+  border-color: var(--primary-blue);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+}
+
+.filter-chip.special {
+  border-style: dashed;
+}
+
+.filter-chip.special.bookmark.active {
+  background: var(--japan-vermilion);
+  border-color: var(--japan-vermilion);
+  box-shadow: 0 4px 15px rgba(188, 54, 45, 0.3);
+}
+
+.filter-chip.special.completed.active {
+  background: var(--japan-gold);
+  border-color: var(--japan-gold);
+  box-shadow: 0 4px 15px rgba(212, 184, 118, 0.3);
+  color: #1A2332;
+}
+
+.filter-chip.special.bookmark:hover {
+  border-color: var(--japan-vermilion);
+  color: var(--japan-vermilion);
+}
+
+.filter-chip.special.completed:hover {
+  border-color: var(--japan-gold);
+  color: var(--japan-gold);
 }
 
 /* Library View */

@@ -228,25 +228,51 @@ export default function App() {
       return
     }
 
-    const cleanText = text.replace(/\[|\]|\(.*?\)/g, '')
-    const utterance = new SpeechSynthesisUtterance(cleanText)
-    utterance.lang = 'ja-JP'
-    utterance.rate = 0.9 // 학습을 위해 약간 천천히
+    // 진행 중인 모든 음성 중지
+    window.speechSynthesis.cancel()
 
-    const loadAndSpeak = () => {
+    // [한자](요미가나) 형식 처리: 요미가나(괄호 안)를 우선적으로 읽어 발음 정확도 향상
+    let cleanText = text;
+    if (text.includes('](')) {
+      cleanText = text.replace(/\[.*?\]\((.*?)\)/g, '$1');
+    }
+    // 남은 대괄호 및 기타 소괄호 내용 정리
+    cleanText = cleanText.split('[').join('').split(']').join('').replace(/\(.*?\)/g, '');
+
+    const utterance = new SpeechSynthesisUtterance(cleanText)
+
+    // 한국어 포함 여부 감지하여 언어 설정
+    const hasKorean = /[가-힣]/.test(cleanText);
+    utterance.lang = hasKorean ? 'ko-KR' : 'ja-JP';
+    utterance.rate = 0.9 // 자연스러운 학습 속도
+
+    const performSpeak = () => {
       const voices = window.speechSynthesis.getVoices()
-      const jaVoice = voices.find(v => v.lang.includes('ja') || v.lang.includes('JP'))
-      if (jaVoice) utterance.voice = jaVoice
+      if (voices.length === 0) {
+        // 음성 목록이 없어도 기본 설정으로 시도
+        window.speechSynthesis.speak(utterance)
+        return
+      }
+
+      const targetLang = hasKorean ? 'ko' : 'ja';
+      // 해당 언어에 가장 적합한 목소리 찾기
+      const preferredVoice = voices.find(v => v.lang.toLowerCase() === utterance.lang.toLowerCase()) ||
+        voices.find(v => v.lang.toLowerCase().includes(targetLang)) ||
+        voices.find(v => v.default) ||
+        voices[0];
+
+      if (preferredVoice) utterance.voice = preferredVoice;
       window.speechSynthesis.speak(utterance)
     }
 
+    // 음성 데이터 로딩 대기 루틴
     if (window.speechSynthesis.getVoices().length === 0) {
       window.speechSynthesis.onvoiceschanged = () => {
-        loadAndSpeak()
-        window.speechSynthesis.onvoiceschanged = null // 한 번만 실행
+        performSpeak();
+        window.speechSynthesis.onvoiceschanged = null;
       }
     } else {
-      loadAndSpeak()
+      performSpeak()
     }
   }
 

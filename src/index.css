@@ -784,10 +784,29 @@ body {
 }
 
 .sentence-japanese {
-  font-size: 0.95rem;
-  font-weight: 600;
+  font-size: 1.2rem;
+  font-weight: 700;
   color: var(--text-main);
-  line-height: 1.6;
+  line-height: 2.2;
+  /* 루비 문자가 들어갈 충분한 공간 확보 */
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+ruby {
+  ruby-align: center;
+  ruby-position: over;
+  cursor: help;
+}
+
+rt {
+  font-family: var(--ui-font);
+  font-size: 0.55em;
+  font-weight: 700;
+  color: var(--primary-blue);
+  /* 1번 이미지처럼 파란색 계열 강조 */
+  margin-bottom: 0.1em;
+  user-select: none;
 }
 
 .sentence-meaning {

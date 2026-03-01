@@ -7,8 +7,8 @@
         "kun_reading": "ひ, -비, -か",
         "category": "N5",
         "explanation": "창문 사이로 비치는 따뜻한 햇살을 떠올려 보세요! ☀️",
-        "mnemonic_image": "/images/mnemonics/hi.png",
-        "stroke_image": "/images/mnemonics/hi_stroke.png",
+        "mnemonic_image": "",
+        "stroke_image": "",
         "examples": [
             {
                 "word": "日本",
@@ -38,8 +38,8 @@
         "kun_reading": "ひと, ひと(つ)",
         "category": "N5",
         "explanation": "가로로 놓인 길쭉한 나무 막대기 하나! 🪵",
-        "mnemonic_image": "/images/mnemonics/ichi.png",
-        "stroke_image": "/images/mnemonics/ichi_stroke.png",
+        "mnemonic_image": "",
+        "stroke_image": "",
         "examples": [
             {
                 "word": "一つ",
@@ -417,6 +417,1021 @@
         "kun_sentence": {
             "text": "円いテーブル。",
             "mean": "둥근 테이블."
+        }
+    },
+    {
+        "id": 16,
+        "kanji": "時",
+        "meaning": "때 시",
+        "on_reading": "ジ",
+        "kun_reading": "とき",
+        "category": "N5",
+        "explanation": "해(日)와 절(寺)이 만나 시간을 의미해요! ⏰",
+        "examples": [
+            {
+                "word": "時間",
+                "mean": "시간",
+                "reading": "じかん"
+            },
+            {
+                "word": "時計",
+                "mean": "시계",
+                "reading": "도계(とけい)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[九時](くじ)에 [寝](ね)ます。",
+            "mean": "9시에 잡니다."
+        },
+        "kun_sentence": {
+            "text": "좋은 [時](とき)를 보냈습니다.",
+            "mean": "좋은 시간을 보냈습니다."
+        }
+    },
+    {
+        "id": 17,
+        "kanji": "分",
+        "meaning": "나눌 분",
+        "on_reading": "ブン, フン, ブ",
+        "kun_reading": "わ(かる), わ(ける)",
+        "category": "N5",
+        "explanation": "칼(刀)로 무언가를 나누는 모습이에요! 🔪",
+        "examples": [
+            {
+                "word": "五分",
+                "mean": "5분",
+                "reading": "고분(ごふん)"
+            },
+            {
+                "word": "自分",
+                "mean": "자신",
+                "reading": "지분(じぶん)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[十分](じゅっぷん) [待](ま)ってください。",
+            "mean": "10분 기다려 주세요."
+        },
+        "kun_sentence": {
+            "text": "의미를 [分](わ)카리마스카?",
+            "mean": "의미를 알겠습니까?"
+        }
+    },
+    {
+        "id": 18,
+        "kanji": "午",
+        "meaning": "낮 오",
+        "on_reading": "ゴ",
+        "kun_reading": "-",
+        "category": "N5",
+        "explanation": "낮 12시를 기준으로 오전과 오후를 나눠요! 🕛",
+        "examples": [
+            {
+                "word": "午前",
+                "mean": "오전",
+                "reading": "고젠(ごぜん)"
+            },
+            {
+                "word": "午後",
+                "mean": "오후",
+                "reading": "고고(ごご)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[午前](고젠) [七時](시치지)입니다.",
+            "mean": "오전 7시입니다."
+        },
+        "kun_sentence": {
+            "text": "-",
+            "mean": "-"
+        }
+    },
+    {
+        "id": 19,
+        "kanji": "前",
+        "meaning": "앞 전",
+        "on_reading": "ゼン",
+        "kun_reading": "まえ",
+        "category": "N5",
+        "explanation": "식탁 앞에 앉아 밥 먹을 준비! 🍱",
+        "examples": [
+            {
+                "word": "名前",
+                "mean": "이름",
+                "reading": "나마에(나마에)"
+            },
+            {
+                "word": "三日前",
+                "mean": "3일 전",
+                "reading": "밋카마에(みっかまえ)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[午前](고젠)에 [勉强](べんきょう)합니다.",
+            "mean": "오전에 공부합니다."
+        },
+        "kun_sentence": {
+            "text": "역의 [前](まえ)에서 만납시다.",
+            "mean": "역 앞에서 만납시다."
+        }
+    },
+    {
+        "id": 20,
+        "kanji": "後",
+        "meaning": "뒤 후",
+        "on_reading": "ゴ, コ우",
+        "kun_reading": "のち, うし(ろ), あと",
+        "category": "N5",
+        "explanation": "뒤를 돌아보며 천천히 걸어가요! 🚶‍♂️",
+        "examples": [
+            {
+                "word": "食後",
+                "mean": "식후",
+                "reading": "쇼쿠고(しょくご)"
+            },
+            {
+                "word": "後ろ",
+                "mean": "뒤",
+                "reading": "우시로(うしろ)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[午後](고고) [一](いち)시에 시작합니다.",
+            "mean": "오후 1시에 시작합니다."
+        },
+        "kun_sentence": {
+            "text": "[後](あと)에서 전화할게요.",
+            "mean": "나중에 전화할게요."
+        }
+    },
+    {
+        "id": 21,
+        "kanji": "月",
+        "meaning": "달 월",
+        "on_reading": "게츠, 가츠",
+        "kun_reading": "つき",
+        "category": "N5",
+        "explanation": "밤하늘에 떠 있는 초승달 모양! 🌙",
+        "examples": [
+            {
+                "word": "一月",
+                "mean": "1월",
+                "reading": "이치가츠(いちがつ)"
+            },
+            {
+                "word": "月曜日",
+                "mean": "월요일",
+                "reading": "게츠요우비(げつようび)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[来月](라이게츠) 일본에 갑니다.",
+            "mean": "다음 달에 일본에 갑니다."
+        },
+        "kun_sentence": {
+            "text": "[月](つき)가 아름답네요.",
+            "mean": "달이 예쁘네요."
+        }
+    },
+    {
+        "id": 22,
+        "kanji": "火",
+        "meaning": "불 화",
+        "on_reading": "카",
+        "kun_reading": "ひ, ほ",
+        "category": "N5",
+        "explanation": "활활 타오르는 불꽃의 모습! 🔥",
+        "examples": [
+            {
+                "word": "火曜日",
+                "mean": "화요일",
+                "reading": "카요우비(かようび)"
+            },
+            {
+                "word": "火山",
+                "mean": "화산",
+                "reading": "카잔(かざん)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[火曜日](카요우비)는 한가합니다.",
+            "mean": "화요일은 한가합니다."
+        },
+        "kun_sentence": {
+            "text": "[火](ひ)를 꺼 주세요.",
+            "mean": "불을 꺼 주세요."
+        }
+    },
+    {
+        "id": 23,
+        "kanji": "水",
+        "meaning": "물 수",
+        "on_reading": "스이",
+        "kun_reading": "みず",
+        "category": "N5",
+        "explanation": "졸졸 흐르는 시냇물줄기! 💧",
+        "examples": [
+            {
+                "word": "水曜日",
+                "mean": "수요일",
+                "reading": "스이요우비(すいようび)"
+            },
+            {
+                "word": "水泳",
+                "mean": "수영",
+                "reading": "스이에이(すいえい)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[水曜日](스이요우비)에 수영합니다.",
+            "mean": "수요일에 수영합니다."
+        },
+        "kun_sentence": {
+            "text": "[水](みず)를 마십니다.",
+            "mean": "물을 마십니다."
+        }
+    },
+    {
+        "id": 24,
+        "kanji": "木",
+        "meaning": "나무 목",
+        "on_reading": "모쿠, 보쿠",
+        "kun_reading": "き, こ",
+        "category": "N5",
+        "explanation": "뿌리와 가지가 뻗은 나무 한 그루! 🌳",
+        "examples": [
+            {
+                "word": "木曜日",
+                "mean": "목요일",
+                "reading": "모쿠요우비(もくようび)"
+            },
+            {
+                "word": "大木",
+                "mean": "큰 나무",
+                "reading": "타이보쿠(たいぼく)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[木曜日](모쿠요우비) 밤입니다.",
+            "mean": "목요일 밤입니다."
+        },
+        "kun_sentence": {
+            "text": "[木](き) 아래에서 쉽니다.",
+            "mean": "나무 아래에서 쉽니다."
+        }
+    },
+    {
+        "id": 25,
+        "kanji": "金",
+        "meaning": "쇠 금",
+        "on_reading": "킨, 콘",
+        "kun_reading": "かね, かな",
+        "category": "N5",
+        "explanation": "땅속에서 빛나는 금속 조각들! 💰",
+        "examples": [
+            {
+                "word": "金曜日",
+                "mean": "금요일",
+                "reading": "킨요우비(きんようび)"
+            },
+            {
+                "word": "お金",
+                "mean": "돈",
+                "reading": "오카네(おか네)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[金曜日](킨요우비)에 쇼핑을 합니다.",
+            "mean": "금요일에 쇼핑을 합니다."
+        },
+        "kun_sentence": {
+            "text": "[金](かね)이 없습니다.",
+            "mean": "돈이 없습니다."
+        }
+    },
+    {
+        "id": 26,
+        "kanji": "土",
+        "meaning": "흙 토",
+        "on_reading": "도, 토",
+        "kun_reading": "つち",
+        "category": "N5",
+        "explanation": "땅 위에 싹이 자라나는 모습! 🌱",
+        "examples": [
+            {
+                "word": "土曜日",
+                "mean": "토요일",
+                "reading": "도요우비(どようび)"
+            },
+            {
+                "word": "土地",
+                "mean": "토지",
+                "reading": "토치(とち)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[土曜日](도요우비)에 산에 갑니다.",
+            "mean": "토요일에 산에 갑니다."
+        },
+        "kun_sentence": {
+            "text": "[土](つち)를 팝니다.",
+            "mean": "흙을 팝니다."
+        }
+    },
+    {
+        "id": 27,
+        "kanji": "山",
+        "meaning": "메 산",
+        "on_reading": "산",
+        "kun_reading": "やま",
+        "category": "N5",
+        "explanation": "뾰족뾰족 세 개의 봉우리! ⛰️",
+        "examples": [
+            {
+                "word": "富士山",
+                "mean": "후지산",
+                "reading": "후지산(ふじさん)"
+            },
+            {
+                "word": "山道",
+                "mean": "산길",
+                "reading": "야마미치(やまみち)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[火山](카잔)이 폭발했습니다.",
+            "mean": "화산이 폭발했습니다."
+        },
+        "kun_sentence": {
+            "text": "[山](やま)에 오릅니다.",
+            "mean": "산에 오릅니다."
+        }
+    },
+    {
+        "id": 28,
+        "kanji": "川",
+        "meaning": "내 천",
+        "on_reading": "센",
+        "kun_reading": "かわ",
+        "category": "N5",
+        "explanation": "강줄기가 시원하게 흐르는 모습! 🌊",
+        "examples": [
+            {
+                "word": "河川",
+                "mean": "하천",
+                "reading": "카센(かせん)"
+            },
+            {
+                "word": "小川",
+                "mean": "작은 시내",
+                "reading": "오가와(おがわ)"
+            }
+        ],
+        "on_sentence": {
+            "text": "-",
+            "mean": "-"
+        },
+        "kun_sentence": {
+            "text": "[川](かわ)에서 수영합니다.",
+            "mean": "강에서 수영합니다."
+        }
+    },
+    {
+        "id": 29,
+        "kanji": "田",
+        "meaning": "밭 전",
+        "on_reading": "텐",
+        "kun_reading": "た",
+        "category": "N5",
+        "explanation": "바둑판 모양으로 잘 일궈진 논밭! 🌾",
+        "examples": [
+            {
+                "word": "田舎",
+                "mean": "시골",
+                "reading": "이나카(いなか)"
+            },
+            {
+                "word": "水田",
+                "mean": "논",
+                "reading": "수이덴(すいでん)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[油田](유덴)을 찾습니다.",
+            "mean": "유전을 찾습니다."
+        },
+        "kun_sentence": {
+            "text": "[田](た)가 보입니다.",
+            "mean": "논이 보입니다."
+        }
+    },
+    {
+        "id": 30,
+        "kanji": "人",
+        "meaning": "사람 인",
+        "on_reading": "진, 닌",
+        "kun_reading": "ひと",
+        "category": "N5",
+        "explanation": "두 다리로 굳건하게 서 있는 사람! 👤",
+        "examples": [
+            {
+                "word": "日本人",
+                "mean": "일본인",
+                "reading": "니혼진(にほんじん)"
+            },
+            {
+                "word": "大人",
+                "mean": "성인",
+                "reading": "오토나(おとな)"
+            }
+        ],
+        "on_sentence": {
+            "text": "[三人](산닌) 옵니다.",
+            "mean": "세 명이 옵니다."
+        },
+        "kun_sentence": {
+            "text": "[人](ひと)이 많습니다.",
+            "mean": "사람이 많습니다."
+        }
+    },
+    {
+        "id": 31,
+        "kanji": "上",
+        "meaning": "위 상",
+        "on_reading": "ジョウ",
+        "kun_reading": "うえ, あ(げる), のぼ(る)",
+        "category": "N5",
+        "explanation": "기준선 위로 무언가 솟아오른 모습! ⬆️",
+        "examples": [
+            {
+                "word": "屋上",
+                "mean": "옥상",
+                "reading": "おくじょう"
+            },
+            {
+                "word": "上げる",
+                "mean": "올리다",
+                "reading": "あげる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[屋上](おくじょう)에 [行](い)옵니다.",
+            "mean": "옥상에 갑니다."
+        },
+        "kun_sentence": {
+            "text": "[本](ほん)이 [机](つくえ)의 [上](うえ)에 있습니다.",
+            "mean": "책이 책상 위에 있습니다."
+        }
+    },
+    {
+        "id": 32,
+        "kanji": "下",
+        "meaning": "아래 하",
+        "on_reading": "カ, ゲ",
+        "kun_reading": "した, さ(げる), くだ(る)",
+        "category": "N5",
+        "explanation": "기준선 아래로 무언가 내려가는 모습! ⬇️",
+        "examples": [
+            {
+                "word": "地下鉄",
+                "mean": "지하철",
+                "reading": "ちかてつ"
+            },
+            {
+                "word": "下がる",
+                "mean": "내려가다",
+                "reading": "さがる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[地下鉄](ちかてつ)을 탑니다.",
+            "mean": "지하철을 탑니다."
+        },
+        "kun_sentence": {
+            "text": "나무 [下](した)에서 쉽시다.",
+            "mean": "나무 아래에서 쉽시다."
+        }
+    },
+    {
+        "id": 33,
+        "kanji": "左",
+        "meaning": "왼 좌",
+        "on_reading": "サ",
+        "kun_reading": "ひだり",
+        "category": "N5",
+        "explanation": "왼손에 도구를 들고 보조하는 모습! ⬅️",
+        "examples": [
+            {
+                "word": "左右",
+                "mean": "좌우",
+                "reading": "さゆう"
+            },
+            {
+                "word": "左側",
+                "mean": "왼쪽",
+                "reading": "ひだりがわ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[左右](さゆう)를 확인하세요.",
+            "mean": "좌우를 확인하세요."
+        },
+        "kun_sentence": {
+            "text": "[左](ひだり)로 굽어지세요.",
+            "mean": "왼쪽으로 꺾으세요."
+        }
+    },
+    {
+        "id": 34,
+        "kanji": "右",
+        "meaning": "오른 우",
+        "on_reading": "ウ, ユウ",
+        "kun_reading": "みぎ",
+        "category": "N5",
+        "explanation": "입(口)으로 밥을 먹는 주된 손(오른손)! ➡️",
+        "examples": [
+            {
+                "word": "右折",
+                "mean": "우회전",
+                "reading": "うせつ"
+            },
+            {
+                "word": "右利き",
+                "mean": "오른손잡이",
+                "reading": "みぎきき"
+            }
+        ],
+        "on_sentence": {
+            "text": "다음에서 [右折](うせつ)하세요.",
+            "mean": "다음에서 우회전하세요."
+        },
+        "kun_sentence": {
+            "text": "[右](みぎ)의 건물입니다.",
+            "mean": "오른쪽 건물입니다."
+        }
+    },
+    {
+        "id": 35,
+        "kanji": "中",
+        "meaning": "가운데 중",
+        "on_reading": "チュウ",
+        "kun_reading": "なか",
+        "category": "N5",
+        "explanation": "중심을 꿰뚫는 일직선! 🎯",
+        "examples": [
+            {
+                "word": "中心",
+                "mean": "중심",
+                "reading": "ちゅうしん"
+            },
+            {
+                "word": "一日中",
+                "mean": "하루 종일",
+                "reading": "いちにちじゅう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[中心](ちゅうしん)으로 모이세요.",
+            "mean": "중심으로 모이세요."
+        },
+        "kun_sentence": {
+            "text": "[箱](はこ)의 [中](なか)에 있습니다.",
+            "mean": "상자 안에 있습니다."
+        }
+    },
+    {
+        "id": 36,
+        "kanji": "大",
+        "meaning": "큰 대",
+        "on_reading": "ダイ, タイ",
+        "kun_reading": "おお(きい)",
+        "category": "N5",
+        "explanation": "사람이 팔다리를 크게 벌린 모습! 👐",
+        "examples": [
+            {
+                "word": "大学",
+                "mean": "대학교",
+                "reading": "だいがく"
+            },
+            {
+                "word": "大切",
+                "mean": "소중함",
+                "reading": "たいせつ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[大学](だいがく)에 합격했습니다.",
+            "mean": "대학교에 합격했습니다."
+        },
+        "kun_sentence": {
+            "text": "[大](おお)키이 수박입니다.",
+            "mean": "큰 수박입니다."
+        }
+    },
+    {
+        "id": 37,
+        "kanji": "小",
+        "meaning": "작을 소",
+        "on_reading": "ショウ",
+        "kun_reading": "ちい(さい), こ, お",
+        "category": "N5",
+        "explanation": "작고 귀여운 모래알 세 개! ✨",
+        "examples": [
+            {
+                "word": "小学校",
+                "mean": "초등학교",
+                "reading": "しょうがっこう"
+            },
+            {
+                "word": "小包",
+                "mean": "소포",
+                "reading": "こづつみ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[小学校](しょうがっこう)의 선생님입니다.",
+            "mean": "초등학교 선생님입니다."
+        },
+        "kun_sentence": {
+            "text": "[小](ちい)사이 새가 있네요.",
+            "mean": "작은 새가 있네요."
+        }
+    },
+    {
+        "id": 38,
+        "kanji": "多",
+        "meaning": "많을 다",
+        "on_reading": "タ",
+        "kun_reading": "おお(い)",
+        "category": "N5",
+        "explanation": "저녁(夕) 고기가 겹겹이 쌓여 많다! 🥩",
+        "examples": [
+            {
+                "word": "多分",
+                "mean": "아마도",
+                "reading": "たぶん"
+            },
+            {
+                "word": "多数",
+                "mean": "다수",
+                "reading": "たすう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[多分](たぶん) 비가 올 거예요.",
+            "mean": "아마도 비가 올 거예요."
+        },
+        "kun_sentence": {
+            "text": "[人](ひと)가 [多](おお)이입니다.",
+            "mean": "사람이 많습니다."
+        }
+    },
+    {
+        "id": 39,
+        "kanji": "少",
+        "meaning": "적을 소",
+        "on_reading": "ショウ",
+        "kun_reading": "すく(ない), すこ(し)",
+        "category": "N5",
+        "explanation": "작은(小) 것에서도 조금 더 덜어내니 적다! 🤏",
+        "examples": [
+            {
+                "word": "少年",
+                "mean": "소년",
+                "reading": "しょうねん"
+            },
+            {
+                "word": "少々",
+                "mean": "조금",
+                "reading": "しょうしょう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[少年](しょうねん)의 꿈입니다.",
+            "mean": "소년의 꿈입니다."
+        },
+        "kun_sentence": {
+            "text": "[少](すこ)시만 기다려 주세요.",
+            "mean": "조금만 기다려 주세요."
+        }
+    },
+    {
+        "id": 40,
+        "kanji": "長",
+        "meaning": "긴 장",
+        "on_reading": "チョウ",
+        "kun_reading": "なが(い)",
+        "category": "N5",
+        "explanation": "머리카락이 길게 자란 노장의 모습! 👴",
+        "examples": [
+            {
+                "word": "社長",
+                "mean": "사장",
+                "reading": "しゃちょう"
+            },
+            {
+                "word": "長男",
+                "mean": "장남",
+                "reading": "ちょうなん"
+            }
+        ],
+        "on_sentence": {
+            "text": "우리 [社長](しゃちょう)님입니다.",
+            "mean": "우리 사장님입니다."
+        },
+        "kun_sentence": {
+            "text": "머리가 [長](なが)이입니다.",
+            "mean": "머리가 깁니다."
+        }
+    },
+    {
+        "id": 41,
+        "kanji": "白",
+        "meaning": "흰 백",
+        "on_reading": "ハク, ビャク",
+        "kun_reading": "しろ(い), しら",
+        "category": "N5",
+        "explanation": "밝게 빛나는 해 위의 작은 점! ⚪",
+        "examples": [
+            {
+                "word": "白紙",
+                "mean": "백지",
+                "reading": "はくし"
+            },
+            {
+                "word": "面白い",
+                "mean": "재미있다",
+                "reading": "おもしろい"
+            }
+        ],
+        "on_sentence": {
+            "text": "[白紙](はくし)로 내면 안 돼요.",
+            "mean": "백지로 내면 안 됩니다."
+        },
+        "kun_sentence": {
+            "text": "[白](しろ)이 눈이 내려요.",
+            "mean": "하얀 눈이 내려요."
+        }
+    },
+    {
+        "id": 42,
+        "kanji": "赤",
+        "meaning": "붉을 적",
+        "on_reading": "セキ",
+        "kun_reading": "あか(い)",
+        "category": "N5",
+        "explanation": "흙(土) 위의 불(火)처럼 붉은 빛! 🔴",
+        "examples": [
+            {
+                "word": "赤ちゃん",
+                "mean": "아기",
+                "reading": "あかちゃん"
+            },
+            {
+                "word": "赤道",
+                "mean": "적도",
+                "reading": "せきどう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[赤道](せきどう) 근처는 더워요.",
+            "mean": "적도 근처는 덥습니다."
+        },
+        "kun_sentence": {
+            "text": "[赤](あか)이 사과입니다.",
+            "mean": "빨간 사과입니다."
+        }
+    },
+    {
+        "id": 43,
+        "kanji": "青",
+        "meaning": "푸를 청",
+        "on_reading": "セイ, ショウ",
+        "kun_reading": "あお(い)",
+        "category": "N5",
+        "explanation": "맑은 우물가에 자라나는 푸른 싹! 🔵",
+        "examples": [
+            {
+                "word": "青年",
+                "mean": "청년",
+                "reading": "せいねん"
+            },
+            {
+                "word": "青空",
+                "mean": "푸른 하늘",
+                "reading": "あおぞら"
+            }
+        ],
+        "on_sentence": {
+            "text": "[青年](せいねん)의 열정!",
+            "mean": "청년의 열정!"
+        },
+        "kun_sentence": {
+            "text": "[青](あお)이 바다입니다.",
+            "mean": "푸른 바다입니다."
+        }
+    },
+    {
+        "id": 44,
+        "kanji": "黒",
+        "meaning": "검을 흑",
+        "on_reading": "コク",
+        "kun_reading": "くろ(이)",
+        "category": "N5",
+        "explanation": "밭(田) 아래 불(火)이 타서 생긴 그을음! ⚫",
+        "examples": [
+            {
+                "word": "黒板",
+                "mean": "칠판",
+                "reading": "こくばん"
+            },
+            {
+                "word": "真っ黒",
+                "mean": "새카맣게",
+                "reading": "まっくろ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[黒板](こくばん)을 보세요.",
+            "mean": "칠판을 보세요."
+        },
+        "kun_sentence": {
+            "text": "[黒](くろ)이 고양이입니다.",
+            "mean": "검은 고양이입니다."
+        }
+    },
+    {
+        "id": 45,
+        "kanji": "高",
+        "meaning": "높을 고",
+        "on_reading": "コウ",
+        "kun_reading": "たか(い)",
+        "category": "N5",
+        "explanation": "높게 솟은 성문과 루각의 모습! 🏰",
+        "examples": [
+            {
+                "word": "高校",
+                "mean": "고등학교",
+                "reading": "こうこう"
+            },
+            {
+                "word": "最高",
+                "mean": "최고",
+                "reading": "さいこう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[高校](こうこう) 시절이 그립네요.",
+            "mean": "고등학교 시절이 그립네요."
+        },
+        "kun_sentence": {
+            "text": "키가 [高](たか)이입니다.",
+            "mean": "키가 큽니다(높습니다)."
+        }
+    },
+    {
+        "id": 46,
+        "kanji": "安",
+        "meaning": "편안할 안",
+        "on_reading": "アン",
+        "kun_reading": "やす(い)",
+        "category": "N5",
+        "explanation": "집(宀) 안에 여자(女)가 있으니 평온함! 🏠",
+        "examples": [
+            {
+                "word": "安心",
+                "mean": "안심",
+                "reading": "あんしん"
+            },
+            {
+                "word": "安全",
+                "mean": "안전",
+                "reading": "あんぜん"
+            }
+        ],
+        "on_sentence": {
+            "text": "이제 [安心](안신)하세요.",
+            "mean": "이제 안심하세요."
+        },
+        "kun_sentence": {
+            "text": "값이 [安](やす)이입니다.",
+            "mean": "값이 쌉니다."
+        }
+    },
+    {
+        "id": 47,
+        "kanji": "新",
+        "meaning": "새 신",
+        "on_reading": "シン",
+        "kun_reading": "あたら(しい)",
+        "category": "N5",
+        "explanation": "도끼로 나무를 쪼개어 만든 새 가구! ✨",
+        "examples": [
+            {
+                "word": "新年",
+                "mean": "신년",
+                "reading": "しんねん"
+            },
+            {
+                "word": "新聞",
+                "mean": "신문",
+                "reading": "しんぶん"
+            }
+        ],
+        "on_sentence": {
+            "text": "[新聞](しんぶん)을 읽습니다.",
+            "mean": "신문을 읽습니다."
+        },
+        "kun_sentence": {
+            "text": "[新](あたら)시이 옷입니다.",
+            "mean": "새 옷입니다."
+        }
+    },
+    {
+        "id": 48,
+        "kanji": "古",
+        "meaning": "옛 고",
+        "on_reading": "コ",
+        "kun_reading": "ふる(い)",
+        "category": "N5",
+        "explanation": "열(十) 사람의 입(口)을 거쳐 전해진 옛이야기! 📜",
+        "examples": [
+            {
+                "word": "中古",
+                "mean": "중고",
+                "reading": "ちゅうこ"
+            },
+            {
+                "word": "古典",
+                "mean": "고전",
+                "reading": "こてん"
+            }
+        ],
+        "on_sentence": {
+            "text": "[中古](ちゅうこ)차를 샀어요.",
+            "mean": "중고차를 샀습니다."
+        },
+        "kun_sentence": {
+            "text": "[古](ふる)이 집입니다.",
+            "mean": "오래된 집입니다."
+        }
+    },
+    {
+        "id": 49,
+        "kanji": "早",
+        "meaning": "이를 조",
+        "on_reading": "ソウ",
+        "kun_reading": "はや(い)",
+        "category": "N5",
+        "explanation": "해(日)가 밭(田 -> 십자 형태) 위로 일찍 뜨다! 🌅",
+        "examples": [
+            {
+                "word": "早速",
+                "mean": "즉시",
+                "reading": "さっそく"
+            },
+            {
+                "word": "早朝",
+                "mean": "이른 아침",
+                "reading": "そうちょう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[早速](さっそく) 해보겠습니다.",
+            "mean": "즉시 해보겠습니다."
+        },
+        "kun_sentence": {
+            "text": "아침 일찍 [早](はや)이 일어납니다.",
+            "mean": "아침 일찍 일어납니다."
+        }
+    },
+    {
+        "id": 50,
+        "kanji": "友",
+        "meaning": "벗 우",
+        "on_reading": "ユウ",
+        "kun_reading": "とも",
+        "category": "N5",
+        "explanation": "서로 손을 맞잡은 다정한 친구! 🤝",
+        "examples": [
+            {
+                "word": "友人",
+                "mean": "유인(친구)",
+                "reading": "ゆうじん"
+            },
+            {
+                "word": "友情",
+                "mean": "우정",
+                "reading": "ゆうじょう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[友人](ゆうじん)을 만납니다.",
+            "mean": "친구를 만납니다."
+        },
+        "kun_sentence": {
+            "text": "믿음직한 [友](とも)다치입니다.",
+            "mean": "믿음직한 친구입니다."
         }
     }
 ]

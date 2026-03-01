@@ -124,14 +124,25 @@ export default function App() {
   const [memorizedIds, setMemorizedIds] = useState<number[]>(() =>
     JSON.parse(localStorage.getItem('memorizedIds') || '[]')
   )
+  const [bookmarkedIds, setBookmarkedIds] = useState<number[]>(() =>
+    JSON.parse(localStorage.getItem('bookmarkedIds') || '[]')
+  )
 
   const toggleMemorize = (id: number) => {
     setMemorizedIds(prev => prev.includes(id) ? prev.filter(mid => mid !== id) : [...prev, id])
   }
 
+  const toggleBookmark = (id: number) => {
+    setBookmarkedIds(prev => prev.includes(id) ? prev.filter(bid => bid !== id) : [...prev, id])
+  }
+
   useEffect(() => {
     localStorage.setItem('memorizedIds', JSON.stringify(memorizedIds))
   }, [memorizedIds])
+
+  useEffect(() => {
+    localStorage.setItem('bookmarkedIds', JSON.stringify(bookmarkedIds))
+  }, [bookmarkedIds])
 
   // Quiz State
   const [quizIndex, setQuizIndex] = useState(0)
@@ -768,10 +779,10 @@ export default function App() {
                         <h2 style={{ margin: 0, fontSize: '2rem' }}>{selectedKanji.meaning}</h2>
                         <Bookmark
                           size={28}
-                          color={memorizedIds.includes(selectedKanji.id) ? "#3B82F6" : "#CBD5E1"}
-                          fill={memorizedIds.includes(selectedKanji.id) ? "#3B82F6" : "none"}
+                          color={bookmarkedIds.includes(selectedKanji.id) ? "var(--japan-vermilion)" : "#CBD5E1"}
+                          fill={bookmarkedIds.includes(selectedKanji.id) ? "var(--japan-vermilion)" : "none"}
                           style={{ cursor: 'pointer' }}
-                          onClick={() => toggleMemorize(selectedKanji.id)}
+                          onClick={() => toggleBookmark(selectedKanji.id)}
                         />
                       </div>
                       <div className="info-box" style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)' }}>

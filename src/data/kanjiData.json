@@ -2305,7 +2305,7 @@
     },
     {
         "id": 97,
-        "kanji": "买",
+        "kanji": "買",
         "meaning": "살 매",
         "on_reading": "바이",
         "kun_reading": "카우",
@@ -2313,17 +2313,17 @@
         "explanation": "조개(貝) 껍데기(돈)를 그물(罒)에 담아 물건을 사는 상거래 모습이에요.",
         "examples": [
             {
-                "word": "买",
+                "word": "買",
                 "mean": "살 매",
                 "reading": "카우"
             }
         ],
         "on_sentence": {
-            "text": "买",
+            "text": "買",
             "mean": "살 매"
         },
         "kun_sentence": {
-            "text": "买",
+            "text": "買",
             "mean": "살 매"
         }
     },

@@ -2,7 +2,7 @@ import { useState, useMemo, useRef, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
   Home, BookOpen, GraduationCap, BarChart2, Settings,
-  Search, Bell, Lightbulb, ChevronLeft, ChevronRight, Bookmark, CheckCircle2, Volume2, X, RotateCcw
+  Search, Bell, Lightbulb, ChevronLeft, ChevronRight, Bookmark, CheckCircle2, Volume2, X, RotateCcw, Medal
 } from 'lucide-react'
 import kanjiData from './data/kanjiData.json'
 import './index.css'
@@ -777,13 +777,22 @@ export default function App() {
                     <div className="card" style={{ border: 'none', background: 'transparent', padding: 0 }}>
                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
                         <h2 style={{ margin: 0, fontSize: '2rem' }}>{selectedKanji.meaning}</h2>
-                        <Bookmark
-                          size={28}
-                          color={bookmarkedIds.includes(selectedKanji.id) ? "var(--japan-vermilion)" : "#CBD5E1"}
-                          fill={bookmarkedIds.includes(selectedKanji.id) ? "var(--japan-vermilion)" : "none"}
-                          style={{ cursor: 'pointer' }}
-                          onClick={() => toggleBookmark(selectedKanji.id)}
-                        />
+                        <div style={{ display: 'flex', gap: '0.8rem', alignItems: 'center' }}>
+                          <Medal
+                            size={28}
+                            color={memorizedIds.includes(selectedKanji.id) ? "var(--japan-gold)" : "#CBD5E1"}
+                            fill={memorizedIds.includes(selectedKanji.id) ? "var(--japan-gold)" : "none"}
+                            style={{ cursor: 'pointer' }}
+                            onClick={() => toggleMemorize(selectedKanji.id)}
+                          />
+                          <Bookmark
+                            size={28}
+                            color={bookmarkedIds.includes(selectedKanji.id) ? "var(--japan-vermilion)" : "#CBD5E1"}
+                            fill={bookmarkedIds.includes(selectedKanji.id) ? "var(--japan-vermilion)" : "none"}
+                            style={{ cursor: 'pointer' }}
+                            onClick={() => toggleBookmark(selectedKanji.id)}
+                          />
+                        </div>
                       </div>
                       <div className="info-box" style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)' }}>
                         <div className="section-title"><BookOpen size={18} /><span>읽기 정보</span></div>

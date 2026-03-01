@@ -103,7 +103,7 @@ const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQ
             width: '100%',
             padding: '0.75rem',
             borderRadius: '12px',
-            background: '#3B82F6',
+            background: 'var(--japan-gold)',
             color: 'white',
             border: 'none',
             fontWeight: 700,
@@ -123,10 +123,8 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedCategory, setSelectedCategory] = useState('All')
   const [isLoggedIn, setIsLoggedIn] = useState(false)
-  const [isGuest, setIsGuest] = useState(true) // Start as Guest by default
-  const [showAuth, setShowAuth] = useState(false) // Toggle for AuthScreen
-  const [showPremiumModal, setShowPremiumModal] = useState(false)
-  const [authView, setAuthView] = useState('login')
+  const [isGuest, setIsGuest] = useState(true)
+  const [showAuth, setShowAuth] = useState(false)
   const [memorizedIds, setMemorizedIds] = useState<number[]>(() =>
     JSON.parse(localStorage.getItem('memorizedIds') || '[]')
   )
@@ -177,10 +175,6 @@ export default function App() {
 
   // Navigation
   const goToDetail = (kanji: Kanji) => {
-    if (isGuest && !['N5', 'N4'].includes(kanji.category)) {
-      setShowPremiumModal(true)
-      return
-    }
     setSelectedKanji(kanji)
     setActiveTab('detail')
   }
@@ -412,13 +406,13 @@ export default function App() {
       </motion.div>
     )
   }
+
   const handleLogout = () => {
     setIsLoggedIn(false)
     setIsGuest(true)
     setActiveTab('home')
   }
 
-  // Set global function for sidebar to access
   useEffect(() => {
     (window as unknown as Record<string, (v: boolean) => void>).setShowAuth = setShowAuth;
   }, []);
@@ -430,10 +424,9 @@ export default function App() {
         className="auth-card"
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6, ease: "easeOut" }}
       >
         <div className="auth-logo-section">
-          <img src={`${APP_LOGO}?v=2`} alt="App Logo" className="auth-app-logo" style={{ width: '100px', height: '100px', borderRadius: '24px', objectFit: 'cover', marginBottom: '1rem' }} />
+          <img src={APP_LOGO} alt="App Logo" className="auth-app-logo" style={{ width: '80px', height: '80px', borderRadius: '20px', marginBottom: '1rem' }} />
           <h1>한자 마스터 JP</h1>
           <p>일본어 한자 정복의 시작, 함께해요.</p>
         </div>
@@ -448,37 +441,15 @@ export default function App() {
             <input type="password" placeholder="••••••••" />
           </div>
 
-          <button className="login-btn-premium" onClick={() => setIsLoggedIn(true)}>
+          <button className="login-btn-premium" onClick={() => { setIsLoggedIn(true); setIsGuest(false); setShowAuth(false); }}>
             로그인
           </button>
         </div>
 
-        <div className="auth-divider">
-          <span>또는</span>
-        </div>
-
         <div className="social-auth-group">
-          <button className="social-btn google">
-            <img src="https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg" alt="Google" />
-            Google로 시작하기
+          <button className="guest-btn-premium" style={{ marginTop: '1rem' }} onClick={() => { setIsLoggedIn(false); setIsGuest(true); setShowAuth(false); }}>
+            로그인 없이 계속하기
           </button>
-          <button className="social-btn apple">
-            <svg viewBox="0 0 384 512" width="18"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z" /></svg>
-            Apple로 시작하기
-          </button>
-
-          <div className="auth-divider" style={{ margin: '1rem 0' }}>
-            <span>또는</span>
-          </div>
-
-          <button className="guest-btn-premium" onClick={() => { setIsLoggedIn(false); setIsGuest(true); setShowAuth(false); }}>
-            로그인 없이 그냥 공부하기 (체약판)
-          </button>
-        </div>
-
-        <div className="auth-footer" onClick={() => setAuthView(authView === 'login' ? 'signup' : 'login')}>
-          {authView === 'login' ? '계정이 없으신가요? ' : '이미 계정이 있으신가요? '}
-          <span>{authView === 'login' ? '회원가입' : '로그인'}</span>
         </div>
 
         <button
@@ -496,12 +467,11 @@ export default function App() {
     <div className="ad-banner-container">
       <div className="ad-content">
         <span className="ad-badge">AD</span>
-        <p>전세계 1위 일본어 학습 앱, <b>한자 마스터 PRO</b>로 광고 없이 공부하세요! 💎</p>
+        <p><b>한자 마스터 PRO</b>로 광고 없이 쾌적하게 공부하세요! 💎</p>
       </div>
-      <button className="ad-action-btn" onClick={() => setShowAuth(true)}>광고 제거</button>
+      <button className="ad-action-btn" onClick={() => setShowAuth(true)}>PRO 가입</button>
     </div>
   )
-  // --- Sakura Particle Component ---
   const SakuraParticles = () => (
     <div className="sakura-container">
       {Array.from({ length: 15 }).map((_, i) => (
@@ -541,7 +511,7 @@ export default function App() {
                 <div className="header-row">
                   <div className="welcome-text">
                     <h1>ようこそ! 🌸 환영합니다</h1>
-                    <p>{isGuest ? 'N5 기초 한자를 무료로 학습해 보세요.' : '모든 JLPT 단계를 자유롭게 학습하실 수 있습니다.'}</p>
+                    <p>{isGuest ? 'N5부터 N1까지, 광고와 함께 무료로 학습해 보세요!' : 'PRO 회원님, 모든 단계를 광고 없이 즐겨보세요! ✨'}</p>
                   </div>
                   <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
                     <Bell size={24} color="#94A3B8" />
@@ -592,15 +562,34 @@ export default function App() {
 
                 <div className="jlpt-attainment">
                   <h3>학습 진척도</h3>
-                  <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem' }}>
-                    <div className="progress-item">
-                      <div className="progress-header"><span>N5 한자</span><span>{Math.round((memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N5').length / typedKanjiData.filter(k => k.category === 'N5').length) * 100)}%</span></div>
-                      <div className="progress-bar-bg"><div className="progress-bar-fill" style={{ width: `${(memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N5').length / typedKanjiData.filter(k => k.category === 'N5').length) * 100}%`, transition: 'width 0.5s' }}></div></div>
-                    </div>
-                    <div className="progress-item">
-                      <div className="progress-header"><span>N4 한자</span><span>{Math.round((memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N4').length / Math.max(1, typedKanjiData.filter(k => k.category === 'N4').length)) * 100)}%</span></div>
-                      <div className="progress-bar-bg"><div className="progress-bar-fill" style={{ width: `${(memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === 'N4').length / Math.max(1, typedKanjiData.filter(k => k.category === 'N4').length)) * 100}%`, transition: 'width 0.5s', background: 'var(--japan-gold)' }}></div></div>
-                    </div>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1.2rem' }}>
+                    {['N5', 'N4', 'N3', 'N2', 'N1'].map(level => {
+                      const totalInLevel = typedKanjiData.filter(k => k.category === level).length;
+                      const memorizedInLevel = memorizedIds.filter(id => typedKanjiData.find(k => k.id === id)?.category === level).length;
+                      const progress = totalInLevel > 0 ? Math.round((memorizedInLevel / totalInLevel) * 100) : 0;
+                      return (
+                        <div key={level} className="progress-item">
+                          <div className="progress-header">
+                            <span>{level} 한자</span>
+                            <span>{progress}%</span>
+                          </div>
+                          <div className="progress-bar-bg">
+                            <div
+                              className="progress-bar-fill"
+                              style={{
+                                width: `${progress}%`,
+                                transition: 'width 0.8s ease-out',
+                                background: level === 'N5' ? 'var(--japan-crimson)' :
+                                  level === 'N4' ? 'var(--japan-gold)' :
+                                    level === 'N3' ? 'var(--japan-indigo)' :
+                                      level === 'N2' ? 'var(--japan-vermilion)' :
+                                        '#334155'
+                              }}
+                            ></div>
+                          </div>
+                        </div>
+                      );
+                    })}
                   </div>
                 </div>
 
@@ -610,7 +599,13 @@ export default function App() {
                     <span style={{ fontSize: '0.8rem', color: 'var(--japan-gold)', cursor: 'pointer', fontWeight: 700 }} onClick={() => setActiveTab('library')}>전체보기</span>
                   </div>
                   <div className="recent-grid">
-                    {[...typedKanjiData.filter(k => k.category === 'N5').slice(0, 3), ...typedKanjiData.filter(k => k.category === 'N4').slice(0, 3)].map(k => (
+                    {[
+                      ...typedKanjiData.filter(k => k.category === 'N5').slice(0, 2),
+                      ...typedKanjiData.filter(k => k.category === 'N4').slice(0, 2),
+                      ...typedKanjiData.filter(k => k.category === 'N3').slice(0, 2),
+                      ...typedKanjiData.filter(k => k.category === 'N2').slice(0, 1),
+                      ...typedKanjiData.filter(k => k.category === 'N1').slice(0, 1)
+                    ].map(k => (
                       <motion.div
                         key={k.id}
                         className="recent-item"
@@ -1016,44 +1011,11 @@ export default function App() {
         {isGuest && <AdBanner />}
 
         <AnimatePresence>
-          {isWritingMode && selectedKanji && (
-            <WritingBoard kanji={selectedKanji} onClose={() => setIsWritingMode(false)} />
-          )}
-        </AnimatePresence>
-
-        <AnimatePresence>
           {showAuth && (
             <AuthScreen />
           )}
-        </AnimatePresence>
-
-        <AnimatePresence>
-          {showPremiumModal && (
-            <div className="premium-modal-overlay">
-              <motion.div
-                className="premium-modal-card"
-                initial={{ opacity: 0, scale: 0.9, y: 20 }}
-                animate={{ opacity: 1, scale: 1, y: 0 }}
-                exit={{ opacity: 0, scale: 0.9, y: 20 }}
-              >
-                <div className="premium-icon-badge">PRO</div>
-                <h2>어머, 이건 PRO 전용이에요! 💎</h2>
-                <p>현재 N5 단계는 무료로 제공되지만, <br /><strong>N4 ~ N1 단계</strong> 학습은 로그인이 필요합니다.</p>
-
-                <div className="premium-benefit-list">
-                  <div className="benefit-item">✨ 모든 JLPT 레벨(N1-N5) 무제한 이용</div>
-                  <div className="benefit-item">📊 학습 데이터 평생 보관 및 동기화</div>
-                  <div className="benefit-item">🚫 거추장스러운 광고 완전 제거</div>
-                </div>
-
-                <button className="btn-primary" style={{ width: '100%', padding: '1.2rem', marginTop: '1.5rem' }} onClick={() => { setShowPremiumModal(false); setIsLoggedIn(false); setIsGuest(false); }}>
-                  지금 가입하고 혜택 받기
-                </button>
-                <button className="btn-secondary" style={{ width: '100%', marginTop: '0.8rem', border: 'none' }} onClick={() => setShowPremiumModal(false)}>
-                  나중에 할게요
-                </button>
-              </motion.div>
-            </div>
+          {isWritingMode && selectedKanji && (
+            <WritingBoard kanji={selectedKanji} onClose={() => setIsWritingMode(false)} />
           )}
         </AnimatePresence>
       </div>

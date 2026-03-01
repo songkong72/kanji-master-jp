@@ -724,6 +724,33 @@ body {
   box-shadow: 0 2px 10px rgba(212, 175, 55, 0.3);
 }
 
+/* Count Badges */
+.filter-count {
+  font-size: 0.65rem;
+  font-weight: 500;
+  opacity: 0.7;
+  margin-left: 2px;
+}
+
+.subcategory-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 4px;
+  margin-left: 4px;
+  border-radius: 9px;
+  background: rgba(255, 255, 255, 0.15);
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.subcategory-tab.active .subcategory-count {
+  background: rgba(255, 255, 255, 0.3);
+}
+
 @media (max-width: 480px) {
   .filter-tab {
     font-size: 0.75rem;

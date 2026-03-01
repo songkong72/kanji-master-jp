@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "kanji": "日",
+        "meaning": "날 일",
+        "on_reading": "ニチ, ジツ",
+        "kun_reading": "ひ, -비, -か",
+        "category": "N5",
+        "explanation": "창문 사이로 비치는 따뜻한 햇살을 떠올려 보세요! ☀️",
+        "mnemonic_image": "/images/mnemonics/hi.png",
+        "stroke_image": "/images/mnemonics/hi_stroke.png",
+        "examples": [
+            {
+                "word": "日本",
+                "mean": "일본",
+                "reading": "にほん"
+            },
+            {
+                "word": "毎日",
+                "mean": "매일",
+                "reading": "まいにち"
+            }
+        ],
+        "on_sentence": {
+            "text": "[日本](にほん)に[行](い)きます。",
+            "mean": "일본에 갑니다."
+        },
+        "kun_sentence": {
+            "text": "[日](ひ)がのぼります。",
+            "mean": "해가 뜹니다."
+        }
+    },
+    {
+        "id": 2,
+        "kanji": "一",
+        "meaning": "한 일",
+        "on_reading": "イチ, イツ",
+        "kun_reading": "ひと, ひと(つ)",
+        "category": "N5",
+        "explanation": "가로로 놓인 길쭉한 나무 막대기 하나! 🪵",
+        "mnemonic_image": "/images/mnemonics/ichi.png",
+        "stroke_image": "/images/mnemonics/ichi_stroke.png",
+        "examples": [
+            {
+                "word": "一つ",
+                "mean": "하나",
+                "reading": "ひとつ"
+            },
+            {
+                "word": "一人",
+                "mean": "한 사람",
+                "reading": "ひとり"
+            }
+        ],
+        "on_sentence": {
+            "text": "[一分](いっぷん)[待](ま)ってください。",
+            "mean": "1분만 기다려 주세요."
+        },
+        "kun_sentence": {
+            "text": "リンゴを[一つ](ひとつ)[食](た)べます。",
+            "mean": "사과를 한 개 먹습니다."
+        }
+    },
+    {
+        "id": 3,
+        "kanji": "二",
+        "meaning": "두 이",
+        "on_reading": "ニ",
+        "kun_reading": "후타, 후타(つ)",
+        "category": "N5",
+        "explanation": "'二'(두 이)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "二つ",
+                "mean": "둘",
+                "reading": "ふたつ"
+            },
+            {
+                "word": "二人",
+                "mean": "두 사람",
+                "reading": "ふたり"
+            }
+        ],
+        "on_sentence": {
+            "text": "[二月](에がつ)은[寒](さむ)いです。",
+            "mean": "2월은 춥습니다."
+        },
+        "kun_sentence": {
+            "text": "[二人](ふたり)で[遊](아소)びます。",
+            "mean": "둘이서 놉니다."
+        }
+    },
+    {
+        "id": 4,
+        "kanji": "三",
+        "meaning": "석 삼",
+        "on_reading": "サン",
+        "kun_reading": "미, 미(つ)",
+        "category": "N5",
+        "explanation": "'三'(석 삼)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "三つ",
+                "mean": "셋",
+                "reading": "みっつ"
+            },
+            {
+                "word": "三日",
+                "mean": "3일",
+                "reading": "みっか"
+            }
+        ],
+        "on_sentence": {
+            "text": "三月になりました。",
+            "mean": "3월이 되었습니다."
+        },
+        "kun_sentence": {
+            "text": "三つください。",
+            "mean": "세 개 주세요."
+        }
+    },
+    {
+        "id": 5,
+        "kanji": "四",
+        "meaning": "넉 사",
+        "on_reading": "シ",
+        "kun_reading": "よ, よ(つ), よん",
+        "category": "N5",
+        "explanation": "'四'(넉 사)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "四つ",
+                "mean": "넷",
+                "reading": "よっつ"
+            },
+            {
+                "word": "四日",
+                "mean": "4일",
+                "reading": "よっか"
+            }
+        ],
+        "on_sentence": {
+            "text": "四季があります。",
+            "mean": "사계절이 있습니다."
+        },
+        "kun_sentence": {
+            "text": "リンゴが四つあります。",
+            "mean": "사과가 네 개 있습니다."
+        }
+    },
+    {
+        "id": 6,
+        "kanji": "五",
+        "meaning": "다섯 오",
+        "on_reading": "ゴ",
+        "kun_reading": "いつ, いつ(つ)",
+        "category": "N5",
+        "explanation": "'五'(다섯 오)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "五개",
+                "mean": "다섯"
+            },
+            {
+                "word": "五일",
+                "mean": "5일"
+            }
+        ],
+        "on_sentence": {
+            "text": "五分休みましょう。",
+            "mean": "5분 쉽시다."
+        },
+        "kun_sentence": {
+            "text": "卵を五つ買いました。",
+            "mean": "달걀을 다섯 개 샀습니다."
+        }
+    },
+    {
+        "id": 7,
+        "kanji": "六",
+        "meaning": "여섯 륙",
+        "on_reading": "ロク",
+        "kun_reading": "む, む(つ)",
+        "category": "N5",
+        "explanation": "'六'(여섯 륙)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "六つ",
+                "mean": "여섯",
+                "reading": "むっつ"
+            },
+            {
+                "word": "六日",
+                "mean": "6일",
+                "reading": "むいか"
+            }
+        ],
+        "on_sentence": {
+            "text": "六時に起きます。",
+            "mean": "6시에 일어납니다."
+        },
+        "kun_sentence": {
+            "text": "コップが六つあります。",
+            "mean": "컵이 여섯 개 있습니다."
+        }
+    },
+    {
+        "id": 8,
+        "kanji": "七",
+        "meaning": "일곱 칠",
+        "on_reading": "シ치",
+        "kun_reading": "나나, 나나(つ)",
+        "category": "N5",
+        "explanation": "'七'(일곱 칠)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "七つ",
+                "mean": "일곱",
+                "reading": "ななつ"
+            },
+            {
+                "word": "七日",
+                "mean": "7일",
+                "reading": "なのか"
+            }
+        ],
+        "on_sentence": {
+            "text": "七月に帰ります。",
+            "mean": "7월에 돌아갑니다."
+        },
+        "kun_sentence": {
+            "text": "七つの海。",
+            "mean": "일곱 개의 바다."
+        }
+    },
+    {
+        "id": 9,
+        "kanji": "八",
+        "meaning": "여덟 팔",
+        "on_reading": "ハチ",
+        "kun_reading": "야, 야(つ)",
+        "category": "N5",
+        "explanation": "'八'(여덟 팔)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "八つ",
+                "mean": "여덟",
+                "reading": "やっつ"
+            },
+            {
+                "word": "八일",
+                "mean": "8일"
+            }
+        ],
+        "on_sentence": {
+            "text": "八階へ行きます。",
+            "mean": "8층으로 갑니다."
+        },
+        "kun_sentence": {
+            "text": "八つの果物。",
+            "mean": "여덟 개의 과일."
+        }
+    },
+    {
+        "id": 10,
+        "kanji": "九",
+        "meaning": "아홉 구",
+        "on_reading": "キュウ, ク",
+        "kun_reading": "코코노, 코코노(つ)",
+        "category": "N5",
+        "explanation": "'九'(아홉 구)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "九つ",
+                "mean": "아홉",
+                "reading": "ここのつ"
+            },
+            {
+                "word": "九일",
+                "mean": "9일"
+            }
+        ],
+        "on_sentence": {
+            "text": "九月は長いです。",
+            "mean": "9월은 깁니다."
+        },
+        "kun_sentence": {
+            "text": "九つの星。",
+            "mean": "아홉 개의 별."
+        }
+    },
+    {
+        "id": 11,
+        "kanji": "十",
+        "meaning": "열 십",
+        "on_reading": "ジュウ",
+        "kun_reading": "とお, と",
+        "category": "N5",
+        "explanation": "'十'(열 십)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "十",
+                "mean": "열",
+                "reading": "じゅう"
+            },
+            {
+                "word": "十日",
+                "mean": "10일",
+                "reading": "とおか"
+            }
+        ],
+        "on_sentence": {
+            "text": "十時に寝ます。",
+            "mean": "10시에 잡니다."
+        },
+        "kun_sentence": {
+            "text": "十日も休みました。",
+            "mean": "열흘이나 쉬었습니다."
+        }
+    },
+    {
+        "id": 12,
+        "kanji": "百",
+        "meaning": "일백 백",
+        "on_reading": "ヒャク",
+        "kun_reading": "もも",
+        "category": "N5",
+        "explanation": "'百'(일백 백)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "三百",
+                "mean": "삼백",
+                "reading": "さんびゃく"
+            }
+        ],
+        "on_sentence": {
+            "text": "これは三百円です。",
+            "mean": "이것은 300엔입니다."
+        },
+        "kun_sentence": {
+            "text": "百も承知です。",
+            "mean": "백 번 알고 있습니다 (충분히 압니다)."
+        }
+    },
+    {
+        "id": 13,
+        "kanji": "千",
+        "meaning": "일천 천",
+        "on_reading": "セン",
+        "kun_reading": "ち",
+        "category": "N5",
+        "explanation": "'千'(일천 천)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "千円",
+                "mean": "천 엔",
+                "reading": "せんえん"
+            }
+        ],
+        "on_sentence": {
+            "text": "二千円貸してください。",
+            "mean": "2천 엔 빌려주세요."
+        },
+        "kun_sentence": {
+            "text": "千の風になって。",
+            "mean": "친의 바람이 되어."
+        }
+    },
+    {
+        "id": 14,
+        "kanji": "万",
+        "meaning": "일만 만",
+        "on_reading": "マン",
+        "kun_reading": "よろず",
+        "category": "N5",
+        "explanation": "'万'(일만 만)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "一万円",
+                "mean": "만 엔",
+                "reading": "いちまんえん"
+            }
+        ],
+        "on_sentence": {
+            "text": "一万円札。",
+            "mean": "만 엔권 지폐."
+        },
+        "kun_sentence": {
+            "text": "八百万の神。",
+            "mean": "팔백만(수많은) 신들."
+        }
+    },
+    {
+        "id": 15,
+        "kanji": "円",
+        "meaning": "둥글 원",
+        "on_reading": "エン",
+        "kun_reading": "まる(い)",
+        "category": "N5",
+        "explanation": "'円'(둥글 원)은(는) N5 필수 한자입니다.",
+        "examples": [
+            {
+                "word": "円い",
+                "mean": "둥글다",
+                "reading": "まるい"
+            },
+            {
+                "word": "百円",
+                "mean": "백 엔",
+                "reading": "ひゃくえん"
+            }
+        ],
+        "on_sentence": {
+            "text": "円を描きます。",
+            "mean": "원을 그립니다."
+        },
+        "kun_sentence": {
+            "text": "円いテーブル。",
+            "mean": "둥근 테이블."
+        }
+    }
+]

@@ -632,21 +632,33 @@ body {
 /* Category Filter */
 .category-filter {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1.5rem;
+  flex-direction: column;
+  gap: 1.25rem;
   margin-bottom: 2.5rem;
-  padding: 0.5rem;
+  padding: 1.25rem;
   background: rgba(15, 23, 42, 0.4);
   border-radius: 20px;
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
-.filter-group,
+.filter-group {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.filter-group::-webkit-scrollbar {
+  display: none;
+}
+
 .filter-group-special {
   display: flex;
   gap: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .filter-chip {

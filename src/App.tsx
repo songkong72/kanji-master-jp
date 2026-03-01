@@ -37,13 +37,14 @@ interface Kanji {
 
 const typedKanjiData = kanjiData as Kanji[]
 
-const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQuizScore, handleLogout }: {
+const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQuizScore, handleLogout, setSelectedCategory }: {
   activeTab: string
   setActiveTab: (tab: string) => void
   setSelectedKanji: (kanji: Kanji | null) => void
   setQuizIndex: (idx: number) => void
   setQuizScore: (score: number) => void
   handleLogout?: () => void
+  setSelectedCategory: (cat: string) => void
 }) => (
   <div className="sidebar">
     <div className="logo" onClick={() => setActiveTab('home')}>
@@ -55,9 +56,13 @@ const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQ
         <Home size={20} />
         <span>홈</span>
       </div>
-      <div className={`nav-link ${activeTab === 'library' || activeTab === 'detail' ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedKanji(null); }}>
+      <div className={`nav-link ${activeTab === 'library' && (window as any).selectedCategory !== 'Bookmarks' ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('All'); setSelectedKanji(null); }}>
         <BookOpen size={20} />
         <span>한자 사전</span>
+      </div>
+      <div className={`nav-link ${activeTab === 'library' && (window as any).selectedCategory === 'Bookmarks' ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('Bookmarks'); setSelectedKanji(null); }}>
+        <Bookmark size={20} />
+        <span>북마크 한자</span>
       </div>
       <div className={`nav-link ${activeTab === 'quiz' ? 'active' : ''}`} onClick={() => { setActiveTab('quiz'); setQuizIndex(0); setQuizScore(0); }}>
         <GraduationCap size={20} />
@@ -524,6 +529,7 @@ export default function App() {
           setQuizIndex={setQuizIndex}
           setQuizScore={setQuizScore}
           handleLogout={isLoggedIn ? handleLogout : undefined}
+          setSelectedCategory={setSelectedCategory}
         />
 
         <main className="main-content">
@@ -599,7 +605,7 @@ export default function App() {
                 <div className="recent-study" style={{ marginTop: '2.5rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
                     <h3>최근 본 한자</h3>
-                    <span style={{ fontSize: '0.8rem', color: 'var(--japan-gold)', cursor: 'pointer', fontWeight: 700 }}>전체보기</span>
+                    <span style={{ fontSize: '0.8rem', color: 'var(--japan-gold)', cursor: 'pointer', fontWeight: 700 }} onClick={() => setActiveTab('library')}>전체보기</span>
                   </div>
                   <div className="recent-grid">
                     {typedKanjiData.slice(0, 6).map(k => (
@@ -618,6 +624,39 @@ export default function App() {
                       </motion.div>
                     ))}
                   </div>
+                </div>
+
+                <div className="bookmark-section" style={{ marginTop: '2.5rem', paddingBottom: '2rem' }}>
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
+                    <h3>나의 북마크 🔖</h3>
+                    <span
+                      style={{ fontSize: '0.8rem', color: 'var(--japan-vermilion)', cursor: 'pointer', fontWeight: 700 }}
+                      onClick={() => { setActiveTab('library'); setSelectedCategory('Bookmarks'); }}
+                    >
+                      모두 보기
+                    </span>
+                  </div>
+                  {bookmarkedIds.length > 0 ? (
+                    <div className="recent-grid">
+                      {typedKanjiData.filter(k => bookmarkedIds.includes(k.id)).slice(0, 6).map(k => (
+                        <motion.div
+                          key={k.id}
+                          className="recent-item"
+                          onClick={() => goToDetail(k)}
+                          whileHover={{ y: -5 }}
+                          style={{ borderColor: 'rgba(188, 54, 45, 0.2)' }}
+                        >
+                          <div className="recent-kanji" style={{ color: 'var(--japan-vermilion)' }}>{k.kanji}</div>
+                          <div className="recent-meaning">{k.meaning.split(' ')[1]}</div>
+                          <Bookmark size={12} color="var(--japan-vermilion)" fill="var(--japan-vermilion)" style={{ position: 'absolute', top: 5, right: 5 }} />
+                        </motion.div>
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="card" style={{ padding: '2rem', textAlign: 'center', background: 'rgba(255, 255, 255, 0.02)', border: '1px dashed var(--border-color)' }}>
+                      <p style={{ color: '#94A3B8', fontSize: '0.9rem' }}>아직 북마크한 한자가 없어요. <br /> 다시 외우고 싶은 한자에 리본 🔖 아이콘을 눌러보세요!</p>
+                    </div>
+                  )}
                 </div>
               </motion.div>
             )}

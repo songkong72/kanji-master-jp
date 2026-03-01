@@ -33,6 +33,7 @@ interface Kanji {
   kun_sentence?: KanjiSentence
   mnemonic_image?: string
   stroke_image?: string
+  subcategory?: string
 }
 
 const typedKanjiData = kanjiData as Kanji[]
@@ -122,6 +123,7 @@ export default function App() {
   const [selectedKanji, setSelectedKanji] = useState<Kanji | null>(null)
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedCategory, setSelectedCategory] = useState('All')
+  const [selectedSubcategory, setSelectedSubcategory] = useState('전체')
   const [isLoggedIn, setIsLoggedIn] = useState(false)
   const [isGuest, setIsGuest] = useState(true)
   const [showAuth, setShowAuth] = useState(false)
@@ -169,9 +171,11 @@ export default function App() {
       if (selectedCategory === 'Bookmarks') return matchesSearch && bookmarkedIds.includes(item.id)
       if (selectedCategory === 'Completed') return matchesSearch && memorizedIds.includes(item.id)
 
-      return matchesSearch && item.category === selectedCategory
+      const matchesCategory = item.category === selectedCategory
+      if (selectedSubcategory === '전체') return matchesSearch && matchesCategory
+      return matchesSearch && matchesCategory && item.subcategory === selectedSubcategory
     })
-  }, [searchQuery, selectedCategory, bookmarkedIds, memorizedIds])
+  }, [searchQuery, selectedCategory, selectedSubcategory, bookmarkedIds, memorizedIds])
 
   // Navigation
   const goToDetail = (kanji: Kanji) => {
@@ -687,7 +691,7 @@ export default function App() {
                     <motion.button
                       key={cat}
                       className={`filter-tab ${selectedCategory === cat ? 'active' : ''}`}
-                      onClick={() => setSelectedCategory(cat)}
+                      onClick={() => { setSelectedCategory(cat); setSelectedSubcategory('전체'); }}
                       whileTap={{ scale: 0.95 }}
                       style={{ position: 'relative' }}
                     >
@@ -702,6 +706,34 @@ export default function App() {
                     </motion.button>
                   ))}
                 </div>
+
+                {selectedCategory === 'N5' && (
+                  <motion.div
+                    className="subcategory-filter"
+                    initial={{ opacity: 0, y: -10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: -10 }}
+                  >
+                    {['전체', '숫자·수량', '시간·달력', '자연·날씨', '사람·가족', '인체', '위치·방향', '크기·형용', '학교·학습', '동작·이동', '사회·장소'].map(sub => (
+                      <button
+                        key={sub}
+                        className={`subcategory-tab ${selectedSubcategory === sub ? 'active' : ''}`}
+                        onClick={() => setSelectedSubcategory(sub)}
+                      >
+                        {sub === '숫자·수량' ? '🔢 숫자' :
+                          sub === '시간·달력' ? '🕐 시간' :
+                            sub === '자연·날씨' ? '🌿 자연' :
+                              sub === '사람·가족' ? '👨‍👩‍👧 가족' :
+                                sub === '인체' ? '🫀 인체' :
+                                  sub === '위치·방향' ? '🧭 위치' :
+                                    sub === '크기·형용' ? '📐 형용' :
+                                      sub === '학교·학습' ? '📚 학습' :
+                                        sub === '동작·이동' ? '🏃 동작' :
+                                          sub === '사회·장소' ? '🏢 사회' : sub}
+                      </button>
+                    ))}
+                  </motion.div>
+                )}
 
                 <div className="kanji-grid">
                   {filteredKanji.map(k => (

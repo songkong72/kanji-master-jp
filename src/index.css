@@ -672,6 +672,58 @@ body {
   z-index: 1;
 }
 
+/* Subcategory Filter */
+.subcategory-filter {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.1) transparent;
+  -webkit-overflow-scrolling: touch;
+}
+
+.subcategory-filter::-webkit-scrollbar {
+  height: 3px;
+}
+
+.subcategory-filter::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.subcategory-filter::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+.subcategory-tab {
+  flex-shrink: 0;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(15, 23, 42, 0.5);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.subcategory-tab:hover {
+  background: rgba(59, 130, 246, 0.15);
+  color: var(--primary-blue);
+  border-color: rgba(59, 130, 246, 0.3);
+}
+
+.subcategory-tab.active {
+  background: var(--japan-gold);
+  color: white;
+  border-color: var(--japan-gold);
+  box-shadow: 0 2px 10px rgba(212, 175, 55, 0.3);
+}
+
 @media (max-width: 480px) {
   .filter-tab {
     font-size: 0.75rem;

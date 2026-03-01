@@ -697,20 +697,6 @@ export default function App() {
                       </button>
                     ))}
                   </div>
-                  <div className="filter-group-special">
-                    <button
-                      className={`filter-chip special bookmark ${selectedCategory === 'Bookmarks' ? 'active' : ''}`}
-                      onClick={() => setSelectedCategory('Bookmarks')}
-                    >
-                      <Bookmark size={14} /> 즐겨찾기
-                    </button>
-                    <button
-                      className={`filter-chip special completed ${selectedCategory === 'Completed' ? 'active' : ''}`}
-                      onClick={() => setSelectedCategory('Completed')}
-                    >
-                      <Medal size={14} /> 학습 완료
-                    </button>
-                  </div>
                 </div>
 
                 <div className="kanji-grid">

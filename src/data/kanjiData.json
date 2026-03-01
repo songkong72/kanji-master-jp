@@ -2782,5 +2782,875 @@
             "text": "足",
             "mean": "발 족"
         }
+    },
+    {
+        "kanji": "不",
+        "meaning": "아니 불",
+        "on_reading": "フ/ブ",
+        "kun_reading": "-",
+        "category": "N4",
+        "explanation": "땅속에서 씨앗이 나오지 못한 모습이나, 새가 하늘로 날아가는 것을 반대로 뒤집은 모양이에요. '아니다'라는 뜻을 가져요.",
+        "examples": [
+            {
+                "word": "不便",
+                "mean": "불편",
+                "reading": "ふべん"
+            },
+            {
+                "word": "不足",
+                "mean": "부족",
+                "reading": "ふそく"
+            }
+        ],
+        "on_sentence": {
+            "text": "[不便](ふべん)を感じる。",
+            "mean": "불편을 느끼다."
+        },
+        "kun_sentence": {
+            "text": "[不足](ふそく)している。",
+            "mean": "부족하고 있다."
+        },
+        "id": 117
+    },
+    {
+        "kanji": "世",
+        "meaning": "세상 세",
+        "on_reading": "セイ/セ",
+        "kun_reading": "よ",
+        "category": "N4",
+        "explanation": "나뭇가지가 옆으로 계속 뻗어 나가는 모습이나, 십(十)을 세 번 합친 꼴로 30년(한 세대)을 의미해요.",
+        "examples": [
+            {
+                "word": "世界",
+                "mean": "세계",
+                "reading": "せかい"
+            },
+            {
+                "word": "世話",
+                "mean": "보살핌",
+                "reading": "せわ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[世界](せかい)を旅する。",
+            "mean": "세계를 여행하다."
+        },
+        "kun_sentence": {
+            "text": "[世](よ)の中。",
+            "mean": "세상 속(세상)."
+        },
+        "id": 118
+    },
+    {
+        "kanji": "主",
+        "meaning": "주인 주",
+        "on_reading": "シュ",
+        "kun_reading": "ぬし",
+        "category": "N4",
+        "explanation": "등잔대 위에 불꽃(丶)이 타오르는 중심이 되는 곳! 집안이나 나라의 중심인 주인을 뜻해요.",
+        "examples": [
+            {
+                "word": "主人",
+                "mean": "주인/남편",
+                "reading": "しゅじん"
+            },
+            {
+                "word": "中心",
+                "mean": "중심",
+                "reading": "ちゅうしん"
+            }
+        ],
+        "on_sentence": {
+            "text": "[主人](しゅじん)と呼ぶ。",
+            "mean": "주인이라 부르다."
+        },
+        "kun_sentence": {
+            "text": "持ち[主](ぬし)。",
+            "mean": "임자(가지고 있는 사람)."
+        },
+        "id": 119
+    },
+    {
+        "kanji": "乗",
+        "meaning": "탈 승",
+        "on_reading": "ジョウ",
+        "kun_reading": "の.る",
+        "category": "N4",
+        "explanation": "나무(木) 위에 사람이 올라타 있는 모습이에요! 차나 말에 올라타는 행위를 말해요.",
+        "examples": [
+            {
+                "word": "乗車",
+                "mean": "승차",
+                "reading": "じょうしゃ"
+            },
+            {
+                "word": "乗り物",
+                "mean": "탈것",
+                "reading": "のりもの"
+            }
+        ],
+        "on_sentence": {
+            "text": "[乗車](じょうしゃ)券を買う。",
+            "mean": "승차권을 사다."
+        },
+        "kun_sentence": {
+            "text": "バスに[乗](の)る。",
+            "mean": "버스를 타다."
+        },
+        "id": 120
+    },
+    {
+        "kanji": "事",
+        "meaning": "일 사",
+        "on_reading": "ジ",
+        "kun_reading": "こと",
+        "category": "N4",
+        "explanation": "깃발을 손으로 잡고 제사를 지내는 모습에서, 나랏일이나 개인적인 일을 정성껏 처리함을 뜻해요.",
+        "examples": [
+            {
+                "word": "仕事",
+                "mean": "일(공부/직업)",
+                "reading": "しごと"
+            },
+            {
+                "word": "大事",
+                "mean": "중요함",
+                "reading": "だいじ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[仕事](しごと)を始める。",
+            "mean": "일을 시작하다."
+        },
+        "kun_sentence": {
+            "text": "いい[事](こと)がある。",
+            "mean": "좋은 일이 있다."
+        },
+        "id": 121
+    },
+    {
+        "kanji": "京",
+        "meaning": "서울 경",
+        "on_reading": "キョウ/ケイ",
+        "kun_reading": "-",
+        "category": "N4",
+        "explanation": "높은 언덕 위에 세워진 웅장한 누각 모양이에요. 왕이 사는 화려한 서울을 뜻해요.",
+        "examples": [
+            {
+                "word": "東京",
+                "mean": "도쿄",
+                "reading": "とうきょう"
+            },
+            {
+                "word": "京都",
+                "mean": "교토",
+                "reading": "きょうと"
+            }
+        ],
+        "on_sentence": {
+            "text": "[東京](とうきょう)へ行く。",
+            "mean": "도쿄에 가다."
+        },
+        "kun_sentence": {
+            "text": "[京都](きょうと)の寺。",
+            "mean": "교토의 절."
+        },
+        "id": 122
+    },
+    {
+        "kanji": "仕",
+        "meaning": "섬길 사",
+        "on_reading": "シ",
+        "kun_reading": "つか.える",
+        "category": "N4",
+        "explanation": "사람(亻)이 선비(士)나 주인 옆에서 정성껏 도와주고 섬기는 모습이에요.",
+        "examples": [
+            {
+                "word": "仕様",
+                "mean": "방식/시양",
+                "reading": "しよう"
+            },
+            {
+                "word": "仕える",
+                "mean": "섬기다",
+                "reading": "つかえる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[仕様](しよう)がない。",
+            "mean": "어쩔 수 없다."
+        },
+        "kun_sentence": {
+            "text": "神에 [仕](つか)える。",
+            "mean": "신을 섬기다."
+        },
+        "id": 123
+    },
+    {
+        "kanji": "代",
+        "meaning": "대신할 대",
+        "on_reading": "ダイ/タイ",
+        "kun_reading": "か.わる",
+        "category": "N4",
+        "explanation": "사람(亻)이 주살(弋 - 줄 달린 화살)을 들고 대신 번초를 서거나 세대가 바뀌는 것을 의미해요.",
+        "examples": [
+            {
+                "word": "時代",
+                "mean": "시대",
+                "reading": "じだい"
+            },
+            {
+                "word": "代わりに",
+                "mean": "대신에",
+                "reading": "かわりに"
+            }
+        ],
+        "on_sentence": {
+            "text": "いい[時代](じだい)だ。",
+            "mean": "좋은 시대다."
+        },
+        "kun_sentence": {
+            "text": "[代](か)わりに食べる。",
+            "mean": "대신 먹다."
+        },
+        "id": 124
+    },
+    {
+        "kanji": "以",
+        "meaning": "써 이",
+        "on_reading": "イ",
+        "kun_reading": "-",
+        "category": "N4",
+        "explanation": "물건을 쟁기로 가는 모습이나 기준(人)을 두고 그곳으로부터(以) 시작함을 뜻해요.",
+        "examples": [
+            {
+                "word": "以上",
+                "mean": "이상",
+                "reading": "いじょう"
+            },
+            {
+                "word": "以前",
+                "mean": "이전",
+                "reading": "いぜん"
+            }
+        ],
+        "on_sentence": {
+            "text": "これ[以上](いじょう)無理だ。",
+            "mean": "이 이상 무리다."
+        },
+        "kun_sentence": {
+            "text": "[以前](いぜん)に会った。",
+            "mean": "이전에 만났다."
+        },
+        "id": 125
+    },
+    {
+        "kanji": "低",
+        "meaning": "낮을 저",
+        "on_reading": "テイ",
+        "kun_reading": "ひく.い",
+        "category": "N4",
+        "explanation": "사람(亻)이 땅 밑(底)으로 몸을 구부려 높이가 낮은 곳에 있는 모습이에요.",
+        "examples": [
+            {
+                "word": "最低",
+                "mean": "최저/최악",
+                "reading": "さいてい"
+            },
+            {
+                "word": "低い",
+                "mean": "낮다",
+                "reading": "ひくい"
+            }
+        ],
+        "on_sentence": {
+            "text": "[最低](さいてい)の成績。",
+            "mean": "최저의 성적."
+        },
+        "kun_sentence": {
+            "text": "背が[低](ひく)い。",
+            "mean": "키가 낮다(작다)."
+        },
+        "id": 126
+    },
+    {
+        "kanji": "使",
+        "meaning": "부릴 사",
+        "on_reading": "シ",
+        "kun_reading": "つか.う",
+        "category": "N4",
+        "explanation": "사람(亻)이 관리나 심부름꾼(吏)에게 일을 시켜서 도구 등을 사용하게 하는 모습이에요.",
+        "examples": [
+            {
+                "word": "大使",
+                "mean": "대사",
+                "reading": "たいし"
+            },
+            {
+                "word": "使う",
+                "mean": "사용하다",
+                "reading": "つかう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[大使](たいし)館へ行く。",
+            "mean": "대사관에 가다."
+        },
+        "kun_sentence": {
+            "text": "ペンを[使](つか)う。",
+            "mean": "펜을 쓰다."
+        },
+        "id": 127
+    },
+    {
+        "kanji": "便",
+        "meaning": "편할 편",
+        "on_reading": "ベン/ビン",
+        "kun_reading": "たよ.り",
+        "category": "N4",
+        "explanation": "사람(亻)이 물건을 고쳐(更) 쓰기 편하게 만든 모습이나, 소식을 전하는 편지를 뜻해요.",
+        "examples": [
+            {
+                "word": "便利",
+                "mean": "편리",
+                "reading": "べんり"
+            },
+            {
+                "word": "便り",
+                "mean": "편지/소식",
+                "reading": "たより"
+            }
+        ],
+        "on_sentence": {
+            "text": "とても[便利](べんり)だ。",
+            "mean": "매우 편리하다."
+        },
+        "kun_sentence": {
+            "text": "[便](たよ)りが届く。",
+            "mean": "소식이 닿다."
+        },
+        "id": 128
+    },
+    {
+        "kanji": "借",
+        "meaning": "빌릴 차",
+        "on_reading": "シャク/シャッ",
+        "kun_reading": "か.りる",
+        "category": "N4",
+        "explanation": "사람(亻)들이 모인 자리(昔 - 옛날/자리)에서 돈이나 물건을 서로 빌려주는 모습이에요.",
+        "examples": [
+            {
+                "word": "借金",
+                "mean": "빚",
+                "reading": "しゃっきん"
+            },
+            {
+                "word": "借りる",
+                "mean": "빌리다",
+                "reading": "かりる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[借金](しゃっきん)を返す。",
+            "mean": "빚을 갚다."
+        },
+        "kun_sentence": {
+            "text": "本を[借](か)りる。",
+            "mean": "책을 빌리다."
+        },
+        "id": 129
+    },
+    {
+        "kanji": "貸",
+        "meaning": "빌려줄 대",
+        "on_reading": "タイ",
+        "kun_reading": "か.す",
+        "category": "N4",
+        "explanation": "돈(貝)을 다른 사람(代 - 교대인)에게 건네주고 빌려주는 모습이에요.",
+        "examples": [
+            {
+                "word": "貸与",
+                "mean": "대여",
+                "reading": "たいよ"
+            },
+            {
+                "word": "貸す",
+                "mean": "빌려주다",
+                "reading": "かす"
+            }
+        ],
+        "on_sentence": {
+            "text": "PCの[貸与](たいよ)。",
+            "mean": "PC 대여."
+        },
+        "kun_sentence": {
+            "text": "傘を[貸](か)す。",
+            "mean": "우산을 빌려주다."
+        },
+        "id": 130
+    },
+    {
+        "kanji": "元",
+        "meaning": "으뜸 원",
+        "on_reading": "ゲン/ガン",
+        "kun_reading": "もと",
+        "category": "N4",
+        "explanation": "사람(儿)의 머리(二 - 평편한 위)를 강조한 꼴로, 모든 것의 시작이나 기반(기운)이 됨을 뜻해요.",
+        "examples": [
+            {
+                "word": "元気",
+                "mean": "활기/건강",
+                "reading": "げんき"
+            },
+            {
+                "word": "元々",
+                "mean": "원래",
+                "reading": "もともと"
+            }
+        ],
+        "on_sentence": {
+            "text": "[元気](げんき)そうだ。",
+            "mean": "건강해 보인다."
+        },
+        "kun_sentence": {
+            "text": "[元](もと)から好き。",
+            "mean": "처음부터 좋아해."
+        },
+        "id": 131
+    },
+    {
+        "kanji": "公",
+        "meaning": "공변될 공",
+        "on_reading": "コウ",
+        "kun_reading": "おおやけ",
+        "category": "N4",
+        "explanation": "물건을 나누어(八) 사사로운(厶) 마음 없이 공평하게 관리하는 모습이에요. 공공의 의미를 가져요.",
+        "examples": [
+            {
+                "word": "公園",
+                "mean": "공원",
+                "reading": "こうえん"
+            },
+            {
+                "word": "公式",
+                "mean": "공식",
+                "reading": "こうしき"
+            }
+        ],
+        "on_sentence": {
+            "text": "[公園](こうえん)を歩く。",
+            "mean": "공원을 걷다."
+        },
+        "kun_sentence": {
+            "text": "[公](おおやけ)の場。",
+            "mean": "공적인 자리."
+        },
+        "id": 132
+    },
+    {
+        "kanji": "内",
+        "meaning": "안 내",
+        "on_reading": "ナイ/ダイ",
+        "kun_reading": "うち",
+        "category": "N4",
+        "explanation": "집(冂) 안으로 사람(入)이 들어오는 모습이에요. '안쪽'이라는 의미예요.",
+        "examples": [
+            {
+                "word": "内容",
+                "mean": "내용",
+                "reading": "ないよう"
+            },
+            {
+                "word": "案内",
+                "mean": "안내",
+                "reading": "あんない"
+            }
+        ],
+        "on_sentence": {
+            "text": "本を[案内](あんない)する。",
+            "mean": "책을 안내하다."
+        },
+        "kun_sentence": {
+            "text": "家を[内](うち)側。",
+            "mean": "집 안쪽."
+        },
+        "id": 133
+    },
+    {
+        "kanji": "冬",
+        "meaning": "겨울 동",
+        "on_reading": "トウ",
+        "kun_reading": "ふゆ",
+        "category": "N4",
+        "explanation": "얼음 조각(冫)이 얼어붙어 만물이 쉴 수밖에 없는 계절, 겨울의 얼어붙은 꽁꽁한 모습을 본뜬 글자예요.",
+        "examples": [
+            {
+                "word": "冬至",
+                "mean": "동지",
+                "reading": "とうじ"
+            },
+            {
+                "word": "冬休み",
+                "mean": "겨울방학",
+                "reading": "ふゆやすみ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[冬至](とうじ)の南瓜。",
+            "mean": "동지의 호박."
+        },
+        "kun_sentence": {
+            "text": "[冬](ふゆ)の風。",
+            "mean": "겨울바람."
+        },
+        "id": 134
+    },
+    {
+        "kanji": "冷",
+        "meaning": "찰 랭",
+        "on_reading": "レイ",
+        "kun_reading": "つめ.たい/ひ.える",
+        "category": "N4",
+        "explanation": "얼음(冫)이 아주 차갑게 명령(令)하듯 얼어붙어 있는 모습이에요. 차가움을 뜻해요.",
+        "examples": [
+            {
+                "word": "冷房",
+                "mean": "냉방",
+                "reading": "れいぼう"
+            },
+            {
+                "word": "冷たい",
+                "mean": "차갑다",
+                "reading": "つめたい"
+            }
+        ],
+        "on_sentence": {
+            "text": "[冷房](れいぼう)を入れる。",
+            "mean": "냉방을 켜다."
+        },
+        "kun_sentence": {
+            "text": "[冷](つめ)たい水。",
+            "mean": "차가운 물."
+        },
+        "id": 135
+    },
+    {
+        "kanji": "切",
+        "meaning": "끊을 절",
+        "on_reading": "セツ/サイ",
+        "kun_reading": "き.る/きっ.て",
+        "category": "N4",
+        "explanation": "칼(刀)로 물건(七 - 흙이나 물건)을 싹둑 자르고 끊는 모습이에요! 칼날이 아주 날카롭게 닿는 느낌이에요.",
+        "examples": [
+            {
+                "word": "大切",
+                "mean": "중중요함",
+                "reading": "たいせつ"
+            },
+            {
+                "word": "切手",
+                "mean": "우표",
+                "reading": "きって"
+            }
+        ],
+        "on_sentence": {
+            "text": "[大切](たいせつ)な宝物。",
+            "mean": "소중한 보물."
+        },
+        "kun_sentence": {
+            "text": "[切](き)ってを貼る。",
+            "mean": "우표를 붙이다."
+        },
+        "id": 136
+    },
+    {
+        "kanji": "映",
+        "meaning": "비칠 영",
+        "on_reading": "エイ",
+        "kun_reading": "うつ.る",
+        "category": "N4",
+        "explanation": "해(日)가 중앙(央)에서 비쳐 그림자가 어딘가에 비치는 모습이에요. 영화(映画) 할 때의 그 글자예요!",
+        "examples": [
+            {
+                "word": "映画",
+                "mean": "영화",
+                "reading": "えいが"
+            },
+            {
+                "word": "映る",
+                "mean": "비치다",
+                "reading": "うつる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[映画](えいが)を見る。",
+            "mean": "영화를 보다."
+        },
+        "kun_sentence": {
+            "text": "鏡에 [映](うつ)る。",
+            "mean": "거울에 비치다."
+        },
+        "id": 137
+    },
+    {
+        "kanji": "画",
+        "meaning": "그림 화",
+        "on_reading": "ガ/カク",
+        "kun_reading": "-",
+        "category": "N4",
+        "explanation": "붓을 들고 밭(田)의 경계를 긋거나 선을 그어 그림(붓)을 그리는 모습이에요.",
+        "examples": [
+            {
+                "word": "漫画",
+                "mean": "만화",
+                "reading": "まんが"
+            },
+            {
+                "word": "計画",
+                "mean": "계획",
+                "reading": "けいかく"
+            }
+        ],
+        "on_sentence": {
+            "text": "[漫画](まん가)が好き。",
+            "mean": "만화를 좋아해."
+        },
+        "kun_sentence": {
+            "text": "[計画](けいかく)を立てる。",
+            "mean": "계획을 세우다."
+        },
+        "id": 138
+    },
+    {
+        "kanji": "研",
+        "meaning": "갈 연",
+        "on_reading": "ケン",
+        "kun_reading": "と.ぐ",
+        "category": "N4",
+        "explanation": "돌(石)을 평평하게(开 - 균형 잡힌 모습) 갈아서 날카롭게 만들거나 지식을 닦는 연구의 모습이에요.",
+        "examples": [
+            {
+                "word": "研究",
+                "mean": "연구",
+                "reading": "けんきゅう"
+            },
+            {
+                "word": "研ぐ",
+                "mean": "갈다/닦다",
+                "reading": "とぐ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[研究](けんきゅう)室。",
+            "mean": "연구실."
+        },
+        "kun_sentence": {
+            "text": "包丁を[研](と)ぐ。",
+            "mean": "칼을 갈다."
+        },
+        "id": 139
+    },
+    {
+        "kanji": "究",
+        "meaning": "구경할 구",
+        "on_reading": "キュウ",
+        "kun_reading": "きわ.める",
+        "category": "N4",
+        "explanation": "구멍(穴) 속에 깊이 들어가서 끝(九 - 굽은 끝)까지 파고들어 궁리하고 탐구하는 모습이에요.",
+        "examples": [
+            {
+                "word": "究極",
+                "mean": "궁극",
+                "reading": "きゅうきょく"
+            },
+            {
+                "word": "研究",
+                "mean": "연구",
+                "reading": "けんきゅう"
+            }
+        ],
+        "on_sentence": {
+            "text": "[研究](けんきゅう)家。",
+            "mean": "연구가."
+        },
+        "kun_sentence": {
+            "text": "道を[究](きわ)める。",
+            "mean": "도를 깨닫다(끝까지 가다)."
+        },
+        "id": 140
+    },
+    {
+        "kanji": "考",
+        "meaning": "생각할 고",
+        "on_reading": "コウ",
+        "kun_reading": "かんが.える",
+        "category": "N4",
+        "explanation": "머리칼이 긴 노인(耂)이 지팡이를 짚고 여러 가지 일을 깊이 생각하는 모습이에요.",
+        "examples": [
+            {
+                "word": "参考",
+                "mean": "참고",
+                "reading": "さんこう"
+            },
+            {
+                "word": "考える",
+                "mean": "생각하다",
+                "reading": "かんがえる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[参考](さんこう)書。",
+            "mean": "참고서."
+        },
+        "kun_sentence": {
+            "text": "よく[考](かんが)える。",
+            "mean": "잘 생각하다."
+        },
+        "id": 141
+    },
+    {
+        "kanji": "教",
+        "meaning": "가르칠 교",
+        "on_reading": "キョウ",
+        "kun_reading": "おし.える",
+        "category": "N4",
+        "explanation": "아이(子)에게 매(攵 - 손에 회초리)를 들어 효도(孝)하는 법을 엄하게 가르치는 스승의 모습이에요.",
+        "examples": [
+            {
+                "word": "教室",
+                "mean": "교실",
+                "reading": "きょうしつ"
+            },
+            {
+                "word": "教える",
+                "mean": "가르치다",
+                "reading": "おしえる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[教室](きょうしつ)に入る。",
+            "mean": "교실에 들어가다."
+        },
+        "kun_sentence": {
+            "text": "道を[教](おし)える。",
+            "mean": "길을 가르쳐주다."
+        },
+        "id": 142
+    },
+    {
+        "kanji": "室",
+        "meaning": "집 실",
+        "on_reading": "シツ",
+        "kun_reading": "むろ",
+        "category": "N4",
+        "explanation": "집(宀) 안에 이르렀다(至)는 의미로, 안으로 깊숙이 들어간 방이나 교실 등을 뜻해요.",
+        "examples": [
+            {
+                "word": "客室",
+                "mean": "객실",
+                "reading": "きゃくしつ"
+            },
+            {
+                "word": "地下室",
+                "mean": "지하실",
+                "reading": "ちかしつ"
+            }
+        ],
+        "on_sentence": {
+            "text": "[地下室](ちかしつ)へ。",
+            "mean": "지하실로."
+        },
+        "kun_sentence": {
+            "text": "氷の[室](むろ)。",
+            "mean": "얼음 창고(방)."
+        },
+        "id": 143
+    },
+    {
+        "kanji": "別",
+        "meaning": "다를 별",
+        "on_reading": "ベツ",
+        "kun_reading": "わか.れる",
+        "category": "N4",
+        "explanation": "칼(刂)로 뼈(冎 - 흩어질 뼈)를 발라내어 '나누다, 헤어지다, 다르다'는 의미를 가져요.",
+        "examples": [
+            {
+                "word": "特別",
+                "mean": "특별",
+                "reading": "とくべつ"
+            },
+            {
+                "word": "別れる",
+                "mean": "헤어지다",
+                "reading": "わかれる"
+            }
+        ],
+        "on_sentence": {
+            "text": "[特別](とくべつ)な日。",
+            "mean": "특별한 날."
+        },
+        "kun_sentence": {
+            "text": "恋人と[別](わか)れる。",
+            "mean": "연인과 헤어지다."
+        },
+        "id": 144
+    },
+    {
+        "kanji": "力",
+        "meaning": "힘 력",
+        "on_reading": "リョク/リキ",
+        "kun_reading": "ちから",
+        "category": "N4",
+        "explanation": "팔 근육이 불끈 솟아오른 모습이나 쟁기를 본떠 힘차게 일하는 에너지를 상징해요.",
+        "examples": [
+            {
+                "word": "努力",
+                "mean": "노력",
+                "reading": "どりょく"
+            },
+            {
+                "word": "協力",
+                "mean": "협력",
+                "reading": "きょうりょく"
+            }
+        ],
+        "on_sentence": {
+            "text": "[努力](どりょく)する。",
+            "mean": "노력하다."
+        },
+        "kun_sentence": {
+            "text": "[力](ちから)を出す。",
+            "mean": "힘을 내다."
+        },
+        "id": 145
+    },
+    {
+        "kanji": "勉",
+        "meaning": "힘쓸 면",
+        "on_reading": "ベン",
+        "kun_reading": "- ",
+        "category": "N4",
+        "explanation": "투구(免 - 모자/도망)를 쓴 장수가 힘(力)을 다해 전쟁에서 버티고 애쓰는 '면려함'을 뜻해요.",
+        "examples": [
+            {
+                "word": "勉強",
+                "mean": "공부",
+                "reading": "べんきょう"
+            },
+            {
+                "word": "勤勉",
+                "mean": "근면",
+                "reading": "きんべん"
+            }
+        ],
+        "on_sentence": {
+            "text": "[勉強](べんきょう)する。",
+            "mean": "공부하다."
+        },
+        "kun_sentence": {
+            "text": "[勤勉](きんべん)な人。",
+            "mean": "근면한 사람."
+        },
+        "id": 146
     }
 ]

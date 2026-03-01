@@ -37,7 +37,7 @@ interface Kanji {
 
 const typedKanjiData = kanjiData as Kanji[]
 
-const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQuizScore, handleLogout, setSelectedCategory }: {
+const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQuizScore, handleLogout, setSelectedCategory, selectedCategory }: {
   activeTab: string
   setActiveTab: (tab: string) => void
   setSelectedKanji: (kanji: Kanji | null) => void
@@ -45,6 +45,7 @@ const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQ
   setQuizScore: (score: number) => void
   handleLogout?: () => void
   setSelectedCategory: (cat: string) => void
+  selectedCategory: string
 }) => (
   <div className="sidebar">
     <div className="logo" onClick={() => setActiveTab('home')}>
@@ -56,11 +57,11 @@ const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQ
         <Home size={20} />
         <span>홈</span>
       </div>
-      <div className={`nav-link ${activeTab === 'library' && (window as any).selectedCategory !== 'Bookmarks' ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('All'); setSelectedKanji(null); }}>
+      <div className={`nav-link ${activeTab === 'library' && (selectedCategory !== 'Bookmarks') ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('All'); setSelectedKanji(null); }}>
         <BookOpen size={20} />
         <span>한자 사전</span>
       </div>
-      <div className={`nav-link ${activeTab === 'library' && (window as any).selectedCategory === 'Bookmarks' ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('Bookmarks'); setSelectedKanji(null); }}>
+      <div className={`nav-link ${activeTab === 'library' && (selectedCategory === 'Bookmarks') ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('Bookmarks'); setSelectedKanji(null); }}>
         <Bookmark size={20} />
         <span>북마크 한자</span>
       </div>
@@ -530,6 +531,7 @@ export default function App() {
           setQuizScore={setQuizScore}
           handleLogout={isLoggedIn ? handleLogout : undefined}
           setSelectedCategory={setSelectedCategory}
+          selectedCategory={selectedCategory}
         />
 
         <main className="main-content">
@@ -685,18 +687,25 @@ export default function App() {
                     </div>
                   </div>
                 </div>
-                <div className="category-filter">
-                  <div className="filter-group">
-                    {['All', 'N5', 'N4', 'N3', 'N2', 'N1'].map(cat => (
-                      <button
-                        key={cat}
-                        className={`filter-chip ${selectedCategory === cat ? 'active' : ''}`}
-                        onClick={() => setSelectedCategory(cat)}
-                      >
-                        {cat}
-                      </button>
-                    ))}
-                  </div>
+                <div className="category-filter-dynamic">
+                  {['All', 'N5', 'N4', 'N3', 'N2', 'N1'].map(cat => (
+                    <motion.button
+                      key={cat}
+                      className={`filter-tab ${selectedCategory === cat ? 'active' : ''}`}
+                      onClick={() => setSelectedCategory(cat)}
+                      whileTap={{ scale: 0.95 }}
+                      style={{ position: 'relative' }}
+                    >
+                      {selectedCategory === cat && (
+                        <motion.div
+                          layoutId="active-pill"
+                          className="active-pill"
+                          transition={{ type: "spring", bounce: 0.2, duration: 0.6 }}
+                        />
+                      )}
+                      <span style={{ position: 'relative', zIndex: 2 }}>{cat}</span>
+                    </motion.button>
+                  ))}
                 </div>
 
                 <div className="kanji-grid">

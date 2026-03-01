@@ -630,88 +630,53 @@ body {
 }
 
 /* Category Filter */
-.category-filter {
+.category-filter-dynamic {
   display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-bottom: 2rem;
-  padding: 0.5rem 0.75rem;
-  background: rgba(15, 23, 42, 0.4);
-  border-radius: 20px;
-  backdrop-filter: blur(10px);
+  background: rgba(15, 23, 42, 0.6);
+  padding: 4px;
+  border-radius: 16px;
+  margin-bottom: 2.5rem;
   border: 1px solid rgba(255, 255, 255, 0.05);
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;
-  /* Firefox */
-  mask-image: linear-gradient(to right, black 85%, transparent 100%);
-  -webkit-mask-image: linear-gradient(to right, black 85%, transparent 100%);
+  position: relative;
+  overflow: hidden;
 }
 
-.category-filter::-webkit-scrollbar {
-  display: none;
-}
-
-.filter-group {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.filter-chip {
-  padding: 0.5rem 1rem;
-  border-radius: 12px;
-  background: var(--bg-card);
-  border: 1px solid var(--border-color);
+.filter-tab {
+  flex: 1;
+  padding: 0.7rem 0.2rem;
+  border: none;
+  background: transparent;
   color: var(--text-muted);
   font-size: 0.85rem;
   font-weight: 700;
   cursor: pointer;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  white-space: nowrap;
+  border-radius: 12px;
+  transition: color 0.3s;
+  min-width: 0;
+  /* Ensures buttons can shrink */
 }
 
-.filter-chip:hover {
-  background: var(--secondary-blue);
-  border-color: var(--primary-blue);
+.filter-tab.active {
   color: white;
-  transform: translateY(-2px);
 }
 
-.filter-chip.active {
+.active-pill {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  right: 0;
+  bottom: 4px;
   background: var(--primary-blue);
-  color: white;
-  border-color: var(--primary-blue);
+  border-radius: 12px;
   box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+  z-index: 1;
 }
 
-.filter-chip.special {
-  border-style: dashed;
-}
-
-.filter-chip.special.bookmark.active {
-  background: var(--japan-vermilion);
-  border-color: var(--japan-vermilion);
-  box-shadow: 0 4px 15px rgba(188, 54, 45, 0.3);
-}
-
-.filter-chip.special.completed.active {
-  background: var(--japan-gold);
-  border-color: var(--japan-gold);
-  box-shadow: 0 4px 15px rgba(212, 184, 118, 0.3);
-  color: #1A2332;
-}
-
-.filter-chip.special.bookmark:hover {
-  border-color: var(--japan-vermilion);
-  color: var(--japan-vermilion);
-}
-
-.filter-chip.special.completed:hover {
-  border-color: var(--japan-gold);
-  color: var(--japan-gold);
+@media (max-width: 480px) {
+  .filter-tab {
+    font-size: 0.75rem;
+    padding: 0.6rem 0.1rem;
+  }
 }
 
 /* Library View */

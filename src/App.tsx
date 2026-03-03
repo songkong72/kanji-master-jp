@@ -1069,9 +1069,6 @@ export default function App() {
                           // Filter examples that contain specific labels
                           const onExamples = examples.filter(ex => ex.mean.includes('(음독)'));
                           const kunExamples = examples.filter(ex => ex.mean.includes('(훈독)'));
-                          const generalExamples = examples.filter(ex => !ex.mean.includes('(음독)') && !ex.mean.includes('(훈독)'));
-
-                          const meaningText = selectedKanji.meaning.split(' ')[0] || '';
 
                           return (
                             <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>

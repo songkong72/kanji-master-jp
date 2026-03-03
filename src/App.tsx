@@ -60,15 +60,15 @@ const Sidebar = ({ activeTab, setActiveTab, setSelectedKanji, setQuizIndex, setQ
       </div>
       <div className={`nav-link ${activeTab === 'library' && (selectedCategory !== 'Bookmarks') ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('All'); setSelectedKanji(null); }}>
         <BookOpen size={20} />
-        <span>한자 사전</span>
+        <span>단어장</span>
       </div>
       <div className={`nav-link ${activeTab === 'library' && (selectedCategory === 'Bookmarks') ? 'active' : ''}`} onClick={() => { setActiveTab('library'); setSelectedCategory('Bookmarks'); setSelectedKanji(null); }}>
         <Bookmark size={20} />
-        <span>북마크 한자</span>
+        <span>북마크</span>
       </div>
       <div className={`nav-link ${activeTab === 'quiz' ? 'active' : ''}`} onClick={() => { setActiveTab('quiz'); setQuizIndex(0); setQuizScore(0); }}>
         <GraduationCap size={20} />
-        <span>테스트</span>
+        <span>퀴즈</span>
       </div>
       <div className={`nav-link ${activeTab === 'settings' ? 'active' : ''}`} onClick={() => setActiveTab('settings')}>
         <Settings size={20} />

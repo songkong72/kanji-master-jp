@@ -29,8 +29,8 @@ interface Kanji {
   category: string
   explanation: string
   examples: KanjiExample[]
-  on_sentence?: KanjiSentence
-  kun_sentence?: KanjiSentence
+  on_sentence?: KanjiSentence | KanjiSentence[]
+  kun_sentence?: KanjiSentence | KanjiSentence[]
   mnemonic_image?: string
   stroke_image?: string
   subcategory?: string

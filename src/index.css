@@ -13,6 +13,10 @@
   --white: #FFFFFF;
   --shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.3);
   --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  /* Glassmorphism Tokens */
+  --glass-bg: rgba(30, 41, 59, 0.6);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass-glow: rgba(96, 165, 250, 0.15);
   --kanji-font: 'Yuji Syuku', serif;
   --ui-font: 'Pretendard', sans-serif;
 
@@ -169,9 +173,15 @@ body {
   border-radius: 12px;
   color: var(--text-muted);
   text-decoration: none;
-  font-weight: 600;
-  transition: all 0.2s;
+  font-weight: 700;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.nav-link:active {
+  transform: scale(0.95);
 }
 
 .nav-link:hover {
@@ -263,13 +273,22 @@ body {
 }
 
 .card {
-  background: var(--bg-card);
-  border-radius: 24px;
-  padding: 1.5rem;
-  border: 1px solid rgba(201, 169, 110, 0.1);
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-radius: 28px;
+  padding: 1.75rem;
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   position: relative;
   overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+  border-color: rgba(212, 184, 118, 0.3);
 }
 
 .card::before {
@@ -309,16 +328,30 @@ body {
 
 .big-kanji {
   font-family: var(--kanji-font);
-  font-size: 6rem;
+  font-size: 6.5rem;
   font-weight: 700;
   color: var(--japan-gold);
-  background: linear-gradient(145deg, #1A2332, #0F172A);
-  padding: 1.5rem;
-  border-radius: 20px;
+  background: radial-gradient(circle at 30% 30%, #2A3649, #0F172A);
+  padding: 2rem;
+  border-radius: 32px;
   line-height: 1;
-  border: 1px solid rgba(212, 184, 118, 0.2);
-  box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(212, 184, 118, 0.25);
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.5),
+    inset 0 2px 10px rgba(255, 255, 255, 0.05);
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.big-kanji::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(135deg, transparent, rgba(212, 184, 118, 0.2), transparent);
+  border-radius: 34px;
+  z-index: -1;
 }
 
 .kanji-brief h3 {
@@ -334,14 +367,25 @@ body {
 
 .btn-primary {
   background: var(--primary-blue);
+  background: linear-gradient(135deg, #60A5FA, #3B82F6);
   color: white;
   border: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 10px;
-  font-weight: 700;
+  padding: 0.8rem 1.75rem;
+  border-radius: 14px;
+  font-weight: 800;
   cursor: pointer;
   margin-top: 1rem;
-  transition: opacity 0.2s;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4);
+}
+
+.btn-primary:hover {
+  transform: scale(1.05) translateY(-2px);
+  box-shadow: 0 8px 25px rgba(59, 130, 246, 0.5);
+}
+
+.btn-primary:active {
+  transform: scale(0.95);
 }
 
 /* Progress Section */
@@ -894,15 +938,24 @@ body {
 
 /* Sentence Box */
 .sentence-box {
-  background: rgba(30, 41, 59, 0.5);
-  border: 1px dashed #334155;
-  border-radius: 12px;
-  padding: 0.75rem;
-  margin-top: 0.5rem;
+  background: var(--glass-bg);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  padding: 1.2rem;
+  margin-top: 0.75rem;
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.5rem;
   text-align: left;
+  transition: all 0.3s ease;
+}
+
+.sentence-box:hover {
+  background: rgba(30, 41, 59, 0.85);
+  transform: translateX(8px);
+  border-color: rgba(96, 165, 250, 0.3);
 }
 
 .sentence-japanese {
@@ -1074,14 +1127,15 @@ rt {
 .library-sticky-header-container {
   position: sticky;
   top: 0;
-  margin: 0 -2.5rem 2.5rem -2.5rem;
-  padding: 1.5rem 2.5rem;
-  z-index: 100;
-  border-bottom: 1px solid var(--border-color);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  background: rgba(15, 23, 42, 0.85);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  z-index: 500;
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  margin-left: -2.5rem;
+  margin-right: -2.5rem;
+  padding: 1.5rem 2.5rem 1rem 2.5rem;
+  margin-top: 0;
+  border-bottom: 1px solid var(--glass-border);
 }
 
 @media (max-width: 768px) {
@@ -1702,3 +1756,127 @@ rt {
 }
 
 /* Dark Mode: 나중에 완성 후 수동 토글 방식으로 추가 예정 */
+
+/* Reading Info Vertical Layout */
+.reading-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.reading-section-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.3rem;
+  font-weight: 800;
+  border-left: 4px solid var(--primary-blue);
+  padding-left: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.reading-section-title.onyomi {
+  border-left-color: var(--japan-vermilion);
+  color: var(--japan-vermilion);
+}
+
+.reading-section-title.kunyomi {
+  border-left-color: var(--japan-matcha);
+  color: var(--japan-matcha);
+}
+
+.reading-section-title.practical {
+  border-left-color: var(--japan-gold);
+  color: var(--japan-gold);
+}
+
+.reading-content-card {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.reading-content-card.onyomi {
+  background: rgba(232, 107, 90, 0.05);
+  border-color: rgba(232, 107, 90, 0.15);
+}
+
+.reading-content-card.kunyomi {
+  background: rgba(125, 211, 160, 0.05);
+  border-color: rgba(125, 211, 160, 0.15);
+}
+
+.reading-main-display {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 1.25rem;
+}
+
+.reading-main-display .roman {
+  font-size: 1rem;
+  color: var(--text-muted);
+  font-weight: 400;
+}
+
+.mini-word-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.mini-word-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.mini-word-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.mini-word-jp {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-main);
+}
+
+.mini-word-mean {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.mini-word-play {
+  background: rgba(255, 255, 255, 0.05);
+  border: none;
+  border-radius: 8px;
+  padding: 0.4rem;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.mini-word-play:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--white);
+}
+
+.badge-tag {
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 700;
+  background: rgba(96, 165, 250, 0.1);
+  color: var(--primary-blue);
+}

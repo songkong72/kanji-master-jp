@@ -2,7 +2,7 @@ import { useState, useMemo, useRef, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
   Home, BookOpen, GraduationCap, BarChart2, Settings,
-  Search, Bell, Lightbulb, ChevronLeft, ChevronRight, Bookmark, CheckCircle2, Volume2, X, RotateCcw, Medal
+  Search, Bell, Lightbulb, ChevronLeft, ChevronRight, Bookmark, CheckCircle2, Volume2, X, RotateCcw, Medal, Pencil, List
 } from 'lucide-react'
 import kanjiData from './data/kanjiData.json'
 import './index.css'
@@ -947,6 +947,9 @@ export default function App() {
                   >
                     <ChevronLeft size={24} strokeWidth={2.5} />
                   </motion.div>
+                  <div style={{ position: 'absolute', left: '50%', transform: 'translateX(-50%)', fontWeight: 700, fontSize: '1rem', color: 'var(--text-main)', letterSpacing: '-0.02em', opacity: 0.9 }}>
+                    한자 상세 정보
+                  </div>
                   <div style={{ display: 'flex', gap: '0.5rem' }}>
                     <button
                       className="speak-btn"
@@ -984,62 +987,60 @@ export default function App() {
                       ) : (
                         selectedKanji.kanji
                       )}
+                      {/* 쓰기 연습 버튼을 아이콘으로 오른쪽 상단에 배치 */}
+                      <button
+                        className="speak-btn"
+                        style={{ position: 'absolute', top: '1.5rem', right: '1.5rem' }}
+                        onClick={() => setIsWritingMode(true)}
+                        title="쓰기 연습 (Beta)"
+                      >
+                        <Pencil size={24} />
+                      </button>
+
                       <button className="speak-btn" style={{ position: 'absolute', bottom: '1.5rem', right: '1.5rem' }} onClick={() => speak(selectedKanji.kanji)}>
                         <Volume2 size={24} />
                       </button>
                     </motion.div>
-                    <button className="btn-primary" style={{ width: '100%', padding: '1rem', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem' }} onClick={() => setIsWritingMode(true)}>
-                      <GraduationCap size={20} />
-                      쓰기 연습 (Beta)
-                    </button>
-                    <div style={{ marginTop: '1.5rem', display: 'flex', justifyContent: 'center', gap: '1rem' }}>
-                      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: 1 }}>
-                        <div style={{
-                          fontWeight: 800,
+                    <div style={{ marginTop: '1.5rem', display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '1rem' }}>
+                      {/* JLPT 카드 */}
+                      <div className="card" style={{ padding: '1rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.4rem', border: '1px solid var(--glass-border)', background: 'var(--glass-bg)' }}>
+                        <GraduationCap size={20} color="var(--primary-blue)" />
+                        <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>JLPT</span>
+                        <span style={{
                           fontSize: '1rem',
-                          padding: '0.5rem 1rem',
-                          borderRadius: '12px',
-                          width: '100%',
-                          textAlign: 'center',
+                          fontWeight: 800,
                           color: selectedKanji.category === 'N5' ? '#34D399' :
                             selectedKanji.category === 'N4' ? '#60A5FA' :
                               selectedKanji.category === 'N3' ? '#FBBF24' :
-                                selectedKanji.category === 'N2' ? '#FB923C' :
-                                  selectedKanji.category === 'N1' ? '#F87171' : '#A78BFA',
-                          background: selectedKanji.category === 'N5' ? 'rgba(52, 211, 153, 0.1)' :
-                            selectedKanji.category === 'N4' ? 'rgba(96, 165, 250, 0.1)' :
-                              selectedKanji.category === 'N3' ? 'rgba(251, 191, 36, 0.1)' :
-                                selectedKanji.category === 'N2' ? 'rgba(251, 146, 60, 0.1)' :
-                                  selectedKanji.category === 'N1' ? 'rgba(248, 113, 113, 0.1)' : 'rgba(167, 139, 250, 0.1)',
-                          border: `1px solid ${selectedKanji.category === 'N5' ? 'rgba(52, 211, 153, 0.2)' :
-                            selectedKanji.category === 'N4' ? 'rgba(96, 165, 250, 0.2)' :
-                              selectedKanji.category === 'N3' ? 'rgba(251, 191, 36, 0.2)' :
-                                selectedKanji.category === 'N2' ? 'rgba(251, 146, 60, 0.2)' :
-                                  selectedKanji.category === 'N1' ? 'rgba(248, 113, 113, 0.2)' : 'rgba(167, 139, 250, 0.2)'}`
+                                selectedKanji.category === 'N2' ? '#FB923C' : '#F87171'
                         }}>
-                          JLPT {selectedKanji.category}
-                        </div>
+                          {selectedKanji.category}
+                        </span>
                       </div>
-                      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: 1 }}>
-                        <div style={{
-                          fontWeight: 800,
-                          fontSize: '1rem',
-                          padding: '0.5rem 1rem',
-                          borderRadius: '12px',
-                          width: '100%',
-                          textAlign: 'center',
-                          color: memorizedIds.includes(selectedKanji.id) ? '#10B981' : '#60A5FA',
-                          background: memorizedIds.includes(selectedKanji.id) ? 'rgba(16, 185, 129, 0.1)' : 'rgba(96, 165, 250, 0.1)',
-                          border: `1px solid ${memorizedIds.includes(selectedKanji.id) ? 'rgba(16, 185, 129, 0.2)' : 'rgba(96, 165, 250, 0.2)'}`
-                        }}>
-                          {memorizedIds.includes(selectedKanji.id) ? '학습 완료' : '학습 진행 중'}
-                        </div>
+
+                      {/* 획수 카드 */}
+                      <div className="card" style={{ padding: '1rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.4rem', border: '1px solid var(--glass-border)', background: 'var(--glass-bg)' }}>
+                        <Pencil size={18} color="var(--japan-gold)" />
+                        <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>획수</span>
+                        <span style={{ fontSize: '1rem', fontWeight: 800, color: 'var(--text-main)' }}>
+                          {/* JSON 데이터에 stroke_count가 있다면 사용, 없으면 예시로 4획 (실제 데이터에 맞게 조정 필요) */}
+                          {(selectedKanji as any).stroke_count || '?'}획
+                        </span>
+                      </div>
+
+                      {/* 부수 카드 */}
+                      <div className="card" style={{ padding: '1rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '0.4rem', border: '1px solid var(--glass-border)', background: 'var(--glass-bg)' }}>
+                        <List size={20} color="var(--japan-vermilion)" />
+                        <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 700 }}>부수</span>
+                        <span style={{ fontSize: '1.1rem', fontWeight: 800, color: 'var(--text-main)', fontFamily: 'var(--kanji-font)' }}>
+                          {(selectedKanji as any).radical || '-'}
+                        </span>
                       </div>
                     </div>
                   </div>
 
                   <div className="info-cards-stack">
-                    <div className="card" style={{ border: 'none', background: 'transparent', padding: 0 }}>
+                    <div className="card" style={{ border: 'none', background: 'transparent', padding: '1.25rem 0 0 1.25rem' }}>
                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
                         <h2 style={{ margin: 0, fontSize: '2rem' }}>{selectedKanji.meaning}</h2>
                         <div style={{ display: 'flex', gap: '0.8rem', alignItems: 'center' }}>
@@ -1059,85 +1060,102 @@ export default function App() {
                           />
                         </div>
                       </div>
-                      <div className="info-box" style={{ background: 'var(--bg-card)', border: '1px solid var(--border-color)', padding: '1.5rem', borderRadius: '24px' }}>
-                        <div className="section-title"><BookOpen size={18} /><span>읽기 정보</span></div>
+                      <div className="info-box" style={{ background: 'transparent', border: 'none', padding: 0, borderRadius: 0 }}>
                         {(() => {
                           const onSents = selectedKanji.on_sentence ? (Array.isArray(selectedKanji.on_sentence) ? selectedKanji.on_sentence : [selectedKanji.on_sentence]).filter(s => s.text && s.text !== '-') : [];
                           const kunSents = selectedKanji.kun_sentence ? (Array.isArray(selectedKanji.kun_sentence) ? selectedKanji.kun_sentence : [selectedKanji.kun_sentence]).filter(s => s.text && s.text !== '-') : [];
-                          const maxSents = Math.max(onSents.length, kunSents.length);
+                          const examples = selectedKanji.examples || [];
+
+                          // Filter examples that contain specific labels
+                          const onExamples = examples.filter(ex => ex.mean.includes('(음독)'));
+                          const kunExamples = examples.filter(ex => ex.mean.includes('(훈독)'));
+                          const generalExamples = examples.filter(ex => !ex.mean.includes('(음독)') && !ex.mean.includes('(훈독)'));
+
+                          const meaningText = selectedKanji.meaning.split(' ')[0] || '';
 
                           return (
-                            <>
-                              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem', marginTop: '1rem' }}>
-                                <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                  <div style={{ fontSize: '0.8rem', color: '#94A3B8', marginBottom: '0.3rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
-                                    음독 (중국식)
-                                    <Volume2 size={14} style={{ cursor: 'pointer' }} onClick={() => speak(selectedKanji.on_reading)} />
-                                  </div>
-                                  <div style={{ fontSize: '1.5rem', fontWeight: 800, color: 'var(--japan-vermilion)' }}>{selectedKanji.on_reading}</div>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+                              {/* Onyomi Section */}
+                              <div className="reading-section">
+                                <div className="reading-section-title onyomi">
+                                  음독 (Onyomi)
                                 </div>
-                                <div style={{ display: 'flex', flexDirection: 'column' }}>
-                                  <div style={{ fontSize: '0.8rem', color: '#94A3B8', marginBottom: '0.3rem', fontWeight: 700, display: 'flex', alignItems: 'center', gap: '0.3rem' }}>
-                                    훈독 (일본식)
-                                    <Volume2 size={14} style={{ cursor: 'pointer' }} onClick={() => speak(selectedKanji.kun_reading)} />
+                                <div className="reading-content-card onyomi">
+                                  <div className="reading-main-display" style={{ color: 'var(--japan-vermilion)' }}>
+                                    {selectedKanji.on_reading}
+                                    <Volume2 size={20} style={{ cursor: 'pointer', opacity: 0.6 }} onClick={() => speak(selectedKanji.on_reading)} />
                                   </div>
-                                  <div style={{ fontSize: '1.5rem', fontWeight: 800 }}>
-                                    {selectedKanji.kun_reading.includes('/') ? (
-                                      selectedKanji.kun_reading.split('/').map((part, pIdx) => (
-                                        <span key={pIdx}>
-                                          {part.includes('.') ? (
-                                            <>
-                                              <span style={{ color: 'var(--japan-matcha)' }}>{part.split('.')[0]}</span>
-                                              <span style={{ color: 'var(--text-secondary)', opacity: 0.7, fontSize: '1rem', fontWeight: 500 }}>{part.split('.')[1]}</span>
-                                            </>
-                                          ) : (
-                                            <span style={{ color: 'var(--japan-matcha)' }}>{part}</span>
-                                          )}
-                                          {pIdx < selectedKanji.kun_reading.split('/').length - 1 && <span style={{ color: '#E2E8F0', padding: '0 0.5rem', fontWeight: 400 }}>/</span>}
-                                        </span>
-                                      ))
-                                    ) : (
-                                      selectedKanji.kun_reading.includes('.') ? (
-                                        <>
-                                          <span style={{ color: 'var(--japan-matcha)' }}>{selectedKanji.kun_reading.split('.')[0]}</span>
-                                          <span style={{ color: 'var(--text-secondary)', opacity: 0.7, fontSize: '1.2rem', fontWeight: 500 }}>{selectedKanji.kun_reading.split('.')[1]}</span>
-                                        </>
-                                      ) : (
-                                        <span style={{ color: 'var(--japan-matcha)' }}>{selectedKanji.kun_reading}</span>
-                                      )
-                                    )}
-                                  </div>
+
+                                  {(onSents.length > 0 || onExamples.length > 0) && (
+                                    <div className="mini-word-list">
+                                      {onExamples.map((ex, idx) => (
+                                        <div key={`onex-${idx}`} className="mini-word-item">
+                                          <div className="mini-word-left">
+                                            <span className="mini-word-jp">{renderRuby(ex.word, selectedKanji.kanji, 'var(--japan-vermilion)')}</span>
+                                            <span className="mini-word-mean">{ex.mean.replace('(음독)', '').trim()}</span>
+                                          </div>
+                                          <button className="mini-word-play" onClick={() => speak(ex.word)}>
+                                            <Volume2 size={16} />
+                                          </button>
+                                        </div>
+                                      ))}
+                                      {onSents.map((sent, idx) => (
+                                        <div key={`onst-${idx}`} className="mini-word-item">
+                                          <div className="mini-word-left">
+                                            <span className="mini-word-jp" style={{ fontSize: '1.1rem' }}>{renderRuby(sent.text, selectedKanji.kanji, 'var(--japan-vermilion)')}</span>
+                                            <span className="mini-word-mean">{sent.mean}</span>
+                                          </div>
+                                          <button className="mini-word-play" onClick={() => speak(sent.text)}>
+                                            <Volume2 size={16} />
+                                          </button>
+                                        </div>
+                                      ))}
+                                    </div>
+                                  )}
                                 </div>
                               </div>
 
-                              {maxSents > 0 && (
-                                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '1rem' }}>
-                                  {Array.from({ length: maxSents }).map((_, i) => (
-                                    <div key={i} style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
-                                      {onSents[i] ? (
-                                        <div className="sentence-box" style={{ margin: 0, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                                          <span className="sentence-japanese">{renderRuby(onSents[i].text, selectedKanji.kanji, 'var(--japan-vermilion)')}</span>
-                                          <span className="sentence-meaning">{onSents[i].mean}</span>
-                                          <button className="sentence-play-btn" onClick={() => speak(onSents[i].text)}>
-                                            <Volume2 size={14} /> 발음 듣기
-                                          </button>
-                                        </div>
-                                      ) : <div />}
-
-                                      {kunSents[i] ? (
-                                        <div className="sentence-box" style={{ margin: 0, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-                                          <span className="sentence-japanese">{renderRuby(kunSents[i].text, selectedKanji.kanji, 'var(--japan-matcha)')}</span>
-                                          <span className="sentence-meaning">{kunSents[i].mean}</span>
-                                          <button className="sentence-play-btn" onClick={() => speak(kunSents[i].text)}>
-                                            <Volume2 size={14} /> 발음 듣기
-                                          </button>
-                                        </div>
-                                      ) : <div />}
-                                    </div>
-                                  ))}
+                              {/* Kunyomi Section */}
+                              <div className="reading-section">
+                                <div className="reading-section-title kunyomi">
+                                  훈독 (Kunyomi)
                                 </div>
-                              )}
-                            </>
+                                <div className="reading-content-card kunyomi">
+                                  <div className="reading-main-display" style={{ color: 'var(--japan-matcha)' }}>
+                                    {selectedKanji.kun_reading}
+                                    <Volume2 size={20} style={{ cursor: 'pointer', opacity: 0.6 }} onClick={() => speak(selectedKanji.kun_reading)} />
+                                  </div>
+
+                                  {(kunSents.length > 0 || kunExamples.length > 0) && (
+                                    <div className="mini-word-list">
+                                      {kunExamples.map((ex, idx) => (
+                                        <div key={`kunex-${idx}`} className="mini-word-item">
+                                          <div className="mini-word-left">
+                                            <span className="mini-word-jp">{renderRuby(ex.word, selectedKanji.kanji, 'var(--japan-matcha)')}</span>
+                                            <span className="mini-word-mean">{ex.mean.replace('(훈독)', '').trim()}</span>
+                                          </div>
+                                          <button className="mini-word-play" onClick={() => speak(ex.word)}>
+                                            <Volume2 size={16} />
+                                          </button>
+                                        </div>
+                                      ))}
+                                      {kunSents.map((sent, idx) => (
+                                        <div key={`kunst-${idx}`} className="mini-word-item">
+                                          <div className="mini-word-left">
+                                            <span className="mini-word-jp" style={{ fontSize: '1.1rem' }}>{renderRuby(sent.text, selectedKanji.kanji, 'var(--japan-matcha)')}</span>
+                                            <span className="mini-word-mean">{sent.mean}</span>
+                                          </div>
+                                          <button className="mini-word-play" onClick={() => speak(sent.text)}>
+                                            <Volume2 size={16} />
+                                          </button>
+                                        </div>
+                                      ))}
+                                    </div>
+                                  )}
+                                </div>
+                              </div>
+
+                            </div>
                           );
                         })()}
                       </div>
@@ -1192,7 +1210,7 @@ export default function App() {
                       style={{ background: memorizedIds.includes(selectedKanji.id) ? '#10B981' : '#3B82F6', padding: '1.2rem', fontSize: '1.1rem' }}
                       onClick={() => toggleMemorize(selectedKanji.id)}
                     >
-                      {memorizedIds.includes(selectedKanji.id) ? '학습 취소' : '학습 완료 체크! 🎉'}
+                      {memorizedIds.includes(selectedKanji.id) ? '학습 취소' : '학습 완료'}
                     </button>
                   </div>
                 </div>

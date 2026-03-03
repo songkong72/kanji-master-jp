@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[日](び)。"
+  },
+  {
+    "id": 5,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[四](よん)。"
+  },
+  {
+    "id": 20,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[後](のち)。"
+  },
+  {
+    "id": 20,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[後](うし)ろ。"
+  },
+  {
+    "id": 22,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[火](ほ)。"
+  },
+  {
+    "id": 24,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[木](こ)。"
+  },
+  {
+    "id": 25,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[金](かな)。"
+  },
+  {
+    "id": 34,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[雨](あま)。"
+  },
+  {
+    "id": 35,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[女](め)。"
+  },
+  {
+    "id": 37,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[子](ね)。"
+  },
+  {
+    "id": 48,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[言](こと)。"
+  },
+  {
+    "id": 50,
+    "type": "kun_sentence",
+    "text": "よく[行](ゆ)く。"
+  },
+  {
+    "id": 50,
+    "type": "kun_sentence",
+    "text": "よく[行](おこな)う。"
+  },
+  {
+    "id": 51,
+    "type": "kun_sentence",
+    "text": "よく[来](きた)す。"
+  },
+  {
+    "id": 52,
+    "type": "kun_sentence",
+    "text": "よく[出](で)る。"
+  },
+  {
+    "id": 52,
+    "type": "kun_sentence",
+    "text": "よく[出](だ)す。"
+  },
+  {
+    "id": 53,
+    "type": "kun_sentence",
+    "text": "よく[入](はい)る。"
+  },
+  {
+    "id": 53,
+    "type": "kun_sentence",
+    "text": "よく[入](い)れる。"
+  },
+  {
+    "id": 56,
+    "type": "kun_sentence",
+    "text": "よく[生](い)きる。"
+  },
+  {
+    "id": 56,
+    "type": "kun_sentence",
+    "text": "よく[生](う)む。"
+  },
+  {
+    "id": 56,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[生](なま)。"
+  },
+  {
+    "id": 58,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[小](お)。"
+  },
+  {
+    "id": 60,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[外](ほか)。"
+  },
+  {
+    "id": 60,
+    "type": "kun_sentence",
+    "text": "よく[外](はず)す。"
+  },
+  {
+    "id": 61,
+    "type": "kun_sentence",
+    "text": "よく[上](あ)がる。"
+  },
+  {
+    "id": 61,
+    "type": "kun_sentence",
+    "text": "よく[上](のぼ)る。"
+  },
+  {
+    "id": 62,
+    "type": "kun_sentence",
+    "text": "よく[下](さ)がる。"
+  },
+  {
+    "id": 62,
+    "type": "kun_sentence",
+    "text": "よく[下](くだ)る。"
+  },
+  {
+    "id": 65,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[東](ひ가시)。"
+  },
+  {
+    "id": 70,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[赤](あか)い。"
+  },
+  {
+    "id": 74,
+    "type": "kun_sentence",
+    "text": "よく[高](たか)める。"
+  },
+  {
+    "id": 76,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[新](あら)た。"
+  },
+  {
+    "id": 86,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[天](あま)。"
+  },
+  {
+    "id": 87,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[私](わたくし)。"
+  },
+  {
+    "id": 95,
+    "type": "kun_sentence",
+    "text": "よく[食](た)べる。"
+  },
+  {
+    "id": 95,
+    "type": "kun_sentence",
+    "text": "よく[食](く)らう。"
+  },
+  {
+    "id": 96,
+    "type": "kun_sentence",
+    "text": "よく[飲](の)む。"
+  },
+  {
+    "id": 97,
+    "type": "kun_sentence",
+    "text": "よく[買](か)う。"
+  },
+  {
+    "id": 98,
+    "type": "kun_sentence",
+    "text": "よく[立](た)てる。"
+  },
+  {
+    "id": 101,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[店](たな)。"
+  },
+  {
+    "id": 105,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[先](ま)ず。"
+  },
+  {
+    "id": 106,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[間](あい)。"
+  },
+  {
+    "id": 107,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[家](うち)。"
+  },
+  {
+    "id": 112,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[体](かたち)。"
+  },
+  {
+    "id": 113,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[目](ま)。"
+  },
+  {
+    "id": 115,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[手](た)。"
+  },
+  {
+    "id": 116,
+    "type": "kun_sentence",
+    "text": "よく[足](た)りる。"
+  },
+  {
+    "id": 116,
+    "type": "kun_sentence",
+    "text": "よく[足](た)す。"
+  },
+  {
+    "id": 120,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[乗](의)세루。"
+  },
+  {
+    "id": 124,
+    "type": "kun_sentence",
+    "text": "よく[代](か)える。"
+  },
+  {
+    "id": 135,
+    "type": "kun_sentence",
+    "text": "よく[冷](ひ)える。"
+  },
+  {
+    "id": 137,
+    "type": "kun_sentence",
+    "text": "よく[映](うつ)す。"
+  },
+  {
+    "id": 142,
+    "type": "kun_sentence",
+    "text": "よく[教](おそ)わる。"
+  },
+  {
+    "id": 144,
+    "type": "kun_sentence",
+    "text": "よく[別](わ)ける。"
+  },
+  {
+    "id": 154,
+    "type": "kun_sentence",
+    "text": "よく[進](すす)める。"
+  },
+  {
+    "id": 156,
+    "type": "kun_sentence",
+    "text": "よく[起](お)こる。"
+  },
+  {
+    "id": 157,
+    "type": "kun_sentence",
+    "text": "よく[降](ふ)る。"
+  },
+  {
+    "id": 158,
+    "type": "kun_sentence",
+    "text": "よく[始](はじ)まる。"
+  },
+  {
+    "id": 159,
+    "type": "kun_sentence",
+    "text": "よく[終](お)える。"
+  },
+  {
+    "id": 161,
+    "type": "kun_sentence",
+    "text": "よく[動](うご)かす。"
+  },
+  {
+    "id": 163,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[転](ころ)ぶ。"
+  },
+  {
+    "id": 168,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[音](ね)。"
+  },
+  {
+    "id": 169,
+    "type": "kun_sentence",
+    "text": "よく[楽](たの)しむ。"
+  },
+  {
+    "id": 176,
+    "type": "kun_sentence",
+    "text": "よく[強](つよ)める。"
+  },
+  {
+    "id": 180,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[問](と)い。"
+  },
+  {
+    "id": 194,
+    "type": "kun_sentence",
+    "text": "よく[開](あ)く。"
+  },
+  {
+    "id": 194,
+    "type": "kun_sentence",
+    "text": "よく[開](ひら)く。"
+  },
+  {
+    "id": 195,
+    "type": "kun_sentence",
+    "text": "よく[閉](し)まる。"
+  },
+  {
+    "id": 195,
+    "type": "kun_sentence",
+    "text": "よく[閉](と)じる。"
+  },
+  {
+    "id": 196,
+    "type": "kun_sentence",
+    "text": "よく[集](아つ)める。"
+  },
+  {
+    "id": 198,
+    "type": "kun_sentence",
+    "text": "よく[試](ため)す。"
+  },
+  {
+    "id": 209,
+    "type": "kun_sentence",
+    "text": "よく[産](う)まれる。"
+  },
+  {
+    "id": 211,
+    "type": "kun_sentence",
+    "text": "よく[留](と)める。"
+  },
+  {
+    "id": 213,
+    "type": "kun_sentence",
+    "text": "よく[治](なお)る。"
+  },
+  {
+    "id": 215,
+    "type": "kun_sentence",
+    "text": "よく[済](す)ます。"
+  },
+  {
+    "id": 218,
+    "type": "kun_sentence",
+    "text": "よく[育](はぐく)む。"
+  },
+  {
+    "id": 221,
+    "type": "kun_sentence",
+    "text": "よく[連](つら)なる。"
+  },
+  {
+    "id": 224,
+    "type": "kun_sentence",
+    "text": "よく[合](あ)わせる。"
+  },
+  {
+    "id": 228,
+    "type": "kun_sentence",
+    "text": "よく[成](な)す。"
+  },
+  {
+    "id": 229,
+    "type": "kun_sentence",
+    "text": "よく[絶](た)やす。"
+  },
+  {
+    "id": 233,
+    "type": "kun_sentence",
+    "text": "よく[痛](いた)む。"
+  },
+  {
+    "id": 234,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[苦](にが)い。"
+  },
+  {
+    "id": 238,
+    "type": "kun_sentence",
+    "text": "よく[空](あ)く。"
+  },
+  {
+    "id": 238,
+    "type": "kun_sentence",
+    "text": "よく[空](あ)ける。"
+  },
+  {
+    "id": 241,
+    "type": "kun_sentence",
+    "text": "よく[祭](まつ)る。"
+  },
+  {
+    "id": 249,
+    "type": "kun_sentence",
+    "text": "よく[折](お)れる。"
+  },
+  {
+    "id": 250,
+    "type": "kun_sentence",
+    "text": "よく[抜](ぬ)ける。"
+  },
+  {
+    "id": 251,
+    "type": "kun_sentence",
+    "text": "よく[抱](いだ)く。"
+  },
+  {
+    "id": 254,
+    "type": "kun_sentence",
+    "text": "よく[挙](あ)がる。"
+  },
+  {
+    "id": 255,
+    "type": "kun_sentence",
+    "text": "よく[換](か)わる。"
+  },
+  {
+    "id": 257,
+    "type": "kun_sentence",
+    "text": "よく[揺](ゆ)らす。"
+  },
+  {
+    "id": 261,
+    "type": "kun_sentence",
+    "text": "よく[散](ち)らす。"
+  },
+  {
+    "id": 262,
+    "type": "kun_sentence",
+    "text": "よく[数](かぞ)える。"
+  },
+  {
+    "id": 263,
+    "type": "kun_sentence",
+    "text": "よく[断](た)つ。"
+  },
+  {
+    "id": 270,
+    "type": "kun_sentence",
+    "text": "よく[晴](は)らす。"
+  },
+  {
+    "id": 279,
+    "type": "kun_sentence",
+    "text": "よく[果](は)てる。"
+  },
+  {
+    "id": 280,
+    "type": "kun_sentence",
+    "text": "よく[栄](は)える。"
+  },
+  {
+    "id": 283,
+    "type": "kun_sentence",
+    "text": "よく[構](かま)う。"
+  },
+  {
+    "id": 287,
+    "type": "kun_sentence",
+    "text": "よく[欠](か)く。"
+  },
+  {
+    "id": 288,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[次](つ)ぐ。"
+  },
+  {
+    "id": 289,
+    "type": "kun_sentence",
+    "text": "よく[欲](ほっ)する。"
+  },
+  {
+    "id": 292,
+    "type": "kun_sentence",
+    "text": "よく[残](のこ)す。"
+  },
+  {
+    "id": 299,
+    "type": "kun_sentence",
+    "text": "よく[決](き)まる。"
+  },
+  {
+    "id": 302,
+    "type": "kun_sentence",
+    "text": "よく[探](さぐ)る。"
+  },
+  {
+    "id": 307,
+    "type": "kun_sentence",
+    "text": "よく[振](ふ)れる。"
+  },
+  {
+    "id": 308,
+    "type": "kun_sentence",
+    "text": "よく[描](か)く。"
+  },
+  {
+    "id": 319,
+    "type": "kun_sentence",
+    "text": "よく[承](う)ける。"
+  },
+  {
+    "id": 320,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[担](かつ)ぐ。"
+  },
+  {
+    "id": 320,
+    "type": "kun_sentence",
+    "text": "よく[担](にな)う。"
+  },
+  {
+    "id": 326,
+    "type": "kun_sentence",
+    "text": "よく[挟](はさ)まる。"
+  },
+  {
+    "id": 328,
+    "type": "kun_sentence",
+    "text": "よく[挫](くじ)ける。"
+  },
+  {
+    "id": 329,
+    "type": "kun_sentence",
+    "text": "よく[授](さず)かる。"
+  },
+  {
+    "id": 335,
+    "type": "kun_sentence",
+    "text": "よく[揚](あ)がる。"
+  },
+  {
+    "id": 337,
+    "type": "kun_sentence",
+    "text": "よく[損](そこ)ねる。"
+  },
+  {
+    "id": 339,
+    "type": "kun_sentence",
+    "text": "よく[携](たずさ)わる。"
+  },
+  {
+    "id": 346,
+    "type": "kun_sentence",
+    "text": "よく[擦](す)る。"
+  },
+  {
+    "id": 350,
+    "type": "kun_sentence",
+    "text": "よく[整](ととの)う。"
+  },
+  {
+    "id": 352,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[頭](かしら)。"
+  },
+  {
+    "id": 358,
+    "type": "kun_sentence",
+    "text": "よく[驚](おどろ)かす。"
+  },
+  {
+    "id": 360,
+    "type": "kun_sentence",
+    "text": "よく[鳴](な)る。"
+  },
+  {
+    "id": 360,
+    "type": "kun_sentence",
+    "text": "よく[鳴](나)らす。"
+  },
+  {
+    "id": 373,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[誤](あやま)り。"
+  },
+  {
+    "id": 375,
+    "type": "kun_sentence",
+    "text": "よく[访](たず)ねる。"
+  },
+  {
+    "id": 379,
+    "type": "kun_sentence",
+    "text": "よく[詰](つ)まる。"
+  },
+  {
+    "id": 388,
+    "type": "kun_sentence",
+    "text": "よく[請](こ)う。"
+  },
+  {
+    "id": 415,
+    "type": "kun_sentence",
+    "text": "よく[負](ま)かす。"
+  },
+  {
+    "id": 415,
+    "type": "kun_sentence",
+    "text": "よく[負](お)う。"
+  },
+  {
+    "id": 421,
+    "type": "kun_sentence",
+    "text": "よく[貯](た)まる。"
+  },
+  {
+    "id": 423,
+    "type": "kun_sentence",
+    "text": "よく[費](つい)える。"
+  },
+  {
+    "id": 454,
+    "type": "kun_sentence",
+    "text": "よく[従](したが)える。"
+  },
+  {
+    "id": 459,
+    "type": "kun_sentence",
+    "text": "よく[裁](た)つ。"
+  },
+  {
+    "id": 472,
+    "type": "kun_sentence",
+    "text": "よく[哀](あわ)れむ。"
+  },
+  {
+    "id": 485,
+    "type": "kun_sentence",
+    "text": "よく[廃](すた)る。"
+  },
+  {
+    "id": 487,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[殿](どの)。"
+  },
+  {
+    "id": 523,
+    "type": "kun_sentence",
+    "text": "よく[脱](ぬ)げる。"
+  },
+  {
+    "id": 528,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[背](せい)。"
+  },
+  {
+    "id": 528,
+    "type": "kun_sentence",
+    "text": "よく[背](そむ)く。"
+  },
+  {
+    "id": 533,
+    "type": "kun_sentence",
+    "text": "よく[膨](ふく)れる。"
+  },
+  {
+    "id": 543,
+    "type": "kun_sentence",
+    "text": "よく[滴](したた)る。"
+  },
+  {
+    "id": 546,
+    "type": "kun_sentence",
+    "text": "よく[漏](も)れる。"
+  },
+  {
+    "id": 546,
+    "type": "kun_sentence",
+    "text": "よく[漏](も)らす。"
+  },
+  {
+    "id": 550,
+    "type": "kun_sentence",
+    "text": "よく[滅](ほろ)ぼす。"
+  },
+  {
+    "id": 551,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[滑](なめ)らか。"
+  },
+  {
+    "id": 566,
+    "type": "kun_sentence",
+    "text": "よく[泊](と)める。"
+  },
+  {
+    "id": 567,
+    "type": "kun_sentence",
+    "text": "よく[浮](う)かれる。"
+  },
+  {
+    "id": 567,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[浮](う)かぶ。"
+  },
+  {
+    "id": 570,
+    "type": "kun_sentence",
+    "text": "よく[浸](ひた)る。"
+  },
+  {
+    "id": 575,
+    "type": "kun_sentence",
+    "text": "よく[潤](うるお)す。"
+  },
+  {
+    "id": 576,
+    "type": "kun_sentence",
+    "text": "よく[湿](しめ)す。"
+  },
+  {
+    "id": 577,
+    "type": "kun_sentence",
+    "text": "よく[潜](もぐ)る。"
+  },
+  {
+    "id": 583,
+    "type": "kun_sentence",
+    "text": "よく[抱](いだ)く。"
+  },
+  {
+    "id": 583,
+    "type": "kun_sentence",
+    "text": "よく[抱](かか)える。"
+  },
+  {
+    "id": 588,
+    "type": "kun_sentence",
+    "text": "よく[振](ふ)るう。"
+  },
+  {
+    "id": 588,
+    "type": "kun_sentence",
+    "text": "よく[振](ふ)られる。"
+  },
+  {
+    "id": 590,
+    "type": "kun_sentence",
+    "text": "よく[描](か)く。"
+  },
+  {
+    "id": 594,
+    "type": "kun_sentence",
+    "text": "よく[揚](あ)がる。"
+  },
+  {
+    "id": 597,
+    "type": "kun_sentence",
+    "text": "よく[揺](ゆ)らす。"
+  },
+  {
+    "id": 597,
+    "type": "kun_sentence",
+    "text": "よく[揺](ゆ)る。"
+  },
+  {
+    "id": 597,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[揺](ゆ)らぐ。"
+  },
+  {
+    "id": 599,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[操](みさお)。"
+  },
+  {
+    "id": 600,
+    "type": "kun_sentence",
+    "text": "よく[換](か)わる。"
+  },
+  {
+    "id": 617,
+    "type": "kun_sentence",
+    "text": "よく[仰](おっしゃ)る。"
+  },
+  {
+    "id": 622,
+    "type": "kun_sentence",
+    "text": "よく[依](よ)る。"
+  },
+  {
+    "id": 624,
+    "type": "kun_sentence",
+    "text": "よく[侍](はべ)る。"
+  },
+  {
+    "id": 640,
+    "type": "kun_sentence",
+    "text": "よく[傷](いた)む。"
+  },
+  {
+    "id": 640,
+    "type": "kun_sentence",
+    "text": "よく[傷](いた)める。"
+  },
+  {
+    "id": 665,
+    "type": "kun_sentence",
+    "text": "よく[凭](よ)る。"
+  },
+  {
+    "id": 666,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[凪](な)ぐ。"
+  },
+  {
+    "id": 676,
+    "type": "kun_sentence",
+    "text": "よく[刷](す)る。"
+  },
+  {
+    "id": 678,
+    "type": "kun_sentence",
+    "text": "よく[剃](す)る。"
+  },
+  {
+    "id": 693,
+    "type": "kun_sentence",
+    "text": "よく[勗](つと)める。"
+  },
+  {
+    "id": 695,
+    "type": "kun_sentence",
+    "text": "よく[劬](つか)れる。"
+  },
+  {
+    "id": 696,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[勍](つよ)い。"
+  },
+  {
+    "id": 698,
+    "type": "kun_sentence",
+    "text": "よく[勠](あわ)せる。"
+  },
+  {
+    "id": 699,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[勦](ねだや)し。"
+  },
+  {
+    "id": 699,
+    "type": "kun_sentence",
+    "text": "よく[勦](かす)める。"
+  },
+  {
+    "id": 710,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[蔑](사게스무)。"
+  },
+  {
+    "id": 717,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[薪](まき)。"
+  },
+  {
+    "id": 721,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[葦](よし)。"
+  },
+  {
+    "id": 730,
+    "type": "kun_sentence",
+    "text": "よく[蔓](はびこ)る。"
+  },
+  {
+    "id": 734,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[薙](なぎなた)。"
+  },
+  {
+    "id": 742,
+    "type": "kun_sentence",
+    "text": "よく[苛](さいな)む。"
+  },
+  {
+    "id": 757,
+    "type": "kun_sentence",
+    "text": "よく[慮](おもんぱか)る。"
+  },
+  {
+    "id": 760,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[虜](とりこ)。"
+  },
+  {
+    "id": 788,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[袒](하다ぬぎ)。"
+  },
+  {
+    "id": 800,
+    "type": "kun_sentence",
+    "text": "よく[祓](はら)う。"
+  },
+  {
+    "id": 807,
+    "type": "kun_sentence",
+    "text": "よく[萎](しぼ)む。"
+  },
+  {
+    "id": 810,
+    "type": "kun_sentence",
+    "text": "よく[咽](むせ)る。"
+  },
+  {
+    "id": 819,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[艶](なま)めかしい。"
+  },
+  {
+    "id": 856,
+    "type": "kun_sentence",
+    "text": "新(あたら)しい[煎](ぜん)。"
+  },
+  {
+    "id": 859,
+    "type": "kun_sentence",
+    "text": "よく[煽](おだ)てる。"
+  },
+  {
+    "id": 876,
+    "type": "kun_sentence",
+    "text": "よく[墮](おち)る。"
+  }
+]

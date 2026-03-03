@@ -1,0 +1,9134 @@
+{
+  "koreanInText": [
+    {
+      "id": "120: 乗",
+      "field": "kun_reading",
+      "text": "の.る/の.세る"
+    },
+    {
+      "id": "128: 便",
+      "field": "on_reading",
+      "text": "벤/빈"
+    },
+    {
+      "id": "130: 貸",
+      "field": "kun_reading",
+      "text": "か.스"
+    },
+    {
+      "id": "196: 集",
+      "field": "kun_reading",
+      "text": "あつ.まる/아つ.める"
+    },
+    {
+      "id": "404: 訟",
+      "field": "on_reading",
+      "text": "ショ우"
+    },
+    {
+      "id": "410: 謡",
+      "field": "kun_reading",
+      "text": "うた/うた.우"
+    },
+    {
+      "id": "429: 賑",
+      "field": "kun_reading",
+      "text": "니기.야か"
+    },
+    {
+      "id": "434: 賢",
+      "field": "kun_reading",
+      "text": "かし코.い"
+    },
+    {
+      "id": "437: 赴",
+      "field": "kun_reading",
+      "text": "お모む쿠"
+    },
+    {
+      "id": "440: 趣",
+      "field": "kun_reading",
+      "text": "お모む키"
+    },
+    {
+      "id": "447: 街",
+      "field": "kun_reading",
+      "text": "마치"
+    },
+    {
+      "id": "505: 庵",
+      "field": "kun_reading",
+      "text": "いお리"
+    }
+  ],
+  "multiReadingArrayMismatch": [
+    {
+      "id": "14: 万",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "17: 分",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "17: 分",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "20: 後",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "20: 後",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "21: 月",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "22: 火",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 2
+    },
+    {
+      "id": "24: 木",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "24: 木",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "25: 金",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "25: 金",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "26: 土",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "27: 山",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "30: 人",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "31: 口",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "34: 雨",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "35: 女",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "35: 女",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "36: 男",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "37: 子",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "37: 子",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "42: 休",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "46: 聞",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "46: 聞",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "47: 見",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "48: 言",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "48: 言",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "49: 話",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "50: 行",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "50: 行",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "51: 来",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "52: 出",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "52: 出",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "53: 入",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "56: 生",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "56: 生",
+      "field": "kun_reading",
+      "count": 10,
+      "sentenceLen": 3
+    },
+    {
+      "id": "57: 大",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "58: 小",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "60: 外",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "60: 外",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "61: 上",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 2
+    },
+    {
+      "id": "64: 右",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "66: 西",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "69: 白",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "70: 赤",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "71: 青",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "74: 高",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "76: 新",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "83: 少",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "84: 元",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "85: 気",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "86: 天",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "87: 私",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "88: 今",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "89: 何",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "91: 兄",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "93: 弟",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "95: 食",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "95: 食",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "98: 立",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "98: 立",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "99: 会",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "101: 店",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "104: 道",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "105: 先",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "106: 間",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "106: 間",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "107: 家",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "107: 家",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "109: 名",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "111: 力",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "112: 体",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "112: 体",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "113: 目",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "113: 目",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "114: 耳",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "115: 手",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "116: 足",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "117: 不",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "118: 世",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "119: 主",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "120: 乗",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "121: 事",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "122: 京",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "123: 仕",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "124: 代",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "124: 代",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "128: 便",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "133: 内",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "135: 冷",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "136: 切",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "136: 切",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "137: 映",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "138: 画",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "142: 教",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "144: 別",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "153: 止",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "154: 進",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "156: 起",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "157: 降",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "158: 始",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "159: 終",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "161: 動",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "163: 転",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "168: 音",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "168: 音",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "169: 楽",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "169: 楽",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "170: 歌",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "171: 度",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "176: 強",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "176: 強",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "177: 味",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "180: 問",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "183: 図",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "185: 地",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "187: 声",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "193: 質",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "194: 開",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "195: 閉",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "196: 集",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "198: 試",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "202: 台",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "206: 都",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "207: 宿",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "209: 産",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "211: 留",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "211: 留",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "212: 政",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "213: 治",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "213: 治",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "214: 経",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "215: 済",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "215: 済",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "218: 育",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "221: 連",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "222: 対",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "224: 合",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "224: 合",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "226: 役",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "228: 成",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "228: 成",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "229: 絶",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "233: 痛",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "234: 苦",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "238: 空",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "241: 祭",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "246: 拾",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "249: 折",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "250: 抜",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "251: 抱",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "254: 挙",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "255: 換",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "257: 揺",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "261: 散",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "262: 数",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "262: 数",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "263: 断",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "264: 昔",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "270: 晴",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "272: 望",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "274: 末",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "277: 束",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "279: 果",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "280: 栄",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "282: 極",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "283: 構",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "285: 権",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "287: 欠",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "288: 次",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "288: 次",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "289: 欲",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "291: 歳",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "292: 残",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "297: 氷",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "299: 決",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "316: 敬",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "320: 担",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "326: 挟",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "327: 拭",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "327: 拭",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "328: 挫",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "329: 授",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "335: 揚",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "337: 損",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "339: 携",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "346: 擦",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "350: 整",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "352: 頭",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "352: 頭",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "358: 驚",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "360: 鳴",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "373: 誤",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "375: 访",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "379: 詰",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "388: 請",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "388: 請",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "408: 謀",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "410: 謡",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "415: 負",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "416: 財",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "417: 貧",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "421: 貯",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "423: 費",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "454: 従",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "454: 従",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "456: 彼",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "459: 裁",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "464: 装",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "472: 哀",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "483: 庫",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "485: 廃",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "487: 殿",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "487: 殿",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "493: 鹿",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "523: 脱",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "528: 背",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "529: 肥",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "533: 膨",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "543: 滴",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "546: 漏",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "550: 滅",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "551: 滑",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "552: 濁",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "553: 澄",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "566: 泊",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "567: 浮",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "570: 浸",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "574: 渋",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "575: 潤",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "576: 湿",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "577: 潜",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "583: 抱",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "587: 拾",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "588: 振",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "590: 描",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "594: 揚",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "597: 揺",
+      "field": "kun_reading",
+      "count": 4,
+      "sentenceLen": 1
+    },
+    {
+      "id": "599: 操",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "600: 換",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "615: 偽",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "617: 仰",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "617: 仰",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "618: 伴",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "622: 依",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "624: 侍",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "631: 侶",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "640: 傷",
+      "field": "kun_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "645: 凝",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "656: 冥",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "665: 凭",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "666: 凪",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "672: 刃",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "675: 判",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "677: 刺",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "678: 剃",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "685: 功",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "689: 劫",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "699: 勦",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "710: 蔑",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "717: 薪",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "721: 葦",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "727: 藉",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "730: 蔓",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "731: 薔",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "732: 薇",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "734: 薙",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "735: 蔚",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "752: 茹",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "766: 蛇",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "772: 蝦",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "793: 祇",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "794: 祐",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "803: 宛",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "807: 萎",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "810: 咽",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 2
+    },
+    {
+      "id": "810: 咽",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "813: 隠",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "817: 餌",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "818: 怨",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "819: 艶",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "824: 牙",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "834: 粥",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "836: 伎",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "837: 忌",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "844: 亀",
+      "field": "on_reading",
+      "count": 3,
+      "sentenceLen": 1
+    },
+    {
+      "id": "846: 乞",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "854: 脊",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "856: 煎",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "857: 羨",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "857: 羨",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "859: 煽",
+      "field": "kun_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "863: 狙",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "870: 捉",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "872: 汰",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "879: 堆",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "884: 旦",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "888: 嫡",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "893: 捗",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    },
+    {
+      "id": "894: 椎",
+      "field": "on_reading",
+      "count": 2,
+      "sentenceLen": 1
+    }
+  ],
+  "missingExampleType": [
+    {
+      "id": "1: 日",
+      "type": "훈독"
+    },
+    {
+      "id": "13: 千",
+      "type": "훈독"
+    },
+    {
+      "id": "14: 万",
+      "type": "훈독"
+    },
+    {
+      "id": "19: 前",
+      "type": "훈독"
+    },
+    {
+      "id": "21: 月",
+      "type": "훈독"
+    },
+    {
+      "id": "22: 火",
+      "type": "훈독"
+    },
+    {
+      "id": "23: 水",
+      "type": "훈독"
+    },
+    {
+      "id": "24: 木",
+      "type": "훈독"
+    },
+    {
+      "id": "25: 金",
+      "type": "훈독"
+    },
+    {
+      "id": "26: 土",
+      "type": "훈독"
+    },
+    {
+      "id": "27: 山",
+      "type": "훈독"
+    },
+    {
+      "id": "28: 川",
+      "type": "훈독"
+    },
+    {
+      "id": "29: 田",
+      "type": "훈독"
+    },
+    {
+      "id": "31: 口",
+      "type": "훈독"
+    },
+    {
+      "id": "32: 車",
+      "type": "훈독"
+    },
+    {
+      "id": "33: 門",
+      "type": "훈독"
+    },
+    {
+      "id": "34: 雨",
+      "type": "훈독"
+    },
+    {
+      "id": "35: 女",
+      "type": "훈독"
+    },
+    {
+      "id": "36: 男",
+      "type": "훈독"
+    },
+    {
+      "id": "38: 母",
+      "type": "훈독"
+    },
+    {
+      "id": "39: 父",
+      "type": "훈독"
+    },
+    {
+      "id": "41: 本",
+      "type": "훈독"
+    },
+    {
+      "id": "42: 休",
+      "type": "훈독"
+    },
+    {
+      "id": "43: 語",
+      "type": "훈독"
+    },
+    {
+      "id": "44: 書",
+      "type": "훈독"
+    },
+    {
+      "id": "45: 読",
+      "type": "훈독"
+    },
+    {
+      "id": "46: 聞",
+      "type": "훈독"
+    },
+    {
+      "id": "47: 見",
+      "type": "훈독"
+    },
+    {
+      "id": "48: 言",
+      "type": "훈독"
+    },
+    {
+      "id": "49: 話",
+      "type": "훈독"
+    },
+    {
+      "id": "50: 行",
+      "type": "훈독"
+    },
+    {
+      "id": "51: 来",
+      "type": "훈독"
+    },
+    {
+      "id": "54: 学",
+      "type": "훈독"
+    },
+    {
+      "id": "57: 大",
+      "type": "훈독"
+    },
+    {
+      "id": "59: 中",
+      "type": "훈독"
+    },
+    {
+      "id": "60: 外",
+      "type": "훈독"
+    },
+    {
+      "id": "61: 上",
+      "type": "훈독"
+    },
+    {
+      "id": "62: 下",
+      "type": "훈독"
+    },
+    {
+      "id": "63: 左",
+      "type": "훈독"
+    },
+    {
+      "id": "64: 右",
+      "type": "훈독"
+    },
+    {
+      "id": "65: 東",
+      "type": "훈독"
+    },
+    {
+      "id": "69: 白",
+      "type": "훈독"
+    },
+    {
+      "id": "71: 青",
+      "type": "훈독"
+    },
+    {
+      "id": "72: 黒",
+      "type": "훈독"
+    },
+    {
+      "id": "73: 長",
+      "type": "훈독"
+    },
+    {
+      "id": "74: 高",
+      "type": "훈독"
+    },
+    {
+      "id": "75: 安",
+      "type": "훈독"
+    },
+    {
+      "id": "76: 新",
+      "type": "훈독"
+    },
+    {
+      "id": "77: 古",
+      "type": "훈독"
+    },
+    {
+      "id": "78: 早",
+      "type": "훈독"
+    },
+    {
+      "id": "81: 年",
+      "type": "훈독"
+    },
+    {
+      "id": "82: 多",
+      "type": "훈독"
+    },
+    {
+      "id": "84: 元",
+      "type": "훈독"
+    },
+    {
+      "id": "86: 天",
+      "type": "훈독"
+    },
+    {
+      "id": "87: 私",
+      "type": "훈독"
+    },
+    {
+      "id": "88: 今",
+      "type": "훈독"
+    },
+    {
+      "id": "89: 何",
+      "type": "음독"
+    },
+    {
+      "id": "90: 国",
+      "type": "훈독"
+    },
+    {
+      "id": "91: 兄",
+      "type": "훈독"
+    },
+    {
+      "id": "92: 姉",
+      "type": "훈독"
+    },
+    {
+      "id": "93: 弟",
+      "type": "훈독"
+    },
+    {
+      "id": "94: 妹",
+      "type": "훈독"
+    },
+    {
+      "id": "98: 立",
+      "type": "훈독"
+    },
+    {
+      "id": "99: 会",
+      "type": "훈독"
+    },
+    {
+      "id": "100: 社",
+      "type": "훈독"
+    },
+    {
+      "id": "101: 店",
+      "type": "훈독"
+    },
+    {
+      "id": "104: 道",
+      "type": "훈독"
+    },
+    {
+      "id": "105: 先",
+      "type": "훈독"
+    },
+    {
+      "id": "106: 間",
+      "type": "훈독"
+    },
+    {
+      "id": "107: 家",
+      "type": "훈독"
+    },
+    {
+      "id": "110: 半",
+      "type": "훈독"
+    },
+    {
+      "id": "111: 力",
+      "type": "훈독"
+    },
+    {
+      "id": "112: 体",
+      "type": "훈독"
+    },
+    {
+      "id": "113: 目",
+      "type": "훈독"
+    },
+    {
+      "id": "114: 耳",
+      "type": "훈독"
+    },
+    {
+      "id": "115: 手",
+      "type": "훈독"
+    },
+    {
+      "id": "116: 足",
+      "type": "훈독"
+    },
+    {
+      "id": "119: 主",
+      "type": "훈독"
+    },
+    {
+      "id": "120: 乗",
+      "type": "훈독"
+    },
+    {
+      "id": "121: 事",
+      "type": "훈독"
+    },
+    {
+      "id": "130: 貸",
+      "type": "훈독"
+    },
+    {
+      "id": "132: 公",
+      "type": "훈독"
+    },
+    {
+      "id": "143: 室",
+      "type": "훈독"
+    },
+    {
+      "id": "152: 急",
+      "type": "훈독"
+    },
+    {
+      "id": "153: 止",
+      "type": "훈독"
+    },
+    {
+      "id": "154: 進",
+      "type": "훈독"
+    },
+    {
+      "id": "155: 走",
+      "type": "훈독"
+    },
+    {
+      "id": "156: 起",
+      "type": "훈독"
+    },
+    {
+      "id": "157: 降",
+      "type": "훈독"
+    },
+    {
+      "id": "158: 始",
+      "type": "훈독"
+    },
+    {
+      "id": "160: 運",
+      "type": "훈독"
+    },
+    {
+      "id": "161: 動",
+      "type": "훈독"
+    },
+    {
+      "id": "163: 転",
+      "type": "훈독"
+    },
+    {
+      "id": "164: 園",
+      "type": "훈독"
+    },
+    {
+      "id": "165: 遠",
+      "type": "훈독"
+    },
+    {
+      "id": "166: 送",
+      "type": "훈독"
+    },
+    {
+      "id": "168: 音",
+      "type": "훈독"
+    },
+    {
+      "id": "171: 度",
+      "type": "훈독"
+    },
+    {
+      "id": "172: 待",
+      "type": "훈독"
+    },
+    {
+      "id": "173: 持",
+      "type": "훈독"
+    },
+    {
+      "id": "176: 強",
+      "type": "훈독"
+    },
+    {
+      "id": "177: 味",
+      "type": "훈독"
+    },
+    {
+      "id": "180: 問",
+      "type": "훈독"
+    },
+    {
+      "id": "183: 図",
+      "type": "훈독"
+    },
+    {
+      "id": "184: 館",
+      "type": "훈독"
+    },
+    {
+      "id": "187: 声",
+      "type": "훈독"
+    },
+    {
+      "id": "188: 心",
+      "type": "훈독"
+    },
+    {
+      "id": "189: 思",
+      "type": "훈독"
+    },
+    {
+      "id": "191: 用",
+      "type": "훈독"
+    },
+    {
+      "id": "194: 開",
+      "type": "훈독"
+    },
+    {
+      "id": "196: 集",
+      "type": "훈독"
+    },
+    {
+      "id": "197: 習",
+      "type": "훈독"
+    },
+    {
+      "id": "198: 試",
+      "type": "훈독"
+    },
+    {
+      "id": "200: 説",
+      "type": "훈독"
+    },
+    {
+      "id": "201: 野",
+      "type": "훈독"
+    },
+    {
+      "id": "206: 都",
+      "type": "훈독"
+    },
+    {
+      "id": "207: 宿",
+      "type": "훈독"
+    },
+    {
+      "id": "209: 産",
+      "type": "훈독"
+    },
+    {
+      "id": "211: 留",
+      "type": "훈독"
+    },
+    {
+      "id": "212: 政",
+      "type": "훈독"
+    },
+    {
+      "id": "213: 治",
+      "type": "훈독"
+    },
+    {
+      "id": "214: 経",
+      "type": "훈독"
+    },
+    {
+      "id": "218: 育",
+      "type": "훈독"
+    },
+    {
+      "id": "220: 民",
+      "type": "훈독"
+    },
+    {
+      "id": "221: 連",
+      "type": "훈독"
+    },
+    {
+      "id": "224: 合",
+      "type": "훈독"
+    },
+    {
+      "id": "228: 成",
+      "type": "훈독"
+    },
+    {
+      "id": "229: 絶",
+      "type": "훈독"
+    },
+    {
+      "id": "231: 配",
+      "type": "훈독"
+    },
+    {
+      "id": "232: 願",
+      "type": "훈독"
+    },
+    {
+      "id": "235: 健",
+      "type": "훈독"
+    },
+    {
+      "id": "238: 空",
+      "type": "훈독"
+    },
+    {
+      "id": "242: 際",
+      "type": "훈독"
+    },
+    {
+      "id": "247: 投",
+      "type": "훈독"
+    },
+    {
+      "id": "251: 抱",
+      "type": "훈독"
+    },
+    {
+      "id": "252: 招",
+      "type": "훈독"
+    },
+    {
+      "id": "253: 接",
+      "type": "훈독"
+    },
+    {
+      "id": "254: 挙",
+      "type": "훈독"
+    },
+    {
+      "id": "255: 換",
+      "type": "훈독"
+    },
+    {
+      "id": "256: 握",
+      "type": "훈독"
+    },
+    {
+      "id": "258: 支",
+      "type": "훈독"
+    },
+    {
+      "id": "259: 改",
+      "type": "훈독"
+    },
+    {
+      "id": "260: 敗",
+      "type": "훈독"
+    },
+    {
+      "id": "261: 散",
+      "type": "훈독"
+    },
+    {
+      "id": "262: 数",
+      "type": "훈독"
+    },
+    {
+      "id": "263: 断",
+      "type": "훈독"
+    },
+    {
+      "id": "271: 最",
+      "type": "훈독"
+    },
+    {
+      "id": "272: 望",
+      "type": "훈독"
+    },
+    {
+      "id": "274: 末",
+      "type": "훈독"
+    },
+    {
+      "id": "277: 束",
+      "type": "훈독"
+    },
+    {
+      "id": "279: 果",
+      "type": "훈독"
+    },
+    {
+      "id": "283: 構",
+      "type": "훈독"
+    },
+    {
+      "id": "284: 様",
+      "type": "훈독"
+    },
+    {
+      "id": "287: 欠",
+      "type": "훈독"
+    },
+    {
+      "id": "288: 次",
+      "type": "훈독"
+    },
+    {
+      "id": "290: 歯",
+      "type": "훈독"
+    },
+    {
+      "id": "292: 残",
+      "type": "훈독"
+    },
+    {
+      "id": "295: 比",
+      "type": "훈독"
+    },
+    {
+      "id": "296: 毛",
+      "type": "훈독"
+    },
+    {
+      "id": "297: 氷",
+      "type": "훈독"
+    },
+    {
+      "id": "298: 永",
+      "type": "훈독"
+    },
+    {
+      "id": "299: 決",
+      "type": "훈독"
+    },
+    {
+      "id": "300: 泳",
+      "type": "훈독"
+    },
+    {
+      "id": "303: 捨",
+      "type": "훈독"
+    },
+    {
+      "id": "305: 掘",
+      "type": "훈독"
+    },
+    {
+      "id": "310: 摘",
+      "type": "훈독"
+    },
+    {
+      "id": "316: 敬",
+      "type": "훈독"
+    },
+    {
+      "id": "319: 承",
+      "type": "훈독"
+    },
+    {
+      "id": "327: 拭",
+      "type": "음독"
+    },
+    {
+      "id": "337: 損",
+      "type": "훈독"
+    },
+    {
+      "id": "339: 携",
+      "type": "훈독"
+    },
+    {
+      "id": "340: 搾",
+      "type": "훈독"
+    },
+    {
+      "id": "342: 摺",
+      "type": "음독"
+    },
+    {
+      "id": "344: 撮",
+      "type": "훈독"
+    },
+    {
+      "id": "347: 牧",
+      "type": "훈독"
+    },
+    {
+      "id": "350: 整",
+      "type": "훈독"
+    },
+    {
+      "id": "351: 類",
+      "type": "훈독"
+    },
+    {
+      "id": "353: 顔",
+      "type": "훈독"
+    },
+    {
+      "id": "355: 飯",
+      "type": "훈독"
+    },
+    {
+      "id": "357: 養",
+      "type": "훈독"
+    },
+    {
+      "id": "359: 鮮",
+      "type": "훈독"
+    },
+    {
+      "id": "360: 鳴",
+      "type": "훈독"
+    },
+    {
+      "id": "363: 詞",
+      "type": "훈독"
+    },
+    {
+      "id": "365: 譲",
+      "type": "훈독"
+    },
+    {
+      "id": "366: 護",
+      "type": "훈독"
+    },
+    {
+      "id": "371: 諸",
+      "type": "훈독"
+    },
+    {
+      "id": "372: 謝",
+      "type": "훈독"
+    },
+    {
+      "id": "373: 誤",
+      "type": "훈독"
+    },
+    {
+      "id": "374: 認",
+      "type": "훈독"
+    },
+    {
+      "id": "375: 访",
+      "type": "훈독"
+    },
+    {
+      "id": "376: 詳",
+      "type": "훈독"
+    },
+    {
+      "id": "379: 詰",
+      "type": "훈독"
+    },
+    {
+      "id": "381: 誠",
+      "type": "훈독"
+    },
+    {
+      "id": "382: 誓",
+      "type": "훈독"
+    },
+    {
+      "id": "384: 誘",
+      "type": "훈독"
+    },
+    {
+      "id": "386: 誉",
+      "type": "훈독"
+    },
+    {
+      "id": "389: 謹",
+      "type": "훈독"
+    },
+    {
+      "id": "390: 諭",
+      "type": "훈독"
+    },
+    {
+      "id": "396: 辞",
+      "type": "훈독"
+    },
+    {
+      "id": "397: 訓",
+      "type": "훈독"
+    },
+    {
+      "id": "399: 訴",
+      "type": "훈독"
+    },
+    {
+      "id": "400: 診",
+      "type": "훈독"
+    },
+    {
+      "id": "402: 设",
+      "type": "훈독"
+    },
+    {
+      "id": "403: 許",
+      "type": "훈독"
+    },
+    {
+      "id": "406: 誰",
+      "type": "음독"
+    },
+    {
+      "id": "408: 謀",
+      "type": "훈독"
+    },
+    {
+      "id": "410: 謡",
+      "type": "훈독"
+    },
+    {
+      "id": "413: 訴",
+      "type": "훈독"
+    },
+    {
+      "id": "414: 診",
+      "type": "훈독"
+    },
+    {
+      "id": "417: 貧",
+      "type": "훈독"
+    },
+    {
+      "id": "420: 責",
+      "type": "음독"
+    },
+    {
+      "id": "421: 貯",
+      "type": "훈독"
+    },
+    {
+      "id": "422: 貴",
+      "type": "훈독"
+    },
+    {
+      "id": "423: 費",
+      "type": "훈독"
+    },
+    {
+      "id": "429: 賑",
+      "type": "훈독"
+    },
+    {
+      "id": "431: 賜",
+      "type": "훈독"
+    },
+    {
+      "id": "432: 賞",
+      "type": "훈독"
+    },
+    {
+      "id": "434: 賢",
+      "type": "훈독"
+    },
+    {
+      "id": "436: 贈",
+      "type": "훈독"
+    },
+    {
+      "id": "437: 赴",
+      "type": "훈독"
+    },
+    {
+      "id": "438: 超",
+      "type": "훈독"
+    },
+    {
+      "id": "439: 越",
+      "type": "훈독"
+    },
+    {
+      "id": "440: 趣",
+      "type": "훈독"
+    },
+    {
+      "id": "442: 得",
+      "type": "훈독"
+    },
+    {
+      "id": "444: 御",
+      "type": "훈독"
+    },
+    {
+      "id": "447: 街",
+      "type": "훈독"
+    },
+    {
+      "id": "454: 従",
+      "type": "훈독"
+    },
+    {
+      "id": "456: 彼",
+      "type": "음독"
+    },
+    {
+      "id": "459: 裁",
+      "type": "훈독"
+    },
+    {
+      "id": "462: 裏",
+      "type": "음독"
+    },
+    {
+      "id": "463: 補",
+      "type": "훈독"
+    },
+    {
+      "id": "464: 装",
+      "type": "훈독"
+    },
+    {
+      "id": "465: 襲",
+      "type": "훈독"
+    },
+    {
+      "id": "466: 裸",
+      "type": "훈독"
+    },
+    {
+      "id": "468: 褒",
+      "type": "음독"
+    },
+    {
+      "id": "468: 褒",
+      "type": "훈독"
+    },
+    {
+      "id": "470: 裾",
+      "type": "음독"
+    },
+    {
+      "id": "474: 衰",
+      "type": "훈독"
+    },
+    {
+      "id": "476: 袴",
+      "type": "훈독"
+    },
+    {
+      "id": "477: 裙",
+      "type": "훈독"
+    },
+    {
+      "id": "483: 庫",
+      "type": "훈독"
+    },
+    {
+      "id": "485: 廃",
+      "type": "훈독"
+    },
+    {
+      "id": "490: 座",
+      "type": "훈독"
+    },
+    {
+      "id": "494: 麗",
+      "type": "훈독"
+    },
+    {
+      "id": "500: 麻",
+      "type": "훈독"
+    },
+    {
+      "id": "502: 磨",
+      "type": "훈독"
+    },
+    {
+      "id": "505: 庵",
+      "type": "훈독"
+    },
+    {
+      "id": "506: 底",
+      "type": "훈독"
+    },
+    {
+      "id": "513: 腹",
+      "type": "훈독"
+    },
+    {
+      "id": "514: 脚",
+      "type": "훈독"
+    },
+    {
+      "id": "516: 肘",
+      "type": "음독"
+    },
+    {
+      "id": "517: 肌",
+      "type": "음독"
+    },
+    {
+      "id": "518: 脂",
+      "type": "훈독"
+    },
+    {
+      "id": "523: 脱",
+      "type": "훈독"
+    },
+    {
+      "id": "529: 肥",
+      "type": "훈독"
+    },
+    {
+      "id": "531: 脇",
+      "type": "음독"
+    },
+    {
+      "id": "532: 腫",
+      "type": "훈독"
+    },
+    {
+      "id": "533: 膨",
+      "type": "훈독"
+    },
+    {
+      "id": "536: 腿",
+      "type": "훈독"
+    },
+    {
+      "id": "539: 肝",
+      "type": "훈독"
+    },
+    {
+      "id": "544: 滞",
+      "type": "훈독"
+    },
+    {
+      "id": "546: 漏",
+      "type": "훈독"
+    },
+    {
+      "id": "548: 灘",
+      "type": "음독"
+    },
+    {
+      "id": "550: 滅",
+      "type": "훈독"
+    },
+    {
+      "id": "552: 濁",
+      "type": "훈독"
+    },
+    {
+      "id": "554: 濃",
+      "type": "훈독"
+    },
+    {
+      "id": "555: 潔",
+      "type": "훈독"
+    },
+    {
+      "id": "560: 滝",
+      "type": "음독"
+    },
+    {
+      "id": "565: 沼",
+      "type": "음독"
+    },
+    {
+      "id": "566: 泊",
+      "type": "훈독"
+    },
+    {
+      "id": "568: 洞",
+      "type": "훈독"
+    },
+    {
+      "id": "570: 浸",
+      "type": "훈독"
+    },
+    {
+      "id": "573: 渇",
+      "type": "훈독"
+    },
+    {
+      "id": "575: 潤",
+      "type": "훈독"
+    },
+    {
+      "id": "576: 湿",
+      "type": "훈독"
+    },
+    {
+      "id": "577: 潜",
+      "type": "훈독"
+    },
+    {
+      "id": "582: 漂",
+      "type": "훈독"
+    },
+    {
+      "id": "583: 抱",
+      "type": "훈독"
+    },
+    {
+      "id": "585: 招",
+      "type": "훈독"
+    },
+    {
+      "id": "586: 拜",
+      "type": "훈독"
+    },
+    {
+      "id": "588: 振",
+      "type": "훈독"
+    },
+    {
+      "id": "592: 掘",
+      "type": "훈독"
+    },
+    {
+      "id": "595: 握",
+      "type": "훈독"
+    },
+    {
+      "id": "600: 換",
+      "type": "훈독"
+    },
+    {
+      "id": "602: 股",
+      "type": "훈독"
+    },
+    {
+      "id": "608: 償",
+      "type": "훈독"
+    },
+    {
+      "id": "613: 僕",
+      "type": "훈독"
+    },
+    {
+      "id": "617: 仰",
+      "type": "훈독"
+    },
+    {
+      "id": "618: 伴",
+      "type": "훈독"
+    },
+    {
+      "id": "621: 併",
+      "type": "훈독"
+    },
+    {
+      "id": "622: 依",
+      "type": "훈독"
+    },
+    {
+      "id": "625: 侮",
+      "type": "훈독"
+    },
+    {
+      "id": "629: 侵",
+      "type": "훈독"
+    },
+    {
+      "id": "630: 促",
+      "type": "훈독"
+    },
+    {
+      "id": "636: 偏",
+      "type": "훈독"
+    },
+    {
+      "id": "638: 傍",
+      "type": "훈독"
+    },
+    {
+      "id": "639: 催",
+      "type": "훈독"
+    },
+    {
+      "id": "645: 凝",
+      "type": "훈독"
+    },
+    {
+      "id": "646: 充",
+      "type": "훈독"
+    },
+    {
+      "id": "647: 兔",
+      "type": "훈독"
+    },
+    {
+      "id": "648: 兜",
+      "type": "음독"
+    },
+    {
+      "id": "653: 兼",
+      "type": "훈독"
+    },
+    {
+      "id": "655: 冒",
+      "type": "훈독"
+    },
+    {
+      "id": "657: 冠",
+      "type": "훈독"
+    },
+    {
+      "id": "664: 凛",
+      "type": "훈독"
+    },
+    {
+      "id": "670: 凹",
+      "type": "훈독"
+    },
+    {
+      "id": "673: 벨 예",
+      "type": "음독"
+    },
+    {
+      "id": "675: 判",
+      "type": "훈독"
+    },
+    {
+      "id": "676: 刷",
+      "type": "훈독"
+    },
+    {
+      "id": "678: 剃",
+      "type": "훈독"
+    },
+    {
+      "id": "688: 勲",
+      "type": "훈독"
+    },
+    {
+      "id": "693: 勗",
+      "type": "훈독"
+    },
+    {
+      "id": "694: 劭",
+      "type": "훈독"
+    },
+    {
+      "id": "695: 劬",
+      "type": "훈독"
+    },
+    {
+      "id": "696: 勍",
+      "type": "훈독"
+    },
+    {
+      "id": "697: 勣",
+      "type": "훈독"
+    },
+    {
+      "id": "698: 勠",
+      "type": "훈독"
+    },
+    {
+      "id": "699: 勦",
+      "type": "훈독"
+    },
+    {
+      "id": "700: 包",
+      "type": "훈독"
+    },
+    {
+      "id": "707: 蒼",
+      "type": "훈독"
+    },
+    {
+      "id": "708: 蓄",
+      "type": "훈독"
+    },
+    {
+      "id": "710: 蔑",
+      "type": "훈독"
+    },
+    {
+      "id": "721: 葦",
+      "type": "음독"
+    },
+    {
+      "id": "725: 繭",
+      "type": "훈독"
+    },
+    {
+      "id": "726: 菫",
+      "type": "음독"
+    },
+    {
+      "id": "734: 薙",
+      "type": "음독"
+    },
+    {
+      "id": "737: 藁",
+      "type": "음독"
+    },
+    {
+      "id": "738: 蕨",
+      "type": "음독"
+    },
+    {
+      "id": "740: 茨",
+      "type": "음독"
+    },
+    {
+      "id": "741: 苑",
+      "type": "훈독"
+    },
+    {
+      "id": "743: 苔",
+      "type": "음독"
+    },
+    {
+      "id": "744: 苟",
+      "type": "훈독"
+    },
+    {
+      "id": "752: 茹",
+      "type": "음독"
+    },
+    {
+      "id": "756: 虐",
+      "type": "훈독"
+    },
+    {
+      "id": "757: 慮",
+      "type": "훈독"
+    },
+    {
+      "id": "759: 虞",
+      "type": "훈독"
+    },
+    {
+      "id": "761: 虧",
+      "type": "훈독"
+    },
+    {
+      "id": "763: 蚊",
+      "type": "음독"
+    },
+    {
+      "id": "766: 蛇",
+      "type": "훈독"
+    },
+    {
+      "id": "774: 蟹",
+      "type": "음독"
+    },
+    {
+      "id": "776: 蠅",
+      "type": "음독"
+    },
+    {
+      "id": "777: 蠍",
+      "type": "음독"
+    },
+    {
+      "id": "779: 蝕",
+      "type": "훈독"
+    },
+    {
+      "id": "783: 褒",
+      "type": "음독"
+    },
+    {
+      "id": "783: 褒",
+      "type": "훈독"
+    },
+    {
+      "id": "788: 袒",
+      "type": "음독"
+    },
+    {
+      "id": "790: 祷",
+      "type": "훈독"
+    },
+    {
+      "id": "791: 祀",
+      "type": "훈독"
+    },
+    {
+      "id": "806: 畏",
+      "type": "훈독"
+    },
+    {
+      "id": "814: 臼",
+      "type": "훈독"
+    },
+    {
+      "id": "816: 唄",
+      "type": "훈독"
+    },
+    {
+      "id": "819: 艶",
+      "type": "훈독"
+    },
+    {
+      "id": "823: 俺",
+      "type": "음독"
+    },
+    {
+      "id": "824: 牙",
+      "type": "훈독"
+    },
+    {
+      "id": "830: 顎",
+      "type": "훈독"
+    },
+    {
+      "id": "832: 釜",
+      "type": "훈독"
+    },
+    {
+      "id": "834: 粥",
+      "type": "훈독"
+    },
+    {
+      "id": "835: 玩",
+      "type": "훈독"
+    },
+    {
+      "id": "846: 乞",
+      "type": "음독"
+    },
+    {
+      "id": "847: 隙",
+      "type": "음독"
+    },
+    {
+      "id": "848: 桁",
+      "type": "음독"
+    },
+    {
+      "id": "849: 尻",
+      "type": "음독"
+    },
+    {
+      "id": "854: 脊",
+      "type": "음독"
+    },
+    {
+      "id": "854: 脊",
+      "type": "훈독"
+    },
+    {
+      "id": "856: 煎",
+      "type": "훈독"
+    },
+    {
+      "id": "859: 煽",
+      "type": "훈독"
+    },
+    {
+      "id": "861: 箋",
+      "type": "훈독"
+    },
+    {
+      "id": "864: 阻",
+      "type": "훈독"
+    },
+    {
+      "id": "875: 唾",
+      "type": "훈독"
+    },
+    {
+      "id": "876: 墮",
+      "type": "훈독"
+    },
+    {
+      "id": "880: 戴",
+      "type": "훈독"
+    },
+    {
+      "id": "881: 誰",
+      "type": "음독"
+    },
+    {
+      "id": "882: 丹",
+      "type": "훈독"
+    },
+    {
+      "id": "907: 罵",
+      "type": "훈독"
+    },
+    {
+      "id": "908: 挫",
+      "type": "훈독"
+    },
+    {
+      "id": "912: 悴",
+      "type": "훈독"
+    },
+    {
+      "id": "914: 傲",
+      "type": "훈독"
+    },
+    {
+      "id": "917: 諜",
+      "type": "훈독"
+    },
+    {
+      "id": "918: 椎",
+      "type": "훈독"
+    },
+    {
+      "id": "919: 錘",
+      "type": "훈독"
+    },
+    {
+      "id": "921: 墜",
+      "type": "훈독"
+    },
+    {
+      "id": "925: 籠",
+      "type": "훈독"
+    },
+    {
+      "id": "927: 弄",
+      "type": "훈독"
+    },
+    {
+      "id": "928: 賂",
+      "type": "훈독"
+    },
+    {
+      "id": "934: 喝",
+      "type": "훈독"
+    },
+    {
+      "id": "936: 釜",
+      "type": "훈독"
+    },
+    {
+      "id": "938: 粥",
+      "type": "훈독"
+    },
+    {
+      "id": "939: 玩",
+      "type": "훈독"
+    },
+    {
+      "id": "940: 伎",
+      "type": "훈독"
+    },
+    {
+      "id": "942: 畿",
+      "type": "훈독"
+    },
+    {
+      "id": "944: 稀",
+      "type": "훈독"
+    },
+    {
+      "id": "945: 毅",
+      "type": "훈독"
+    },
+    {
+      "id": "946: 徽",
+      "type": "훈독"
+    },
+    {
+      "id": "948: 亀",
+      "type": "훈독"
+    },
+    {
+      "id": "950: 乞",
+      "type": "음독"
+    },
+    {
+      "id": "953: 尻",
+      "type": "음독"
+    },
+    {
+      "id": "954: 芯",
+      "type": "훈독"
+    },
+    {
+      "id": "955: 裾",
+      "type": "음독"
+    },
+    {
+      "id": "958: 脊",
+      "type": "음독"
+    },
+    {
+      "id": "958: 脊",
+      "type": "훈독"
+    },
+    {
+      "id": "959: 煎",
+      "type": "훈독"
+    },
+    {
+      "id": "960: 腺",
+      "type": "훈독"
+    },
+    {
+      "id": "962: 栓",
+      "type": "훈독"
+    },
+    {
+      "id": "963: 箋",
+      "type": "훈독"
+    },
+    {
+      "id": "964: 膳",
+      "type": "훈독"
+    },
+    {
+      "id": "968: 噌",
+      "type": "훈독"
+    },
+    {
+      "id": "971: 踪",
+      "type": "훈독"
+    },
+    {
+      "id": "973: 遜",
+      "type": "훈독"
+    },
+    {
+      "id": "974: 汰",
+      "type": "훈독"
+    },
+    {
+      "id": "976: 妥",
+      "type": "훈독"
+    },
+    {
+      "id": "978: 墮",
+      "type": "훈독"
+    },
+    {
+      "id": "979: 惰",
+      "type": "훈독"
+    },
+    {
+      "id": "980: 駄",
+      "type": "훈독"
+    },
+    {
+      "id": "992: 抽",
+      "type": "훈독"
+    },
+    {
+      "id": "998: 朕",
+      "type": "훈독"
+    },
+    {
+      "id": "1000: 塚",
+      "type": "훈독"
+    },
+    {
+      "id": "1002: 委",
+      "type": "훈독"
+    },
+    {
+      "id": "1005: 温",
+      "type": "훈독"
+    },
+    {
+      "id": "1006: 化",
+      "type": "훈독"
+    },
+    {
+      "id": "1007: 荷",
+      "type": "음독"
+    },
+    {
+      "id": "1008: 寒",
+      "type": "음독"
+    },
+    {
+      "id": "1010: 岸",
+      "type": "훈독"
+    },
+    {
+      "id": "1013: 暮",
+      "type": "훈독"
+    },
+    {
+      "id": "1014: 骨",
+      "type": "훈독"
+    },
+    {
+      "id": "1015: 祈",
+      "type": "훈독"
+    },
+    {
+      "id": "1016: 叫",
+      "type": "훈독"
+    },
+    {
+      "id": "1017: 互",
+      "type": "훈독"
+    },
+    {
+      "id": "1018: 悲",
+      "type": "훈독"
+    },
+    {
+      "id": "1019: 怒",
+      "type": "음독"
+    },
+    {
+      "id": "1020: 恐",
+      "type": "훈독"
+    },
+    {
+      "id": "1021: 恥",
+      "type": "음독"
+    },
+    {
+      "id": "1022: 頼",
+      "type": "훈독"
+    },
+    {
+      "id": "1023: 悩",
+      "type": "훈독"
+    },
+    {
+      "id": "1024: 迷",
+      "type": "훈독"
+    },
+    {
+      "id": "1025: 戻",
+      "type": "훈독"
+    },
+    {
+      "id": "1027: 捕",
+      "type": "훈독"
+    },
+    {
+      "id": "1028: 逃",
+      "type": "훈독"
+    },
+    {
+      "id": "1029: 渡",
+      "type": "훈독"
+    },
+    {
+      "id": "1030: 喜",
+      "type": "훈독"
+    },
+    {
+      "id": "1031: 破",
+      "type": "훈독"
+    },
+    {
+      "id": "1032: 割",
+      "type": "음독"
+    },
+    {
+      "id": "1033: 飾",
+      "type": "훈독"
+    },
+    {
+      "id": "1034: 甘",
+      "type": "음독"
+    },
+    {
+      "id": "1035: 薄",
+      "type": "음독"
+    },
+    {
+      "id": "1036: 浅",
+      "type": "음독"
+    },
+    {
+      "id": "1038: 珍",
+      "type": "음독"
+    },
+    {
+      "id": "1039: 絡",
+      "type": "훈독"
+    },
+    {
+      "id": "1040: 緒",
+      "type": "훈독"
+    },
+    {
+      "id": "1041: 綿",
+      "type": "훈독"
+    },
+    {
+      "id": "1042: 編",
+      "type": "훈독"
+    },
+    {
+      "id": "1044: 締",
+      "type": "음독"
+    },
+    {
+      "id": "1045: 縁",
+      "type": "훈독"
+    },
+    {
+      "id": "1046: 緑",
+      "type": "음독"
+    },
+    {
+      "id": "1047: 輝",
+      "type": "음독"
+    },
+    {
+      "id": "1048: 狂",
+      "type": "음독"
+    },
+    {
+      "id": "1049: 貢",
+      "type": "훈독"
+    },
+    {
+      "id": "1050: 奪",
+      "type": "음독"
+    },
+    {
+      "id": "1051: 奮",
+      "type": "훈독"
+    },
+    {
+      "id": "1052: 劣",
+      "type": "음독"
+    },
+    {
+      "id": "1053: 奨",
+      "type": "훈독"
+    },
+    {
+      "id": "1054: 棄",
+      "type": "훈독"
+    },
+    {
+      "id": "1055: 葬",
+      "type": "훈독"
+    },
+    {
+      "id": "1056: 糾",
+      "type": "훈독"
+    },
+    {
+      "id": "1058: 縛",
+      "type": "훈독"
+    },
+    {
+      "id": "1059: 縫",
+      "type": "훈독"
+    },
+    {
+      "id": "1062: 翼",
+      "type": "훈독"
+    },
+    {
+      "id": "1063: 翻",
+      "type": "훈독"
+    },
+    {
+      "id": "1064: 聴",
+      "type": "훈독"
+    },
+    {
+      "id": "1066: 犠",
+      "type": "훈독"
+    },
+    {
+      "id": "1067: 懸",
+      "type": "훈독"
+    },
+    {
+      "id": "1068: 慰",
+      "type": "음독"
+    },
+    {
+      "id": "1072: 懐",
+      "type": "훈독"
+    },
+    {
+      "id": "1073: 悟",
+      "type": "훈독"
+    }
+  ],
+  "badLabels": [
+    {
+      "id": "297: 氷",
+      "word": "氷山",
+      "mean": "빙산 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "420: 責",
+      "word": "責任",
+      "mean": "책임 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "468: 褒",
+      "word": "褒章",
+      "mean": "포장(훈장) (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "468: 褒",
+      "word": "褒美",
+      "mean": "포상/상 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "600: 換",
+      "word": "換気",
+      "mean": "환기 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "664: 凛",
+      "word": "凛",
+      "mean": "름름함/위엄 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "783: 褒",
+      "word": "褒美",
+      "mean": "포상/상 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "783: 褒",
+      "word": "褒章",
+      "mean": "포장/상장 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "854: 脊",
+      "word": "脊椎",
+      "mean": "척추 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "854: 脊",
+      "word": "脊髄",
+      "mean": "척수 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "954: 芯",
+      "word": "芯",
+      "mean": "심 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "958: 脊",
+      "word": "脊椎",
+      "mean": "척추 (음/훈독) (음/훈독)"
+    },
+    {
+      "id": "958: 脊",
+      "word": "脊髄",
+      "mean": "척수 (음/훈독) (음/훈독)"
+    }
+  ],
+  "badRuby": [
+    {
+      "id": "17: 分",
+      "field": "sentence",
+      "full": "[理由](りゆう)"
+    },
+    {
+      "id": "22: 火",
+      "field": "sentence",
+      "full": "[を切](き)"
+    },
+    {
+      "id": "27: 山",
+      "field": "sentence",
+      "full": "[景色](けしき)"
+    },
+    {
+      "id": "28: 川",
+      "field": "sentence",
+      "full": "[氾濫](はんらん)"
+    },
+    {
+      "id": "29: 田",
+      "field": "sentence",
+      "full": "[風景](ふうけい)"
+    },
+    {
+      "id": "32: 車",
+      "field": "sentence",
+      "full": "[運転](うんてん)"
+    },
+    {
+      "id": "33: 門",
+      "field": "sentence",
+      "full": "[大学](だいがく)"
+    },
+    {
+      "id": "34: 雨",
+      "field": "sentence",
+      "full": "[中止](ちゅうし)"
+    },
+    {
+      "id": "35: 女",
+      "field": "sentence",
+      "full": "[結婚](けっこん)"
+    },
+    {
+      "id": "36: 男",
+      "field": "sentence",
+      "full": "[医者](いしゃ)"
+    },
+    {
+      "id": "38: 母",
+      "field": "sentence",
+      "full": "[料理](りょうり)"
+    },
+    {
+      "id": "38: 母",
+      "field": "sentence",
+      "full": "[上手](じょうず)"
+    },
+    {
+      "id": "39: 父",
+      "field": "sentence",
+      "full": "[感謝](かんしゃ)"
+    },
+    {
+      "id": "39: 父",
+      "field": "sentence",
+      "full": "[会社員](かいしゃいん)"
+    },
+    {
+      "id": "40: 友",
+      "field": "sentence",
+      "full": "[旅行](りょこう)"
+    },
+    {
+      "id": "41: 本",
+      "field": "sentence",
+      "full": "[場所](ばしょ)"
+    },
+    {
+      "id": "44: 書",
+      "field": "sentence",
+      "full": "[手紙](てがみ)"
+    },
+    {
+      "id": "45: 読",
+      "field": "sentence",
+      "full": "[問題](もんだい)"
+    },
+    {
+      "id": "45: 読",
+      "field": "sentence",
+      "full": "[新聞](しんぶん)"
+    },
+    {
+      "id": "46: 聞",
+      "field": "sentence",
+      "full": "[毎朝](まいあさ)"
+    },
+    {
+      "id": "46: 聞",
+      "field": "sentence",
+      "full": "[音楽](おんがく)"
+    },
+    {
+      "id": "47: 見",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "51: 来",
+      "field": "sentence",
+      "full": "[頑張](がんば)"
+    },
+    {
+      "id": "52: 出",
+      "field": "sentence",
+      "full": "[確認](かくにん)"
+    },
+    {
+      "id": "53: 入",
+      "field": "sentence",
+      "full": "[入学](にゅうがく)"
+    },
+    {
+      "id": "53: 入",
+      "field": "sentence",
+      "full": "[試験](しけん)"
+    },
+    {
+      "id": "54: 学",
+      "field": "sentence",
+      "full": "[歴史](れきし)"
+    },
+    {
+      "id": "55: 校",
+      "field": "sentence",
+      "full": "[小学校](しょうがっこう)"
+    },
+    {
+      "id": "61: 上",
+      "field": "sentence",
+      "full": "[上達](じょうたつ)"
+    },
+    {
+      "id": "63: 左",
+      "field": "sentence",
+      "full": "[安心](あんしん)"
+    },
+    {
+      "id": "64: 右",
+      "field": "sentence",
+      "full": "[新年](しんねん)"
+    },
+    {
+      "id": "65: 東",
+      "field": "sentence",
+      "full": "[古代](こだい)"
+    },
+    {
+      "id": "65: 東",
+      "field": "sentence",
+      "full": "[歴史](れきし)"
+    },
+    {
+      "id": "65: 東",
+      "field": "sentence",
+      "full": "[建物](たてもの)"
+    },
+    {
+      "id": "66: 西",
+      "field": "sentence",
+      "full": "[長期](ちょうき)"
+    },
+    {
+      "id": "66: 西",
+      "field": "sentence",
+      "full": "[休暇](きゅうか)"
+    },
+    {
+      "id": "67: 南",
+      "field": "sentence",
+      "full": "[短期](たんき)"
+    },
+    {
+      "id": "67: 南",
+      "field": "sentence",
+      "full": "[留学](りゅうがく)"
+    },
+    {
+      "id": "68: 北",
+      "field": "sentence",
+      "full": "[多数](たすう)"
+    },
+    {
+      "id": "68: 北",
+      "field": "sentence",
+      "full": "[賛成](さんせい)"
+    },
+    {
+      "id": "69: 白",
+      "field": "sentence",
+      "full": "[少年](しょうねん)"
+    },
+    {
+      "id": "70: 赤",
+      "field": "sentence",
+      "full": "[明日](あす/あした)"
+    },
+    {
+      "id": "71: 青",
+      "field": "sentence",
+      "full": "[白紙](はくし)"
+    },
+    {
+      "id": "73: 長",
+      "field": "sentence",
+      "full": "[赤字](あかじ)"
+    },
+    {
+      "id": "74: 高",
+      "field": "sentence",
+      "full": "[青春](せいしゅん)"
+    },
+    {
+      "id": "76: 新",
+      "field": "sentence",
+      "full": "[質問](しつもん)"
+    },
+    {
+      "id": "77: 古",
+      "field": "sentence",
+      "full": "[学生](がくせい)"
+    },
+    {
+      "id": "77: 古",
+      "field": "sentence",
+      "full": "[図書館](としょかん)"
+    },
+    {
+      "id": "77: 古",
+      "field": "sentence",
+      "full": "[人生](じんせい)"
+    },
+    {
+      "id": "78: 早",
+      "field": "sentence",
+      "full": "[年末](ねんまつ)"
+    },
+    {
+      "id": "78: 早",
+      "field": "sentence",
+      "full": "[今年](ことし)"
+    },
+    {
+      "id": "79: 毎",
+      "field": "sentence",
+      "full": "[運動](うんどう)"
+    },
+    {
+      "id": "80: 週",
+      "field": "sentence",
+      "full": "[何曜日](なんようび)"
+    },
+    {
+      "id": "81: 年",
+      "field": "sentence",
+      "full": "[天気](てんき)"
+    },
+    {
+      "id": "82: 多",
+      "field": "sentence",
+      "full": "[気温](きおん)"
+    },
+    {
+      "id": "82: 多",
+      "field": "sentence",
+      "full": "[元気](げんき)"
+    },
+    {
+      "id": "83: 少",
+      "field": "sentence",
+      "full": "[電気](でんき)"
+    },
+    {
+      "id": "83: 少",
+      "field": "sentence",
+      "full": "[電車](でんしゃ)"
+    },
+    {
+      "id": "84: 元",
+      "field": "sentence",
+      "full": "[食事](しょくじ)"
+    },
+    {
+      "id": "86: 天",
+      "field": "sentence",
+      "full": "[中国](ちゅうごく)"
+    },
+    {
+      "id": "86: 天",
+      "field": "sentence",
+      "full": "[国旗](こっき)"
+    },
+    {
+      "id": "87: 私",
+      "field": "sentence",
+      "full": "[東京](とうきょう)"
+    },
+    {
+      "id": "87: 私",
+      "field": "sentence",
+      "full": "[太陽](たいよう)"
+    },
+    {
+      "id": "88: 今",
+      "field": "sentence",
+      "full": "[西洋](せいよう)"
+    },
+    {
+      "id": "88: 今",
+      "field": "sentence",
+      "full": "[料理](りょうり)"
+    },
+    {
+      "id": "89: 何",
+      "field": "sentence",
+      "full": "[南北](なんぼく)"
+    },
+    {
+      "id": "90: 国",
+      "field": "sentence",
+      "full": "[北海道](ほっかいどう)"
+    },
+    {
+      "id": "91: 兄",
+      "field": "sentence",
+      "full": "[花見](はなみ)"
+    },
+    {
+      "id": "91: 兄",
+      "field": "sentence",
+      "full": "[来年](らいねん)"
+    },
+    {
+      "id": "92: 姉",
+      "field": "sentence",
+      "full": "[手帳](てちょう)"
+    },
+    {
+      "id": "93: 弟",
+      "field": "sentence",
+      "full": "[足跡](そくせき)"
+    },
+    {
+      "id": "94: 妹",
+      "field": "sentence",
+      "full": "[目標](もくひょう)"
+    },
+    {
+      "id": "94: 妹",
+      "field": "sentence",
+      "full": "[達成](たっせい)"
+    },
+    {
+      "id": "96: 飲",
+      "field": "sentence",
+      "full": "[有名](ゆうめい)"
+    },
+    {
+      "id": "97: 買",
+      "field": "sentence",
+      "full": "[道路](どうろ)"
+    },
+    {
+      "id": "98: 立",
+      "field": "sentence",
+      "full": "[売店](ばいてん)"
+    },
+    {
+      "id": "99: 会",
+      "field": "sentence",
+      "full": "[病院](びょういん)"
+    },
+    {
+      "id": "99: 会",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "118: 世",
+      "field": "sentence",
+      "full": "[情報](じょうほう)"
+    },
+    {
+      "id": "118: 世",
+      "field": "sentence",
+      "full": "[時代](じだい)"
+    },
+    {
+      "id": "118: 世",
+      "field": "sentence",
+      "full": "[色々](いろいろ)"
+    },
+    {
+      "id": "120: 乗",
+      "field": "sentence",
+      "full": "[電車](でんしゃ)"
+    },
+    {
+      "id": "120: 乗",
+      "field": "sentence",
+      "full": "[通勤](つうきん)"
+    },
+    {
+      "id": "121: 事",
+      "field": "sentence",
+      "full": "[約束](やくそく)"
+    },
+    {
+      "id": "122: 京",
+      "field": "sentence",
+      "full": "[首都](しゅと)"
+    },
+    {
+      "id": "123: 仕",
+      "field": "sentence",
+      "full": "[明日](あした)"
+    },
+    {
+      "id": "123: 仕",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "124: 代",
+      "field": "sentence",
+      "full": "[電気](でんき)"
+    },
+    {
+      "id": "124: 代",
+      "field": "sentence",
+      "full": "[銀行](ぎんこう)"
+    },
+    {
+      "id": "124: 代",
+      "field": "sentence",
+      "full": "[会議](かいぎ)"
+    },
+    {
+      "id": "125: 以",
+      "field": "sentence",
+      "full": "[外出](がいしゅつ)"
+    },
+    {
+      "id": "126: 低",
+      "field": "sentence",
+      "full": "[気温](きおん)"
+    },
+    {
+      "id": "127: 使",
+      "field": "sentence",
+      "full": "[道具](どうぐ)"
+    },
+    {
+      "id": "127: 使",
+      "field": "sentence",
+      "full": "[上手](じょうず)"
+    },
+    {
+      "id": "128: 便",
+      "field": "sentence",
+      "full": "[手紙](てがみ)"
+    },
+    {
+      "id": "129: 借",
+      "field": "sentence",
+      "full": "[銀行](ぎんこう)"
+    },
+    {
+      "id": "129: 借",
+      "field": "sentence",
+      "full": "[図書館](としょかん)"
+    },
+    {
+      "id": "130: 貸",
+      "field": "sentence",
+      "full": "[契約](けいやく)"
+    },
+    {
+      "id": "131: 医",
+      "field": "sentence",
+      "full": "[病院](びょういん)"
+    },
+    {
+      "id": "132: 公",
+      "field": "sentence",
+      "full": "[散歩](さんぽ)"
+    },
+    {
+      "id": "133: 内",
+      "field": "sentence",
+      "full": "[手紙](てがみ)"
+    },
+    {
+      "id": "135: 冷",
+      "field": "sentence",
+      "full": "[一杯](いっぱい)"
+    },
+    {
+      "id": "136: 切",
+      "field": "sentence",
+      "full": "[野菜](やさい)"
+    },
+    {
+      "id": "136: 切",
+      "field": "sentence",
+      "full": "[包丁](ほうちょう)"
+    },
+    {
+      "id": "137: 映",
+      "field": "sentence",
+      "full": "[週末](しゅうまつ)"
+    },
+    {
+      "id": "138: 画",
+      "field": "sentence",
+      "full": "[実行](じっこう)"
+    },
+    {
+      "id": "139: 研",
+      "field": "sentence",
+      "full": "[大学](だいがく)"
+    },
+    {
+      "id": "139: 研",
+      "field": "sentence",
+      "full": "[技術](ぎじゅつ)"
+    },
+    {
+      "id": "139: 研",
+      "field": "sentence",
+      "full": "[包丁](ほうちょう)"
+    },
+    {
+      "id": "140: 究",
+      "field": "sentence",
+      "full": "[人生](じんせい)"
+    },
+    {
+      "id": "140: 究",
+      "field": "sentence",
+      "full": "[目的](もくてき)"
+    },
+    {
+      "id": "140: 究",
+      "field": "sentence",
+      "full": "[学問](がくもん)"
+    },
+    {
+      "id": "141: 考",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "141: 考",
+      "field": "sentence",
+      "full": "[将来](しょうらい)"
+    },
+    {
+      "id": "142: 教",
+      "field": "sentence",
+      "full": "[英語](えいご)"
+    },
+    {
+      "id": "143: 室",
+      "field": "sentence",
+      "full": "[授業](じゅぎょう)"
+    },
+    {
+      "id": "143: 室",
+      "field": "sentence",
+      "full": "[準備](じゅんび)"
+    },
+    {
+      "id": "143: 室",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "143: 室",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "143: 室",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "144: 別",
+      "field": "sentence",
+      "full": "[挨拶](あいさつ)"
+    },
+    {
+      "id": "145: 同",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "146: 勉",
+      "field": "sentence",
+      "full": "[図書館](としょかん)"
+    },
+    {
+      "id": "147: 春",
+      "field": "sentence",
+      "full": "[時代](じだい)"
+    },
+    {
+      "id": "149: 秋",
+      "field": "sentence",
+      "full": "[読書](どくしょ)"
+    },
+    {
+      "id": "149: 秋",
+      "field": "sentence",
+      "full": "[季節](きせつ)"
+    },
+    {
+      "id": "152: 急",
+      "field": "sentence",
+      "full": "[電車](でんしゃ)"
+    },
+    {
+      "id": "154: 進",
+      "field": "sentence",
+      "full": "[自分](じぶん)"
+    },
+    {
+      "id": "155: 走",
+      "field": "sentence",
+      "full": "[公園](こうえん)"
+    },
+    {
+      "id": "156: 起",
+      "field": "sentence",
+      "full": "[三文](さんもん)"
+    },
+    {
+      "id": "156: 起",
+      "field": "sentence",
+      "full": "[毎朝](まいあさ)"
+    },
+    {
+      "id": "158: 始",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "159: 終",
+      "field": "sentence",
+      "full": "[電車](でんしゃ)"
+    },
+    {
+      "id": "159: 終",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "160: 運",
+      "field": "sentence",
+      "full": "[荷物](にもつ)"
+    },
+    {
+      "id": "161: 動",
+      "field": "sentence",
+      "full": "[機械](きかい)"
+    },
+    {
+      "id": "162: 働",
+      "field": "sentence",
+      "full": "[一生懸命](いっしょうけんめい)"
+    },
+    {
+      "id": "164: 園",
+      "field": "sentence",
+      "full": "[動物](どうぶつ)"
+    },
+    {
+      "id": "164: 園",
+      "field": "sentence",
+      "full": "[写真](しゃしん)"
+    },
+    {
+      "id": "165: 遠",
+      "field": "sentence",
+      "full": "[準備](じゅんび)"
+    },
+    {
+      "id": "167: 屋",
+      "field": "sentence",
+      "full": "[景色](けしき)"
+    },
+    {
+      "id": "167: 屋",
+      "field": "sentence",
+      "full": "[雑誌](ざっし)"
+    },
+    {
+      "id": "171: 度",
+      "field": "sentence",
+      "full": "[今年](ことし)"
+    },
+    {
+      "id": "172: 待",
+      "field": "sentence",
+      "full": "[彼女](かのじょ)"
+    },
+    {
+      "id": "173: 持",
+      "field": "sentence",
+      "full": "[大事](だいじ)"
+    },
+    {
+      "id": "173: 持",
+      "field": "sentence",
+      "full": "[手荷物](てにもつ)"
+    },
+    {
+      "id": "180: 問",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "182: 答",
+      "field": "sentence",
+      "full": "[確認](かくにん)"
+    },
+    {
+      "id": "182: 答",
+      "field": "sentence",
+      "full": "[質問](しつもん)"
+    },
+    {
+      "id": "186: 場",
+      "field": "sentence",
+      "full": "[間違](まちが)"
+    },
+    {
+      "id": "189: 思",
+      "field": "sentence",
+      "full": "[現象](げんしょう)"
+    },
+    {
+      "id": "191: 用",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "191: 用",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "191: 用",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "197: 習",
+      "field": "sentence",
+      "full": "[集中](しゅうちゅう)"
+    },
+    {
+      "id": "199: 験",
+      "field": "sentence",
+      "full": "[大雪](たいせつ)"
+    },
+    {
+      "id": "200: 説",
+      "field": "sentence",
+      "full": "[道理](どうり)"
+    },
+    {
+      "id": "213: 治",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "215: 済",
+      "field": "sentence",
+      "full": "[発展](はってん)"
+    },
+    {
+      "id": "215: 済",
+      "field": "sentence",
+      "full": "[宿題](しゅくだい)"
+    },
+    {
+      "id": "218: 育",
+      "field": "sentence",
+      "full": "[大雪](たいせつ)"
+    },
+    {
+      "id": "218: 育",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "219: 議",
+      "field": "sentence",
+      "full": "[参加](さんか)"
+    },
+    {
+      "id": "221: 連",
+      "field": "sentence",
+      "full": "[散歩](さんぽ)"
+    },
+    {
+      "id": "223: 部",
+      "field": "sentence",
+      "full": "[掃除](そうじ)"
+    },
+    {
+      "id": "227: 信",
+      "field": "sentence",
+      "full": "[言葉](ことば)"
+    },
+    {
+      "id": "228: 成",
+      "field": "sentence",
+      "full": "[大人](おとな)"
+    },
+    {
+      "id": "234: 苦",
+      "field": "sentence",
+      "full": "[言葉](ことば)"
+    },
+    {
+      "id": "235: 健",
+      "field": "sentence",
+      "full": "[運動](うんどう)"
+    },
+    {
+      "id": "238: 空",
+      "field": "sentence",
+      "full": "[出発](しゅっぱつ)"
+    },
+    {
+      "id": "241: 祭",
+      "field": "sentence",
+      "full": "[準備](じゅんび)"
+    },
+    {
+      "id": "242: 際",
+      "field": "sentence",
+      "full": "[関係](かんけい)"
+    },
+    {
+      "id": "246: 拾",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "246: 拾",
+      "field": "sentence",
+      "full": "[財布](さいふ)"
+    },
+    {
+      "id": "249: 折",
+      "field": "sentence",
+      "full": "[入院](にゅういん)"
+    },
+    {
+      "id": "253: 接",
+      "field": "sentence",
+      "full": "[準備](じゅんび)"
+    },
+    {
+      "id": "257: 揺",
+      "field": "sentence",
+      "full": "[地震](じしん)"
+    },
+    {
+      "id": "260: 敗",
+      "field": "sentence",
+      "full": "[試合](しあい)"
+    },
+    {
+      "id": "261: 散",
+      "field": "sentence",
+      "full": "[公園](こうえん)"
+    },
+    {
+      "id": "262: 数",
+      "field": "sentence",
+      "full": "[問題](もんだい)"
+    },
+    {
+      "id": "264: 昔",
+      "field": "sentence",
+      "full": "[物語](ものがたり)"
+    },
+    {
+      "id": "265: 暑",
+      "field": "sentence",
+      "full": "[役立](やくだ)"
+    },
+    {
+      "id": "270: 晴",
+      "field": "sentence",
+      "full": "[明日](あした)"
+    },
+    {
+      "id": "272: 望",
+      "field": "sentence",
+      "full": "[頑張](がんば)"
+    },
+    {
+      "id": "274: 末",
+      "field": "sentence",
+      "full": "[今年](ことし)"
+    },
+    {
+      "id": "274: 末",
+      "field": "sentence",
+      "full": "[旅行](りょこう)"
+    },
+    {
+      "id": "276: 材",
+      "field": "sentence",
+      "full": "[料理](りょうり)"
+    },
+    {
+      "id": "279: 果",
+      "field": "sentence",
+      "full": "[約束](やくそく)"
+    },
+    {
+      "id": "280: 栄",
+      "field": "sentence",
+      "full": "[食事](しょくじ)"
+    },
+    {
+      "id": "281: 梅",
+      "field": "sentence",
+      "full": "[季節](きせつ)"
+    },
+    {
+      "id": "285: 権",
+      "field": "sentence",
+      "full": "[主張](しゅちょう)"
+    },
+    {
+      "id": "288: 次",
+      "field": "sentence",
+      "full": "[確認](かくにん)"
+    },
+    {
+      "id": "290: 歯",
+      "field": "sentence",
+      "full": "[治療](ちりょう)"
+    },
+    {
+      "id": "294: 毒",
+      "field": "sentence",
+      "full": "[言葉](ことば)"
+    },
+    {
+      "id": "305: 掘",
+      "field": "sentence",
+      "full": "[遺跡](いせき)"
+    },
+    {
+      "id": "306: 採",
+      "field": "sentence",
+      "full": "[社員](しゃいん)"
+    },
+    {
+      "id": "307: 振",
+      "field": "sentence",
+      "full": "[口座](こうざ)"
+    },
+    {
+      "id": "308: 描",
+      "field": "sentence",
+      "full": "[風景](ふうけい)"
+    },
+    {
+      "id": "309: 捜",
+      "field": "sentence",
+      "full": "[警察](けいさつ)"
+    },
+    {
+      "id": "309: 捜",
+      "field": "sentence",
+      "full": "[迷子](まいご)"
+    },
+    {
+      "id": "309: 捜",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "310: 摘",
+      "field": "sentence",
+      "full": "[問題点](もんだいてん)"
+    },
+    {
+      "id": "311: 操",
+      "field": "sentence",
+      "full": "[機械](きかい)"
+    },
+    {
+      "id": "312: 攻",
+      "field": "sentence",
+      "full": "[弱点](じゃくてん)"
+    },
+    {
+      "id": "313: 故",
+      "field": "sentence",
+      "full": "[交通](こうつう)"
+    },
+    {
+      "id": "313: 故",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "313: 故",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "313: 故",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "315: 救",
+      "field": "sentence",
+      "full": "[人々](ひとびと)"
+    },
+    {
+      "id": "318: 敷",
+      "field": "sentence",
+      "full": "[布団](ふとん)"
+    },
+    {
+      "id": "319: 承",
+      "field": "sentence",
+      "full": "[口座](こうざ)"
+    },
+    {
+      "id": "320: 担",
+      "field": "sentence",
+      "full": "[営業](えいぎょう)"
+    },
+    {
+      "id": "320: 担",
+      "field": "sentence",
+      "full": "[荷物](にもつ)"
+    },
+    {
+      "id": "323: 拝",
+      "field": "sentence",
+      "full": "[手紙](てがみ)"
+    },
+    {
+      "id": "323: 拝",
+      "field": "sentence",
+      "full": "[神社](じんじゃ)"
+    },
+    {
+      "id": "324: 拡",
+      "field": "sentence",
+      "full": "[事業](じぎょう)"
+    },
+    {
+      "id": "326: 挟",
+      "field": "sentence",
+      "full": "[二国間](にこくかん)"
+    },
+    {
+      "id": "328: 挫",
+      "field": "sentence",
+      "full": "[失敗](しっぱい)"
+    },
+    {
+      "id": "328: 挫",
+      "field": "sentence",
+      "full": "[足首](あしくび)"
+    },
+    {
+      "id": "330: 掌",
+      "field": "sentence",
+      "full": "[列車](れっしゃ)"
+    },
+    {
+      "id": "330: 掌",
+      "field": "sentence",
+      "full": "[案内](あんない)"
+    },
+    {
+      "id": "331: 揉",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "331: 揉",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "331: 揉",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "332: 措",
+      "field": "sentence",
+      "full": "[適切](てきせつ)"
+    },
+    {
+      "id": "332: 措",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "332: 措",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "332: 措",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "333: 掲",
+      "field": "sentence",
+      "full": "[国旗](こっき)"
+    },
+    {
+      "id": "335: 揚",
+      "field": "sentence",
+      "full": "[国旗](こっき)"
+    },
+    {
+      "id": "337: 損",
+      "field": "sentence",
+      "full": "[機嫌](きげん)"
+    },
+    {
+      "id": "338: 搬",
+      "field": "sentence",
+      "full": "[荷物](にもつ)"
+    },
+    {
+      "id": "339: 携",
+      "field": "sentence",
+      "full": "[電話](でんわ)"
+    },
+    {
+      "id": "339: 携",
+      "field": "sentence",
+      "full": "[教育](きょういく)"
+    },
+    {
+      "id": "339: 携",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "340: 搾",
+      "field": "sentence",
+      "full": "[労働者](ろうどうしゃ)"
+    },
+    {
+      "id": "341: 摂",
+      "field": "sentence",
+      "full": "[健康](けんこう)"
+    },
+    {
+      "id": "342: 摺",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "342: 摺",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "342: 摺",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "342: 摺",
+      "field": "sentence",
+      "full": "[版画](はんが)"
+    },
+    {
+      "id": "343: 撤",
+      "field": "sentence",
+      "full": "[計画](けいかく)"
+    },
+    {
+      "id": "344: 撮",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "344: 撮",
+      "field": "sentence",
+      "full": "[写真](しゃしん)"
+    },
+    {
+      "id": "345: 撲",
+      "field": "sentence",
+      "full": "[伝染病](でんせんびょう)"
+    },
+    {
+      "id": "348: 赦",
+      "field": "sentence",
+      "full": "[罪人](ざいにん)"
+    },
+    {
+      "id": "349: 敢",
+      "field": "sentence",
+      "full": "[挑戦](ちょうせん)"
+    },
+    {
+      "id": "350: 整",
+      "field": "sentence",
+      "full": "[呼吸](こきゅう)"
+    },
+    {
+      "id": "351: 類",
+      "field": "sentence",
+      "full": "[動物](どうぶつ)"
+    },
+    {
+      "id": "351: 類",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "351: 類",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "351: 類",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "352: 頭",
+      "field": "sentence",
+      "full": "[集団](しゅうだん)"
+    },
+    {
+      "id": "352: 頭",
+      "field": "sentence",
+      "full": "[突然](とつぜん)"
+    },
+    {
+      "id": "353: 顔",
+      "field": "sentence",
+      "full": "[朝起](あさお)"
+    },
+    {
+      "id": "353: 顔",
+      "field": "sentence",
+      "full": "[石鹸](せっけん)"
+    },
+    {
+      "id": "354: 額",
+      "field": "sentence",
+      "full": "[計算](けいさん)"
+    },
+    {
+      "id": "355: 飯",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "355: 飯",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "355: 飯",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "356: 飼",
+      "field": "sentence",
+      "full": "[動物](どうぶつ)"
+    },
+    {
+      "id": "357: 養",
+      "field": "sentence",
+      "full": "[食事](しょくじ)"
+    },
+    {
+      "id": "357: 養",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "358: 驚",
+      "field": "sentence",
+      "full": "[突然](とつぜん)"
+    },
+    {
+      "id": "359: 鮮",
+      "field": "sentence",
+      "full": "[野菜](やさい)"
+    },
+    {
+      "id": "360: 鳴",
+      "field": "sentence",
+      "full": "[悲痛](ひつう)"
+    },
+    {
+      "id": "361: 鼻",
+      "field": "sentence",
+      "full": "[診察](しんさつ)"
+    },
+    {
+      "id": "361: 鼻",
+      "field": "sentence",
+      "full": "[花粉症](かふんしょう)"
+    },
+    {
+      "id": "362: 齢",
+      "field": "sentence",
+      "full": "[尋ねる](たずねる)"
+    },
+    {
+      "id": "363: 詞",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "363: 詞",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "363: 詞",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "364: 謙",
+      "field": "sentence",
+      "full": "[態度](たいど)"
+    },
+    {
+      "id": "365: 譲",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "365: 譲",
+      "field": "sentence",
+      "full": "[年寄](としよ)"
+    },
+    {
+      "id": "366: 護",
+      "field": "sentence",
+      "full": "[傷口](きずぐち)"
+    },
+    {
+      "id": "366: 護",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "366: 護",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "366: 護",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "367: 識",
+      "field": "sentence",
+      "full": "[専門的](せんもんてき)"
+    },
+    {
+      "id": "367: 識",
+      "field": "sentence",
+      "full": "[必要](ひつよう)"
+    },
+    {
+      "id": "368: 証",
+      "field": "sentence",
+      "full": "[発行](はっこう)"
+    },
+    {
+      "id": "369: 評",
+      "field": "sentence",
+      "full": "[新製品](しんせいひん)"
+    },
+    {
+      "id": "370: 課",
+      "field": "sentence",
+      "full": "[解決](かいけつ)"
+    },
+    {
+      "id": "371: 諸",
+      "field": "sentence",
+      "full": "[訪問](ほうもん)"
+    },
+    {
+      "id": "371: 諸",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "371: 諸",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "371: 諸",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "372: 謝",
+      "field": "sentence",
+      "full": "[遅刻](ちこく)"
+    },
+    {
+      "id": "373: 誤",
+      "field": "sentence",
+      "full": "[発言](はつげん)"
+    },
+    {
+      "id": "373: 誤",
+      "field": "sentence",
+      "full": "[判断](はんだん)"
+    },
+    {
+      "id": "374: 認",
+      "field": "sentence",
+      "full": "[事実](じじつ)"
+    },
+    {
+      "id": "374: 認",
+      "field": "sentence",
+      "full": "[自分](じぶん)"
+    },
+    {
+      "id": "374: 認",
+      "field": "sentence",
+      "full": "[失敗](しっぱい)"
+    },
+    {
+      "id": "375: 访",
+      "field": "sentence",
+      "full": "[京都](きょうと)"
+    },
+    {
+      "id": "375: 访",
+      "field": "sentence",
+      "full": "[訪問](ほうもん)"
+    },
+    {
+      "id": "376: 詳",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "376: 詳",
+      "field": "sentence",
+      "full": "[調べる](しらべる)"
+    },
+    {
+      "id": "379: 詰",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "379: 詰",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "379: 詰",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "379: 詰",
+      "field": "sentence",
+      "full": "[荷物](にもつ)"
+    },
+    {
+      "id": "381: 誠",
+      "field": "sentence",
+      "full": "[人柄](ひとがら)"
+    },
+    {
+      "id": "381: 誠",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "381: 誠",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "381: 誠",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "382: 誓",
+      "field": "sentence",
+      "full": "[永遠](えいえん)"
+    },
+    {
+      "id": "384: 誘",
+      "field": "sentence",
+      "full": "[新入生](しんにゅうせい)"
+    },
+    {
+      "id": "384: 誘",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "385: 誇",
+      "field": "sentence",
+      "full": "[自分](じぶん)"
+    },
+    {
+      "id": "385: 誇",
+      "field": "sentence",
+      "full": "[技術](ぎじゅつ)"
+    },
+    {
+      "id": "386: 誉",
+      "field": "sentence",
+      "full": "[受賞](じゅしょう)"
+    },
+    {
+      "id": "386: 誉",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "386: 誉",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "386: 誉",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "387: 該",
+      "field": "sentence",
+      "full": "[箇所](かしょ)"
+    },
+    {
+      "id": "388: 請",
+      "field": "sentence",
+      "full": "[資料](しりょう)"
+    },
+    {
+      "id": "388: 請",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "389: 謹",
+      "field": "sentence",
+      "full": "[新年](しんねん)"
+    },
+    {
+      "id": "389: 謹",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "389: 謹",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "389: 謹",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "390: 諭",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "390: 諭",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "390: 諭",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "390: 諭",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "392: 贊",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "392: 贊",
+      "field": "sentence",
+      "full": "[賛成](さんせい)"
+    },
+    {
+      "id": "393: 講",
+      "field": "sentence",
+      "full": "[大学](だいがく)"
+    },
+    {
+      "id": "393: 講",
+      "field": "sentence",
+      "full": "[出席](しゅっせき)"
+    },
+    {
+      "id": "396: 辞",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "397: 訓",
+      "field": "sentence",
+      "full": "[避難](ひなん)"
+    },
+    {
+      "id": "397: 訓",
+      "field": "sentence",
+      "full": "[参加](さんか)"
+    },
+    {
+      "id": "397: 訓",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "397: 訓",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "398: 託",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "398: 託",
+      "field": "sentence",
+      "full": "[第三者](だいさんしゃ)"
+    },
+    {
+      "id": "399: 訴",
+      "field": "sentence",
+      "full": "[裁判](さいばん)"
+    },
+    {
+      "id": "400: 診",
+      "field": "sentence",
+      "full": "[病院](びょういん)"
+    },
+    {
+      "id": "400: 診",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "400: 診",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "400: 診",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "401: 論",
+      "field": "sentence",
+      "full": "[白熱](はくねつ)"
+    },
+    {
+      "id": "402: 设",
+      "field": "sentence",
+      "full": "[会社](かいしゃ)"
+    },
+    {
+      "id": "402: 设",
+      "field": "sentence",
+      "full": "[設立](せつりつ)"
+    },
+    {
+      "id": "402: 设",
+      "field": "sentence",
+      "full": "[機械](きかい)"
+    },
+    {
+      "id": "403: 許",
+      "field": "sentence",
+      "full": "[運転](うんてん)"
+    },
+    {
+      "id": "403: 許",
+      "field": "sentence",
+      "full": "[失敗](しっぱい)"
+    },
+    {
+      "id": "404: 訟",
+      "field": "sentence",
+      "full": "[裁判](さいばん)"
+    },
+    {
+      "id": "405: 詐",
+      "field": "sentence",
+      "full": "[被害](ひがい)"
+    },
+    {
+      "id": "407: 諾",
+      "field": "sentence",
+      "full": "[条件](じょうけん)"
+    },
+    {
+      "id": "408: 謀",
+      "field": "sentence",
+      "full": "[恐ろしい](おそろしい)"
+    },
+    {
+      "id": "408: 謀",
+      "field": "sentence",
+      "full": "[解決策](かいけつさく)"
+    },
+    {
+      "id": "409: 謁",
+      "field": "sentence",
+      "full": "[天皇](てんのう)"
+    },
+    {
+      "id": "410: 謡",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "410: 謡",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "410: 謡",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "411: 訓",
+      "field": "sentence",
+      "full": "[避難](ひなん)"
+    },
+    {
+      "id": "411: 訓",
+      "field": "sentence",
+      "full": "[参加](さんか)"
+    },
+    {
+      "id": "412: 託",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "412: 託",
+      "field": "sentence",
+      "full": "[第三者](だいさんしゃ)"
+    },
+    {
+      "id": "413: 訴",
+      "field": "sentence",
+      "full": "[裁判](さいばん)"
+    },
+    {
+      "id": "414: 診",
+      "field": "sentence",
+      "full": "[病院](びょういん)"
+    },
+    {
+      "id": "414: 診",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "414: 診",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "414: 診",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "415: 負",
+      "field": "sentence",
+      "full": "[責任](せきにん)"
+    },
+    {
+      "id": "415: 負",
+      "field": "sentence",
+      "full": "[試合](しあい)"
+    },
+    {
+      "id": "416: 財",
+      "field": "sentence",
+      "full": "[個人](こじん)"
+    },
+    {
+      "id": "417: 貧",
+      "field": "sentence",
+      "full": "[問題](もんだい)"
+    },
+    {
+      "id": "417: 貧",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "418: 貨",
+      "field": "sentence",
+      "full": "[財布](さいふ)"
+    },
+    {
+      "id": "419: 販",
+      "field": "sentence",
+      "full": "[商品](しょうひん)"
+    },
+    {
+      "id": "420: 責",
+      "field": "sentence",
+      "full": "[自分](じぶん)"
+    },
+    {
+      "id": "420: 責",
+      "field": "sentence",
+      "full": "[他人](たにん)"
+    },
+    {
+      "id": "421: 貯",
+      "field": "sentence",
+      "full": "[銀行](ぎんこう)"
+    },
+    {
+      "id": "421: 貯",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "421: 貯",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "421: 貯",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "422: 貴",
+      "field": "sentence",
+      "full": "[経験](けいけん)"
+    },
+    {
+      "id": "423: 費",
+      "field": "sentence",
+      "full": "[節約](せつやく)"
+    },
+    {
+      "id": "424: 贸",
+      "field": "sentence",
+      "full": "[外国](がいこく)"
+    },
+    {
+      "id": "424: 贸",
+      "field": "sentence",
+      "full": "[貿易](ぼうえき)"
+    },
+    {
+      "id": "427: 資",
+      "field": "sentence",
+      "full": "[会社](かいしゃ)"
+    },
+    {
+      "id": "428: 賊",
+      "field": "sentence",
+      "full": "[銀行](ぎんこう)"
+    },
+    {
+      "id": "429: 賑",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "429: 賑",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "429: 賑",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "430: 賓",
+      "field": "sentence",
+      "full": "[挨拶](あいさつ)"
+    },
+    {
+      "id": "431: 賜",
+      "field": "sentence",
+      "full": "[天皇](てんのう)"
+    },
+    {
+      "id": "431: 賜",
+      "field": "sentence",
+      "full": "[賞状](しょうじょう)"
+    },
+    {
+      "id": "431: 賜",
+      "field": "sentence",
+      "full": "[愛顧](あいこ)"
+    },
+    {
+      "id": "431: 賜",
+      "field": "sentence",
+      "full": "[感謝](かんしゃ)"
+    },
+    {
+      "id": "432: 賞",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "432: 賞",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "432: 賞",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "433: 賠",
+      "field": "sentence",
+      "full": "[損害](そんがい)"
+    },
+    {
+      "id": "433: 賠",
+      "field": "sentence",
+      "full": "[請求](せいきゅう)"
+    },
+    {
+      "id": "434: 賢",
+      "field": "sentence",
+      "full": "[判断](はんだん)"
+    },
+    {
+      "id": "437: 赴",
+      "field": "sentence",
+      "full": "[海外](かいがい)"
+    },
+    {
+      "id": "437: 赴",
+      "field": "sentence",
+      "full": "[支社](ししゃ)"
+    },
+    {
+      "id": "437: 赴",
+      "field": "sentence",
+      "full": "[単身](たんしん)"
+    },
+    {
+      "id": "437: 赴",
+      "field": "sentence",
+      "full": "[任地](にんち)"
+    },
+    {
+      "id": "438: 超",
+      "field": "sentence",
+      "full": "[電車](でんしゃ)"
+    },
+    {
+      "id": "438: 超",
+      "field": "sentence",
+      "full": "[気温](きおん)"
+    },
+    {
+      "id": "438: 超",
+      "field": "sentence",
+      "full": "[三十度](さんじゅうど)"
+    },
+    {
+      "id": "440: 趣",
+      "field": "sentence",
+      "full": "[休日](きゅうじつ)"
+    },
+    {
+      "id": "440: 趣",
+      "field": "sentence",
+      "full": "[読書](どくしょ)"
+    },
+    {
+      "id": "440: 趣",
+      "field": "sentence",
+      "full": "[外国人](がいこくじん)"
+    },
+    {
+      "id": "440: 趣",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "442: 得",
+      "field": "sentence",
+      "full": "[英語](えいご)"
+    },
+    {
+      "id": "442: 得",
+      "field": "sentence",
+      "full": "[知識](ちしき)"
+    },
+    {
+      "id": "443: 復",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "444: 御",
+      "field": "sentence",
+      "full": "[手紙](てがみ)"
+    },
+    {
+      "id": "444: 御",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "444: 御",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "444: 御",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "445: 衛",
+      "field": "sentence",
+      "full": "[地球](ちきゅう)"
+    },
+    {
+      "id": "446: 術",
+      "field": "sentence",
+      "full": "[最新](さいしん)"
+    },
+    {
+      "id": "448: 彰",
+      "field": "sentence",
+      "full": "[大会](たいかい)"
+    },
+    {
+      "id": "449: 徳",
+      "field": "sentence",
+      "full": "[授業](じゅぎょう)"
+    },
+    {
+      "id": "451: 徴",
+      "field": "sentence",
+      "full": "[動物](どうぶつ)"
+    },
+    {
+      "id": "453: 循",
+      "field": "sentence",
+      "full": "[血液](けつえき)"
+    },
+    {
+      "id": "453: 循",
+      "field": "sentence",
+      "full": "[体内](たいない)"
+    },
+    {
+      "id": "454: 従",
+      "field": "sentence",
+      "full": "[先輩](せんぱい)"
+    },
+    {
+      "id": "455: 径",
+      "field": "sentence",
+      "full": "[計算](けいさん)"
+    },
+    {
+      "id": "456: 彼",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "456: 彼",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "456: 彼",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "457: 征",
+      "field": "sentence",
+      "full": "[部外](ぶがい)"
+    },
+    {
+      "id": "457: 征",
+      "field": "sentence",
+      "full": "[大会](たいかい)"
+    },
+    {
+      "id": "458: 衡",
+      "field": "sentence",
+      "full": "[食事](しょくじ)"
+    },
+    {
+      "id": "459: 裁",
+      "field": "sentence",
+      "full": "[出席](しゅっせき)"
+    },
+    {
+      "id": "460: 製",
+      "field": "sentence",
+      "full": "[商品](しょうひん)"
+    },
+    {
+      "id": "461: 複",
+      "field": "sentence",
+      "full": "[書類](しょるい)"
+    },
+    {
+      "id": "461: 複",
+      "field": "sentence",
+      "full": "[用意](ようい)"
+    },
+    {
+      "id": "462: 裏",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "462: 裏",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "462: 裏",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "463: 補",
+      "field": "sentence",
+      "full": "[赤字](あかじ)"
+    },
+    {
+      "id": "463: 補",
+      "field": "sentence",
+      "full": "[栄養](えいよう)"
+    },
+    {
+      "id": "464: 装",
+      "field": "sentence",
+      "full": "[綺麗](きれい)"
+    },
+    {
+      "id": "465: 襲",
+      "field": "sentence",
+      "full": "[強盗](ごうとう)"
+    },
+    {
+      "id": "466: 裸",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "466: 裸",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "466: 裸",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "466: 裸",
+      "field": "sentence",
+      "full": "[温泉](おんせん)"
+    },
+    {
+      "id": "468: 褒",
+      "field": "sentence",
+      "full": "[功績](こうせき)"
+    },
+    {
+      "id": "468: 褒",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "473: 衷",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "474: 衰",
+      "field": "sentence",
+      "full": "[文化](ぶんか)"
+    },
+    {
+      "id": "474: 衰",
+      "field": "sentence",
+      "full": "[体力](たいりょく)"
+    },
+    {
+      "id": "475: 袖",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "475: 袖",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "475: 袖",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "476: 袴",
+      "field": "sentence",
+      "full": "[和服](わふく)"
+    },
+    {
+      "id": "477: 裙",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "477: 裙",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "477: 裙",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "477: 裙",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "477: 裙",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "477: 裙",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "479: 褓",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "479: 褓",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "479: 褓",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "481: 庁",
+      "field": "sentence",
+      "full": "[発表](はっぴょう)"
+    },
+    {
+      "id": "482: 府",
+      "field": "sentence",
+      "full": "[意向](いこう)"
+    },
+    {
+      "id": "485: 廃",
+      "field": "sentence",
+      "full": "[制度](せいど)"
+    },
+    {
+      "id": "486: 廉",
+      "field": "sentence",
+      "full": "[値段](ねだん)"
+    },
+    {
+      "id": "487: 殿",
+      "field": "sentence",
+      "full": "[立派](りっぱ)"
+    },
+    {
+      "id": "488: 廟",
+      "field": "sentence",
+      "full": "[先祖](せんぞ)"
+    },
+    {
+      "id": "490: 座",
+      "field": "sentence",
+      "full": "[銀行](ぎんこう)"
+    },
+    {
+      "id": "491: 慶",
+      "field": "sentence",
+      "full": "[大学](だいがく)"
+    },
+    {
+      "id": "491: 慶",
+      "field": "sentence",
+      "full": "[入学](にゅうがく)"
+    },
+    {
+      "id": "492: 庶",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "494: 麗",
+      "field": "sentence",
+      "full": "[彼女](かのじょ)"
+    },
+    {
+      "id": "494: 麗",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "494: 麗",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "494: 麗",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "496: 麟",
+      "field": "sentence",
+      "full": "[伝説](でんせつ)"
+    },
+    {
+      "id": "496: 麟",
+      "field": "sentence",
+      "full": "[動物](どうぶつ)"
+    },
+    {
+      "id": "498: 麥",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "498: 麥",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "498: 麥",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "500: 麻",
+      "field": "sentence",
+      "full": "[手術](しゅじゅつ)"
+    },
+    {
+      "id": "500: 麻",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "500: 麻",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "500: 麻",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "504: 庸",
+      "field": "sentence",
+      "full": "[人物](じんぶつ)"
+    },
+    {
+      "id": "505: 庵",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "505: 庵",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "505: 庵",
+      "field": "sentence",
+      "full": "[訓読](くんどく)"
+    },
+    {
+      "id": "506: 底",
+      "field": "sentence",
+      "full": "[探査](たんさ)"
+    },
+    {
+      "id": "509: 胸",
+      "field": "sentence",
+      "full": "[緊張](きんちょう)"
+    },
+    {
+      "id": "511: 肩",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "511: 肩",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "511: 肩",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "511: 肩",
+      "field": "sentence",
+      "full": "[荷物](にもつ)"
+    },
+    {
+      "id": "512: 腰",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "512: 腰",
+      "field": "sentence",
+      "full": "[通常](つうじょう)"
+    },
+    {
+      "id": "512: 腰",
+      "field": "sentence",
+      "full": "[音読](おんどく)"
+    },
+    {
+      "id": "517: 肌",
+      "field": "sentence",
+      "full": "[乾燥](かんそう)"
+    },
+    {
+      "id": "534: 腺",
+      "field": "sentence",
+      "full": "[検査](けんさ)"
+    },
+    {
+      "id": "584: 承",
+      "field": "sentence",
+      "full": "[条件](じょうけん)"
+    },
+    {
+      "id": "584: 承",
+      "field": "sentence",
+      "full": "[注文](ちゅうもん)"
+    },
+    {
+      "id": "587: 拾",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "587: 拾",
+      "field": "sentence",
+      "full": "[財布](さいふ)"
+    },
+    {
+      "id": "588: 振",
+      "field": "sentence",
+      "full": "[口座](こうざ)"
+    },
+    {
+      "id": "590: 描",
+      "field": "sentence",
+      "full": "[風景](ふうけい)"
+    },
+    {
+      "id": "591: 措",
+      "field": "sentence",
+      "full": "[適切](てきせつ)"
+    },
+    {
+      "id": "592: 掘",
+      "field": "sentence",
+      "full": "[遺跡](いせき)"
+    },
+    {
+      "id": "593: 掲",
+      "field": "sentence",
+      "full": "[国旗](こっき)"
+    },
+    {
+      "id": "594: 揚",
+      "field": "sentence",
+      "full": "[国旗](こっき)"
+    },
+    {
+      "id": "597: 揺",
+      "field": "sentence",
+      "full": "[地震](じしん)"
+    },
+    {
+      "id": "598: 捜",
+      "field": "sentence",
+      "full": "[警察](けいさつ)"
+    },
+    {
+      "id": "598: 捜",
+      "field": "sentence",
+      "full": "[迷子](まいご)"
+    },
+    {
+      "id": "598: 捜",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "599: 操",
+      "field": "sentence",
+      "full": "[機械](きかい)"
+    },
+    {
+      "id": "602: 股",
+      "field": "sentence",
+      "full": "[股関節](こかんせつ)"
+    },
+    {
+      "id": "605: 髄",
+      "field": "sentence",
+      "full": "[移植](いしょく)"
+    },
+    {
+      "id": "608: 償",
+      "field": "sentence",
+      "full": "[被害者](ひがいしゃ)"
+    },
+    {
+      "id": "608: 償",
+      "field": "sentence",
+      "full": "[努力](どりょく)"
+    },
+    {
+      "id": "609: 傭",
+      "field": "sentence",
+      "full": "[外国](がいこく)"
+    },
+    {
+      "id": "610: 傑",
+      "field": "sentence",
+      "full": "[鑑賞](かんしょう)"
+    },
+    {
+      "id": "611: 僅",
+      "field": "sentence",
+      "full": "[試合](しあい)"
+    },
+    {
+      "id": "611: 僅",
+      "field": "sentence",
+      "full": "[勝利](しょうり)"
+    },
+    {
+      "id": "612: 像",
+      "field": "sentence",
+      "full": "[未来](みらい)"
+    },
+    {
+      "id": "613: 僕",
+      "field": "sentence",
+      "full": "[明日](あした)"
+    },
+    {
+      "id": "614: 僚",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "615: 偽",
+      "field": "sentence",
+      "full": "[証言](しょうげん)"
+    },
+    {
+      "id": "615: 偽",
+      "field": "sentence",
+      "full": "[犯罪](はんざい)"
+    },
+    {
+      "id": "615: 偽",
+      "field": "sentence",
+      "full": "[名画](めいが)"
+    },
+    {
+      "id": "616: 儀",
+      "field": "sentence",
+      "full": "[結婚](けっこん)"
+    },
+    {
+      "id": "617: 仰",
+      "field": "sentence",
+      "full": "[夜空](よぞら)"
+    },
+    {
+      "id": "618: 伴",
+      "field": "sentence",
+      "full": "[参加](さんか)"
+    },
+    {
+      "id": "618: 伴",
+      "field": "sentence",
+      "full": "[危険](きけん)"
+    },
+    {
+      "id": "618: 伴",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "620: 佐",
+      "field": "sentence",
+      "full": "[社長](しゃちょう)"
+    },
+    {
+      "id": "620: 佐",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "621: 併",
+      "field": "sentence",
+      "full": "[巨大](きょだい)"
+    },
+    {
+      "id": "621: 併",
+      "field": "sentence",
+      "full": "[企業](きぎょう)"
+    },
+    {
+      "id": "621: 併",
+      "field": "sentence",
+      "full": "[成長](せいちょう)"
+    },
+    {
+      "id": "621: 併",
+      "field": "sentence",
+      "full": "[確認](かくにん)"
+    },
+    {
+      "id": "622: 依",
+      "field": "sentence",
+      "full": "[弁護士](べんごし)"
+    },
+    {
+      "id": "622: 依",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "622: 依",
+      "field": "sentence",
+      "full": "[法律](ほうりつ)"
+    },
+    {
+      "id": "624: 侍",
+      "field": "sentence",
+      "full": "[王女](おうじょ)"
+    },
+    {
+      "id": "625: 侮",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "625: 侮",
+      "field": "sentence",
+      "full": "[言動](げんどう)"
+    },
+    {
+      "id": "625: 侮",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "626: 侯",
+      "field": "sentence",
+      "full": "[会議](かいぎ)"
+    },
+    {
+      "id": "628: 俗",
+      "field": "sentence",
+      "full": "[地域](ちいき)"
+    },
+    {
+      "id": "628: 俗",
+      "field": "sentence",
+      "full": "[研究](けんきゅう)"
+    },
+    {
+      "id": "629: 侵",
+      "field": "sentence",
+      "full": "[他国](たこく)"
+    },
+    {
+      "id": "629: 侵",
+      "field": "sentence",
+      "full": "[領土](りょうど)"
+    },
+    {
+      "id": "629: 侵",
+      "field": "sentence",
+      "full": "[平穏](へいおん)"
+    },
+    {
+      "id": "629: 侵",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "630: 促",
+      "field": "sentence",
+      "full": "[経済](けいざい)"
+    },
+    {
+      "id": "630: 促",
+      "field": "sentence",
+      "full": "[成長](せいちょう)"
+    },
+    {
+      "id": "630: 促",
+      "field": "sentence",
+      "full": "[国民](こくみん)"
+    },
+    {
+      "id": "630: 促",
+      "field": "sentence",
+      "full": "[注意](ちゅうい)"
+    },
+    {
+      "id": "631: 侶",
+      "field": "sentence",
+      "full": "[生涯](しょうがい)"
+    },
+    {
+      "id": "632: 俘",
+      "field": "sentence",
+      "full": "[戦争](せんそう)"
+    },
+    {
+      "id": "633: 倹",
+      "field": "sentence",
+      "full": "[生活費](せいかつひ)"
+    },
+    {
+      "id": "634: 倣",
+      "field": "sentence",
+      "full": "[有名](ゆうめい)"
+    },
+    {
+      "id": "634: 倣",
+      "field": "sentence",
+      "full": "[絵画](かいが)"
+    },
+    {
+      "id": "634: 倣",
+      "field": "sentence",
+      "full": "[前例](ぜんれい)"
+    },
+    {
+      "id": "634: 倣",
+      "field": "sentence",
+      "full": "[処理](しょり)"
+    },
+    {
+      "id": "635: 倫",
+      "field": "sentence",
+      "full": "[人間](にんげん)"
+    },
+    {
+      "id": "636: 偏",
+      "field": "sentence",
+      "full": "[外国人](がいこくじん)"
+    },
+    {
+      "id": "636: 偏",
+      "field": "sentence",
+      "full": "[栄養](えいよう)"
+    },
+    {
+      "id": "636: 偏",
+      "field": "sentence",
+      "full": "[食事](しょくじ)"
+    },
+    {
+      "id": "637: 偵",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "637: 偵",
+      "field": "sentence",
+      "full": "[調査](ちょうさ)"
+    },
+    {
+      "id": "638: 傍",
+      "field": "sentence",
+      "full": "[裁判](さいばん)"
+    },
+    {
+      "id": "639: 催",
+      "field": "sentence",
+      "full": "[東京](とうきょう)"
+    },
+    {
+      "id": "639: 催",
+      "field": "sentence",
+      "full": "[会議](かいぎ)"
+    },
+    {
+      "id": "641: 債",
+      "field": "sentence",
+      "full": "[会社](かいしゃ)"
+    },
+    {
+      "id": "642: 僧",
+      "field": "sentence",
+      "full": "[修行](しゅぎょう)"
+    },
+    {
+      "id": "643: 僑",
+      "field": "sentence",
+      "full": "[世界中](せかいじゅう)"
+    },
+    {
+      "id": "644: 僻",
+      "field": "sentence",
+      "full": "[医療](いりょう)"
+    },
+    {
+      "id": "644: 僻",
+      "field": "sentence",
+      "full": "[活動](かつどう)"
+    },
+    {
+      "id": "645: 凝",
+      "field": "sentence",
+      "full": "[血液](けつえき)"
+    },
+    {
+      "id": "646: 充",
+      "field": "sentence",
+      "full": "[生活費](せいかつひ)"
+    },
+    {
+      "id": "649: 兢",
+      "field": "sentence",
+      "full": "[戦々兢々](せんせんきょうきょう)"
+    },
+    {
+      "id": "649: 兢",
+      "field": "sentence",
+      "full": "[結果](けっか)"
+    },
+    {
+      "id": "650: 克",
+      "field": "sentence",
+      "full": "[困難](こんなん)"
+    },
+    {
+      "id": "651: 允",
+      "field": "sentence",
+      "full": "[契約](けいやく)"
+    },
+    {
+      "id": "652: 兇",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "652: 兇",
+      "field": "sentence",
+      "full": "[発生](はっせい)"
+    },
+    {
+      "id": "653: 兼",
+      "field": "sentence",
+      "full": "[趣味](しゅみ)"
+    },
+    {
+      "id": "653: 兼",
+      "field": "sentence",
+      "full": "[実益](じつえき)"
+    },
+    {
+      "id": "653: 兼",
+      "field": "sentence",
+      "full": "[食事](しょくじ)"
+    },
+    {
+      "id": "653: 兼",
+      "field": "sentence",
+      "full": "[会議](かいぎ)"
+    },
+    {
+      "id": "655: 冒",
+      "field": "sentence",
+      "full": "[世界](せかい)"
+    },
+    {
+      "id": "655: 冒",
+      "field": "sentence",
+      "full": "[見聞](けんぶん)"
+    },
+    {
+      "id": "655: 冒",
+      "field": "sentence",
+      "full": "[危険](きけん)"
+    },
+    {
+      "id": "655: 冒",
+      "field": "sentence",
+      "full": "[仲間](なかま)"
+    },
+    {
+      "id": "656: 冥",
+      "field": "sentence",
+      "full": "[故人](こじん)"
+    },
+    {
+      "id": "658: 冤",
+      "field": "sentence",
+      "full": "[逮捕](たいほ)"
+    },
+    {
+      "id": "660: 冶",
+      "field": "sentence",
+      "full": "[金属](きんぞく)"
+    },
+    {
+      "id": "661: 凄",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "661: 凄",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "662: 准",
+      "field": "sentence",
+      "full": "[准看護師](じゅんかんごし)"
+    },
+    {
+      "id": "662: 准",
+      "field": "sentence",
+      "full": "[資格](しかく)"
+    },
+    {
+      "id": "663: 冴",
+      "field": "sentence",
+      "full": "[夜空](よぞら)"
+    },
+    {
+      "id": "664: 凛",
+      "field": "sentence",
+      "full": "[寒気](かんき)"
+    },
+    {
+      "id": "664: 凛",
+      "field": "sentence",
+      "full": "[舞台](ぶたい)"
+    },
+    {
+      "id": "667: 凧",
+      "field": "sentence",
+      "full": "[正月](しょうがつ)"
+    },
+    {
+      "id": "668: 凶",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "672: 刃",
+      "field": "sentence",
+      "full": "[包丁](ほうちょう)"
+    },
+    {
+      "id": "675: 判",
+      "field": "sentence",
+      "full": "[合格](ごうかく)"
+    },
+    {
+      "id": "676: 刷",
+      "field": "sentence",
+      "full": "[資料](しりょう)"
+    },
+    {
+      "id": "677: 刺",
+      "field": "sentence",
+      "full": "[体験](たいけん)"
+    },
+    {
+      "id": "680: 剰",
+      "field": "sentence",
+      "full": "[電力](でんりょく)"
+    },
+    {
+      "id": "680: 剰",
+      "field": "sentence",
+      "full": "[販売](はんばい)"
+    },
+    {
+      "id": "681: 剖",
+      "field": "sentence",
+      "full": "[専攻](せんこう)"
+    },
+    {
+      "id": "682: 剔",
+      "field": "sentence",
+      "full": "[余分](よぶん)"
+    },
+    {
+      "id": "682: 剔",
+      "field": "sentence",
+      "full": "[組織](そしき)"
+    },
+    {
+      "id": "683: 劈",
+      "field": "sentence",
+      "full": "[大岩](おおいわ)"
+    },
+    {
+      "id": "683: 劈",
+      "field": "sentence",
+      "full": "[落雷](らくらい)"
+    },
+    {
+      "id": "685: 功",
+      "field": "sentence",
+      "full": "[実験](じっけん)"
+    },
+    {
+      "id": "687: 勒",
+      "field": "sentence",
+      "full": "[条約](じょうやく)"
+    },
+    {
+      "id": "688: 勲",
+      "field": "sentence",
+      "full": "[多大](ただい)"
+    },
+    {
+      "id": "689: 劫",
+      "field": "sentence",
+      "full": "[未来](みらい)"
+    },
+    {
+      "id": "690: 勃",
+      "field": "sentence",
+      "full": "[突然](とつぜん)"
+    },
+    {
+      "id": "690: 勃",
+      "field": "sentence",
+      "full": "[暴動](ぼうどう)"
+    },
+    {
+      "id": "691: 劾",
+      "field": "sentence",
+      "full": "[裁判](さいばん)"
+    },
+    {
+      "id": "692: 勅",
+      "field": "sentence",
+      "full": "[天皇](てんのう)"
+    },
+    {
+      "id": "694: 劭",
+      "field": "sentence",
+      "full": "[結果](けっか)"
+    },
+    {
+      "id": "694: 劭",
+      "field": "sentence",
+      "full": "[職務](しょくむ)"
+    },
+    {
+      "id": "696: 勍",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "697: 勣",
+      "field": "sentence",
+      "full": "[偉大](いだい)"
+    },
+    {
+      "id": "697: 勣",
+      "field": "sentence",
+      "full": "[後世](こうせい)"
+    },
+    {
+      "id": "699: 勦",
+      "field": "sentence",
+      "full": "[反乱](はんらん)"
+    },
+    {
+      "id": "700: 包",
+      "field": "sentence",
+      "full": "[荷物](にもつ)"
+    },
+    {
+      "id": "701: 菊",
+      "field": "sentence",
+      "full": "[感動](かんどう)"
+    },
+    {
+      "id": "703: 葡",
+      "field": "sentence",
+      "full": "[収穫](しゅうかく)"
+    },
+    {
+      "id": "708: 蓄",
+      "field": "sentence",
+      "full": "[経験](けいけん)"
+    },
+    {
+      "id": "709: 蓋",
+      "field": "sentence",
+      "full": "[考慮](こうりょ)"
+    },
+    {
+      "id": "710: 蔑",
+      "field": "sentence",
+      "full": "[卑劣](ひれつ)"
+    },
+    {
+      "id": "710: 蔑",
+      "field": "sentence",
+      "full": "[行為](こうい)"
+    },
+    {
+      "id": "710: 蔑",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "711: 藹",
+      "field": "sentence",
+      "full": "[和気藹藹](わきあいあい)"
+    },
+    {
+      "id": "711: 藹",
+      "field": "sentence",
+      "full": "[会議](かいぎ)"
+    },
+    {
+      "id": "712: 藻",
+      "field": "sentence",
+      "full": "[華麗](かれい)"
+    },
+    {
+      "id": "714: 蒐",
+      "field": "sentence",
+      "full": "[切手](きって)"
+    },
+    {
+      "id": "714: 蒐",
+      "field": "sentence",
+      "full": "[趣味](しゅみ)"
+    },
+    {
+      "id": "715: 蔽",
+      "field": "sentence",
+      "full": "[真実](しんじつ)"
+    },
+    {
+      "id": "716: 藩",
+      "field": "sentence",
+      "full": "[時代](じだい)"
+    },
+    {
+      "id": "718: 蕩",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "718: 蕩",
+      "field": "sentence",
+      "full": "[反省](はんせい)"
+    },
+    {
+      "id": "720: 蕭",
+      "field": "sentence",
+      "full": "[景色](けしき)"
+    },
+    {
+      "id": "721: 葦",
+      "field": "sentence",
+      "full": "[人間](にんげん)"
+    },
+    {
+      "id": "723: 蓬",
+      "field": "sentence",
+      "full": "[伝説](でんせつ)"
+    },
+    {
+      "id": "725: 繭",
+      "field": "sentence",
+      "full": "[伝統](でんとう)"
+    },
+    {
+      "id": "725: 繭",
+      "field": "sentence",
+      "full": "[養蚕](ようさん)"
+    },
+    {
+      "id": "725: 繭",
+      "field": "sentence",
+      "full": "[過程](かてい)"
+    },
+    {
+      "id": "727: 藉",
+      "field": "sentence",
+      "full": "[請求](せいきゅう)"
+    },
+    {
+      "id": "730: 蔓",
+      "field": "sentence",
+      "full": "[悪習](あくしゅう)"
+    },
+    {
+      "id": "732: 薇",
+      "field": "sentence",
+      "full": "[一輪](いちりん)"
+    },
+    {
+      "id": "735: 蔚",
+      "field": "sentence",
+      "full": "[韓国](かんこく)"
+    },
+    {
+      "id": "735: 蔚",
+      "field": "sentence",
+      "full": "[工業](こうぎょう)"
+    },
+    {
+      "id": "736: 蕉",
+      "field": "sentence",
+      "full": "[松尾芭蕉](まつおばしょう)"
+    },
+    {
+      "id": "736: 蕉",
+      "field": "sentence",
+      "full": "[有名](ゆうめい)"
+    },
+    {
+      "id": "736: 蕉",
+      "field": "sentence",
+      "full": "[俳人](はいじん)"
+    },
+    {
+      "id": "741: 苑",
+      "field": "sentence",
+      "full": "[新宿](しんじゅく)"
+    },
+    {
+      "id": "741: 苑",
+      "field": "sentence",
+      "full": "[百花](ひゃっか)"
+    },
+    {
+      "id": "745: 范",
+      "field": "sentence",
+      "full": "[法律](ほうりつ)"
+    },
+    {
+      "id": "748: 茫",
+      "field": "sentence",
+      "full": "[前途](ぜんと)"
+    },
+    {
+      "id": "749: 茱",
+      "field": "sentence",
+      "full": "[収穫](しゅうかく)"
+    },
+    {
+      "id": "751: 蓮",
+      "field": "sentence",
+      "full": "[仏像](ぶつぞう)"
+    },
+    {
+      "id": "755: 虎",
+      "field": "sentence",
+      "full": "[眈眈](たんたん)"
+    },
+    {
+      "id": "755: 虎",
+      "field": "sentence",
+      "full": "[機会](きかい)"
+    },
+    {
+      "id": "756: 虐",
+      "field": "sentence",
+      "full": "[行為](こうい)"
+    },
+    {
+      "id": "757: 慮",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "761: 虧",
+      "field": "sentence",
+      "full": "[利益](りえき)"
+    },
+    {
+      "id": "762: 虹",
+      "field": "sentence",
+      "full": "[個人](こじん)"
+    },
+    {
+      "id": "762: 虹",
+      "field": "sentence",
+      "full": "[識別](しきべつ)"
+    },
+    {
+      "id": "762: 虹",
+      "field": "sentence",
+      "full": "[綺麗](きれい)"
+    },
+    {
+      "id": "765: 蚕",
+      "field": "sentence",
+      "full": "[歴史](れきし)"
+    },
+    {
+      "id": "768: 蛍",
+      "field": "sentence",
+      "full": "[重要](じゅうよう)"
+    },
+    {
+      "id": "768: 蛍",
+      "field": "sentence",
+      "full": "[箇所](かしょ)"
+    },
+    {
+      "id": "768: 蛍",
+      "field": "sentence",
+      "full": "[暗闇](くらやみ)"
+    },
+    {
+      "id": "770: 蜂",
+      "field": "sentence",
+      "full": "[民衆](みんしゅう)"
+    },
+    {
+      "id": "771: 蝶",
+      "field": "sentence",
+      "full": "[優雅](ゆうが)"
+    },
+    {
+      "id": "775: 蟻",
+      "field": "sentence",
+      "full": "[人々](ひとびと)"
+    },
+    {
+      "id": "778: 蠢",
+      "field": "sentence",
+      "full": "[暗躍](あんやく)"
+    },
+    {
+      "id": "778: 蠢",
+      "field": "sentence",
+      "full": "[気配](けはい)"
+    },
+    {
+      "id": "779: 蝕",
+      "field": "sentence",
+      "full": "[金属](きんぞく)"
+    },
+    {
+      "id": "781: 衷",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "782: 袴",
+      "field": "sentence",
+      "full": "[和服](わふく)"
+    },
+    {
+      "id": "783: 褒",
+      "field": "sentence",
+      "full": "[功績](こうせき)"
+    },
+    {
+      "id": "783: 褒",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "788: 袒",
+      "field": "sentence",
+      "full": "[応援](おうえん)"
+    },
+    {
+      "id": "790: 祷",
+      "field": "sentence",
+      "full": "[平和](へいわ)"
+    },
+    {
+      "id": "790: 祷",
+      "field": "sentence",
+      "full": "[健康](けんこう)"
+    },
+    {
+      "id": "791: 祀",
+      "field": "sentence",
+      "full": "[国家](こっか)"
+    },
+    {
+      "id": "791: 祀",
+      "field": "sentence",
+      "full": "[安泰](あんたい)"
+    },
+    {
+      "id": "791: 祀",
+      "field": "sentence",
+      "full": "[豊作](ほうさく)"
+    },
+    {
+      "id": "792: 祁",
+      "field": "sentence",
+      "full": "[祁連山](きれんざん)"
+    },
+    {
+      "id": "793: 祇",
+      "field": "sentence",
+      "full": "[京都](きょうと)"
+    },
+    {
+      "id": "793: 祇",
+      "field": "sentence",
+      "full": "[八坂](やさか)"
+    },
+    {
+      "id": "794: 祐",
+      "field": "sentence",
+      "full": "[成功](せいこう)"
+    },
+    {
+      "id": "795: 祥",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "797: 禦",
+      "field": "sentence",
+      "full": "[攻撃](こうげき)"
+    },
+    {
+      "id": "797: 禦",
+      "field": "sentence",
+      "full": "[侵入](しんにゅう)"
+    },
+    {
+      "id": "800: 祓",
+      "field": "sentence",
+      "full": "[厄祓い](やくばらい)"
+    },
+    {
+      "id": "804: 闇",
+      "field": "sentence",
+      "full": "[一寸](いっすん)"
+    },
+    {
+      "id": "805: 嵐",
+      "field": "sentence",
+      "full": "[台風](たいふう)"
+    },
+    {
+      "id": "805: 嵐",
+      "field": "sentence",
+      "full": "[土砂降](どしゃぶ)"
+    },
+    {
+      "id": "806: 畏",
+      "field": "sentence",
+      "full": "[自然](しぜん)"
+    },
+    {
+      "id": "807: 萎",
+      "field": "sentence",
+      "full": "[筋肉](きんにく)"
+    },
+    {
+      "id": "815: 渦",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "817: 餌",
+      "field": "sentence",
+      "full": "[捕食](ほしょく)"
+    },
+    {
+      "id": "817: 餌",
+      "field": "sentence",
+      "full": "[獲物](えもの)"
+    },
+    {
+      "id": "821: 岡",
+      "field": "sentence",
+      "full": "[名物](めいぶつ)"
+    },
+    {
+      "id": "824: 牙",
+      "field": "sentence",
+      "full": "[高価](こうか)"
+    },
+    {
+      "id": "824: 牙",
+      "field": "sentence",
+      "full": "[売買](ばいばい)"
+    },
+    {
+      "id": "824: 牙",
+      "field": "sentence",
+      "full": "[猛獣](もうじゅう)"
+    },
+    {
+      "id": "825: 瓦",
+      "field": "sentence",
+      "full": "[景色](けしき)"
+    },
+    {
+      "id": "827: 崖",
+      "field": "sentence",
+      "full": "[絶壁](ぜっぺき)"
+    },
+    {
+      "id": "828: 鎧",
+      "field": "sentence",
+      "full": "[身体](からだ)"
+    },
+    {
+      "id": "830: 顎",
+      "field": "sentence",
+      "full": "[調子](ちょうし)"
+    },
+    {
+      "id": "831: 喝",
+      "field": "sentence",
+      "full": "[大声](おおごえ)"
+    },
+    {
+      "id": "833: 鎌",
+      "field": "sentence",
+      "full": "[大仏](だいぶつ)"
+    },
+    {
+      "id": "834: 粥",
+      "field": "sentence",
+      "full": "[健康](けんこう)"
+    },
+    {
+      "id": "834: 粥",
+      "field": "sentence",
+      "full": "[七草](ななくさ)"
+    },
+    {
+      "id": "835: 玩",
+      "field": "sentence",
+      "full": "[骨董](こっとう)"
+    },
+    {
+      "id": "836: 伎",
+      "field": "sentence",
+      "full": "[鑑賞](かんしょう)"
+    },
+    {
+      "id": "837: 忌",
+      "field": "sentence",
+      "full": "[習慣](しゅうかん)"
+    },
+    {
+      "id": "837: 忌",
+      "field": "sentence",
+      "full": "[命日](めいにち)"
+    },
+    {
+      "id": "838: 畿",
+      "field": "sentence",
+      "full": "[関西](かんさい)"
+    },
+    {
+      "id": "838: 畿",
+      "field": "sentence",
+      "full": "[中心](ちゅうしん)"
+    },
+    {
+      "id": "838: 畿",
+      "field": "sentence",
+      "full": "[地方](ちほう)"
+    },
+    {
+      "id": "840: 稀",
+      "field": "sentence",
+      "full": "[大天守](だいてんしゅ)"
+    },
+    {
+      "id": "840: 稀",
+      "field": "sentence",
+      "full": "[見物](けんぶつ)"
+    },
+    {
+      "id": "840: 稀",
+      "field": "sentence",
+      "full": "[資源](しげん)"
+    },
+    {
+      "id": "840: 稀",
+      "field": "sentence",
+      "full": "[大切](たいせつ)"
+    },
+    {
+      "id": "841: 毅",
+      "field": "sentence",
+      "full": "[態度](たいど)"
+    },
+    {
+      "id": "842: 徽",
+      "field": "sentence",
+      "full": "[登校](とうこう)"
+    },
+    {
+      "id": "843: 嗅",
+      "field": "sentence",
+      "full": "[警察](けいさつ)"
+    },
+    {
+      "id": "844: 亀",
+      "field": "sentence",
+      "full": "[甲羅](こうら)"
+    },
+    {
+      "id": "845: 鋸",
+      "field": "sentence",
+      "full": "[大工](だいく)"
+    },
+    {
+      "id": "847: 隙",
+      "field": "sentence",
+      "full": "[一寸](いっすん)"
+    },
+    {
+      "id": "847: 隙",
+      "field": "sentence",
+      "full": "[完璧](かんぺき)"
+    },
+    {
+      "id": "847: 隙",
+      "field": "sentence",
+      "full": "[計画](けいかく)"
+    },
+    {
+      "id": "848: 桁",
+      "field": "sentence",
+      "full": "[計算](けいさん)"
+    },
+    {
+      "id": "848: 桁",
+      "field": "sentence",
+      "full": "[間違](まちが)"
+    },
+    {
+      "id": "850: 芯",
+      "field": "sentence",
+      "full": "[蝋燭](ろうそく)"
+    },
+    {
+      "id": "852: 凄",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "852: 凄",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "853: 醒",
+      "field": "sentence",
+      "full": "[現実](げんじつ)"
+    },
+    {
+      "id": "853: 醒",
+      "field": "sentence",
+      "full": "[直視](ちょくし)"
+    },
+    {
+      "id": "853: 醒",
+      "field": "sentence",
+      "full": "[意識](いしき)"
+    },
+    {
+      "id": "855: 戚",
+      "field": "sentence",
+      "full": "[間柄](あいだがら)"
+    },
+    {
+      "id": "857: 羨",
+      "field": "sentence",
+      "full": "[成功](せいこう)"
+    },
+    {
+      "id": "857: 羨",
+      "field": "sentence",
+      "full": "[才能](さいのう)"
+    },
+    {
+      "id": "858: 腺",
+      "field": "sentence",
+      "full": "[検査](けんさ)"
+    },
+    {
+      "id": "859: 煽",
+      "field": "sentence",
+      "full": "[不当](ふとう)"
+    },
+    {
+      "id": "859: 煽",
+      "field": "sentence",
+      "full": "[不安](ふあん)"
+    },
+    {
+      "id": "859: 煽",
+      "field": "sentence",
+      "full": "[言動](げんどう)"
+    },
+    {
+      "id": "860: 栓",
+      "field": "sentence",
+      "full": "[蛇口](じゃぐち)"
+    },
+    {
+      "id": "861: 箋",
+      "field": "sentence",
+      "full": "[処方](しょほう)"
+    },
+    {
+      "id": "862: 膳",
+      "field": "sentence",
+      "full": "[用意](ようい)"
+    },
+    {
+      "id": "863: 狙",
+      "field": "sentence",
+      "full": "[眈眈](たんたん)"
+    },
+    {
+      "id": "863: 狙",
+      "field": "sentence",
+      "full": "[獲物](えもの)"
+    },
+    {
+      "id": "864: 阻",
+      "field": "sentence",
+      "full": "[前進](ぜんしん)"
+    },
+    {
+      "id": "866: 噌",
+      "field": "sentence",
+      "full": "[郷土](きょうど)"
+    },
+    {
+      "id": "866: 噌",
+      "field": "sentence",
+      "full": "[料理](りょうり)"
+    },
+    {
+      "id": "867: 爽",
+      "field": "sentence",
+      "full": "[空気](くうき)"
+    },
+    {
+      "id": "867: 爽",
+      "field": "sentence",
+      "full": "[気分](きぶん)"
+    },
+    {
+      "id": "868: 痩",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "868: 痩",
+      "field": "sentence",
+      "full": "[減量](げんりょう)"
+    },
+    {
+      "id": "869: 踪",
+      "field": "sentence",
+      "full": "[行方](ゆくえ)"
+    },
+    {
+      "id": "870: 捉",
+      "field": "sentence",
+      "full": "[決定](けってい)"
+    },
+    {
+      "id": "870: 捉",
+      "field": "sentence",
+      "full": "[瞬間](しゅんかん)"
+    },
+    {
+      "id": "870: 捉",
+      "field": "sentence",
+      "full": "[特徴](とくちょう)"
+    },
+    {
+      "id": "871: 遜",
+      "field": "sentence",
+      "full": "[言葉](ことば)"
+    },
+    {
+      "id": "871: 遜",
+      "field": "sentence",
+      "full": "[否定](ひてい)"
+    },
+    {
+      "id": "872: 汰",
+      "field": "sentence",
+      "full": "[自然](しぜん)"
+    },
+    {
+      "id": "872: 汰",
+      "field": "sentence",
+      "full": "[摂理](せつり)"
+    },
+    {
+      "id": "873: 舵",
+      "field": "sentence",
+      "full": "[座礁](ざしょう)"
+    },
+    {
+      "id": "874: 妥",
+      "field": "sentence",
+      "full": "[見出](みいだ)"
+    },
+    {
+      "id": "875: 唾",
+      "field": "sentence",
+      "full": "[消化](しょうか)"
+    },
+    {
+      "id": "876: 墮",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "876: 墮",
+      "field": "sentence",
+      "full": "[後悔](こうかい)"
+    },
+    {
+      "id": "877: 惰",
+      "field": "sentence",
+      "full": "[長年](ながねん)"
+    },
+    {
+      "id": "879: 堆",
+      "field": "sentence",
+      "full": "[土砂](どしゃ)"
+    },
+    {
+      "id": "882: 丹",
+      "field": "sentence",
+      "full": "[作品](さくひん)"
+    },
+    {
+      "id": "883: 綻",
+      "field": "sentence",
+      "full": "[衣類](いるい)"
+    },
+    {
+      "id": "884: 旦",
+      "field": "sentence",
+      "full": "[親族](しんぞく)"
+    },
+    {
+      "id": "885: 緻",
+      "field": "sentence",
+      "full": "[計算](けいさん)"
+    },
+    {
+      "id": "886: 逐",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "886: 逐",
+      "field": "sentence",
+      "full": "[報告](ほうこく)"
+    },
+    {
+      "id": "887: 秩",
+      "field": "sentence",
+      "full": "[社会](しゃかい)"
+    },
+    {
+      "id": "888: 嫡",
+      "field": "sentence",
+      "full": "[家督](かとく)"
+    },
+    {
+      "id": "889: 凋",
+      "field": "sentence",
+      "full": "[名家](めいか)"
+    },
+    {
+      "id": "889: 凋",
+      "field": "sentence",
+      "full": "[物語](ものがたり)"
+    },
+    {
+      "id": "890: 嘲",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "890: 嘲",
+      "field": "sentence",
+      "full": "[態度](たいど)"
+    },
+    {
+      "id": "890: 嘲",
+      "field": "sentence",
+      "full": "[世間](せけん)"
+    },
+    {
+      "id": "892: 寵",
+      "field": "sentence",
+      "full": "[一新](いっしん)"
+    },
+    {
+      "id": "893: 捗",
+      "field": "sentence",
+      "full": "[仕事](しごと)"
+    },
+    {
+      "id": "893: 捗",
+      "field": "sentence",
+      "full": "[確認](かくにん)"
+    },
+    {
+      "id": "893: 捗",
+      "field": "sentence",
+      "full": "[作業](さぎょう)"
+    },
+    {
+      "id": "895: 錘",
+      "field": "sentence",
+      "full": "[建物](たてもの)"
+    },
+    {
+      "id": "895: 錘",
+      "field": "sentence",
+      "full": "[天秤](てんびん)"
+    },
+    {
+      "id": "897: 墜",
+      "field": "sentence",
+      "full": "[飛行機](ひこうき)"
+    },
+    {
+      "id": "897: 墜",
+      "field": "sentence",
+      "full": "[報道](ほうどう)"
+    },
+    {
+      "id": "898: 爪",
+      "field": "sentence",
+      "full": "[注意](ちゅうい)"
+    },
+    {
+      "id": "899: 鶴",
+      "field": "sentence",
+      "full": "[千羽鶴](せんばづる)"
+    },
+    {
+      "id": "900: 鼎",
+      "field": "sentence",
+      "full": "[状態](じょうたい)"
+    },
+    {
+      "id": "900: 鼎",
+      "field": "sentence",
+      "full": "[青銅](せいどう)"
+    },
+    {
+      "id": "901: 憧",
+      "field": "sentence",
+      "full": "[都会](とかい)"
+    },
+    {
+      "id": "901: 憧",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "901: 憧",
+      "field": "sentence",
+      "full": "[若者](わかもの)"
+    },
+    {
+      "id": "901: 憧",
+      "field": "sentence",
+      "full": "[有名人](ゆうめいじん)"
+    },
+    {
+      "id": "902: 嫉",
+      "field": "sentence",
+      "full": "[成功](せいこう)"
+    },
+    {
+      "id": "902: 嫉",
+      "field": "sentence",
+      "full": "[友人](ゆうじん)"
+    },
+    {
+      "id": "902: 嫉",
+      "field": "sentence",
+      "full": "[才能](さいのう)"
+    },
+    {
+      "id": "903: 妬",
+      "field": "sentence",
+      "full": "[性格](せいかく)"
+    },
+    {
+      "id": "904: 羨",
+      "field": "sentence",
+      "full": "[成功](せいこう)"
+    },
+    {
+      "id": "904: 羨",
+      "field": "sentence",
+      "full": "[才能](さいのう)"
+    },
+    {
+      "id": "905: 蔑",
+      "field": "sentence",
+      "full": "[卑劣](ひれつ)"
+    },
+    {
+      "id": "905: 蔑",
+      "field": "sentence",
+      "full": "[行為](こうい)"
+    },
+    {
+      "id": "905: 蔑",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "906: 嘲",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "906: 嘲",
+      "field": "sentence",
+      "full": "[態度](たいど)"
+    },
+    {
+      "id": "906: 嘲",
+      "field": "sentence",
+      "full": "[世間](せけん)"
+    },
+    {
+      "id": "907: 罵",
+      "field": "sentence",
+      "full": "[大声](おおごえ)"
+    },
+    {
+      "id": "907: 罵",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "908: 挫",
+      "field": "sentence",
+      "full": "[失敗](しっぱい)"
+    },
+    {
+      "id": "908: 挫",
+      "field": "sentence",
+      "full": "[足首](あしくび)"
+    },
+    {
+      "id": "909: 羞",
+      "field": "sentence",
+      "full": "[彼女](かのじょ)"
+    },
+    {
+      "id": "910: 慄",
+      "field": "sentence",
+      "full": "[恐ろしさ](おそろしさ)"
+    },
+    {
+      "id": "910: 慄",
+      "field": "sentence",
+      "full": "[恐怖](きょうふ)"
+    },
+    {
+      "id": "911: 憔",
+      "field": "sentence",
+      "full": "[過労](かろう)"
+    },
+    {
+      "id": "911: 憔",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "912: 悴",
+      "field": "sentence",
+      "full": "[心身](しんしん)"
+    },
+    {
+      "id": "912: 悴",
+      "field": "sentence",
+      "full": "[手指](てゆび)"
+    },
+    {
+      "id": "913: 憚",
+      "field": "sentence",
+      "full": "[意見](いけん)"
+    },
+    {
+      "id": "913: 憚",
+      "field": "sentence",
+      "full": "[世間](せけん)"
+    },
+    {
+      "id": "915: 怯",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "915: 怯",
+      "field": "sentence",
+      "full": "[迫力](はくりょく)"
+    },
+    {
+      "id": "915: 怯",
+      "field": "sentence",
+      "full": "[一瞬](いっしゅん)"
+    },
+    {
+      "id": "915: 怯",
+      "field": "sentence",
+      "full": "[夜道](よみち)"
+    },
+    {
+      "id": "915: 怯",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "916: 憬",
+      "field": "sentence",
+      "full": "[都会](とかい)"
+    },
+    {
+      "id": "916: 憬",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "916: 憬",
+      "field": "sentence",
+      "full": "[平和](へいわ)"
+    },
+    {
+      "id": "916: 憬",
+      "field": "sentence",
+      "full": "[世界](せかい)"
+    },
+    {
+      "id": "917: 諜",
+      "field": "sentence",
+      "full": "[拠点](きょてん)"
+    },
+    {
+      "id": "917: 諜",
+      "field": "sentence",
+      "full": "[活動](かつどう)"
+    },
+    {
+      "id": "917: 諜",
+      "field": "sentence",
+      "full": "[出方](でかた)"
+    },
+    {
+      "id": "919: 錘",
+      "field": "sentence",
+      "full": "[建物](たてもの)"
+    },
+    {
+      "id": "919: 錘",
+      "field": "sentence",
+      "full": "[天秤](てんびん)"
+    },
+    {
+      "id": "920: 槌",
+      "field": "sentence",
+      "full": "[悪事](あくじ)"
+    },
+    {
+      "id": "921: 墜",
+      "field": "sentence",
+      "full": "[飛行機](ひこうき)"
+    },
+    {
+      "id": "921: 墜",
+      "field": "sentence",
+      "full": "[報道](ほうどう)"
+    },
+    {
+      "id": "921: 墜",
+      "field": "sentence",
+      "full": "[奈落](ならく)"
+    },
+    {
+      "id": "922: 爪",
+      "field": "sentence",
+      "full": "[注意](ちゅうい)"
+    },
+    {
+      "id": "923: 鶴",
+      "field": "sentence",
+      "full": "[千羽鶴](せんばづる)"
+    },
+    {
+      "id": "924: 虹",
+      "field": "sentence",
+      "full": "[個人](こじん)"
+    },
+    {
+      "id": "924: 虹",
+      "field": "sentence",
+      "full": "[識別](しきべつ)"
+    },
+    {
+      "id": "924: 虹",
+      "field": "sentence",
+      "full": "[綺麗](きれい)"
+    },
+    {
+      "id": "925: 籠",
+      "field": "sentence",
+      "full": "[買い物](かいもの)"
+    },
+    {
+      "id": "927: 弄",
+      "field": "sentence",
+      "full": "[運命](うんめい)"
+    },
+    {
+      "id": "927: 弄",
+      "field": "sentence",
+      "full": "[人生](じんせい)"
+    },
+    {
+      "id": "927: 弄",
+      "field": "sentence",
+      "full": "[相手](あいて)"
+    },
+    {
+      "id": "928: 賂",
+      "field": "sentence",
+      "full": "[漢字](かんじ)"
+    },
+    {
+      "id": "929: 溺",
+      "field": "sentence",
+      "full": "[健康](けんこう)"
+    },
+    {
+      "id": "929: 溺",
+      "field": "sentence",
+      "full": "[子供](こども)"
+    },
+    {
+      "id": "930: 嗜",
+      "field": "sentence",
+      "full": "[嗜好品](しこうひん)"
+    },
+    {
+      "id": "930: 嗜",
+      "field": "sentence",
+      "full": "[摂取](せっしゅ)"
+    },
+    {
+      "id": "930: 嗜",
+      "field": "sentence",
+      "full": "[茶道](さどう)"
+    },
+    {
+      "id": "930: 嗜",
+      "field": "sentence",
+      "full": "[優雅](ゆうが)"
+    },
+    {
+      "id": "931: 蓋",
+      "field": "sentence",
+      "full": "[考慮](こうりょ)"
+    },
+    {
+      "id": "933: 馨",
+      "field": "sentence",
+      "full": "[金木犀](きんもくせい)"
+    },
+    {
+      "id": "934: 喝",
+      "field": "sentence",
+      "full": "[大声](おおごえ)"
+    },
+    {
+      "id": "937: 鎌",
+      "field": "sentence",
+      "full": "[大仏](だいぶつ)"
+    },
+    {
+      "id": "938: 粥",
+      "field": "sentence",
+      "full": "[健康](けんこう)"
+    },
+    {
+      "id": "938: 粥",
+      "field": "sentence",
+      "full": "[七草](ななくさ)"
+    },
+    {
+      "id": "939: 玩",
+      "field": "sentence",
+      "full": "[骨董](こっとう)"
+    },
+    {
+      "id": "940: 伎",
+      "field": "sentence",
+      "full": "[鑑賞](かんしょう)"
+    },
+    {
+      "id": "941: 忌",
+      "field": "sentence",
+      "full": "[習慣](しゅうかん)"
+    },
+    {
+      "id": "941: 忌",
+      "field": "sentence",
+      "full": "[命日](めいにち)"
+    },
+    {
+      "id": "942: 畿",
+      "field": "sentence",
+      "full": "[関西](かんさい)"
+    },
+    {
+      "id": "942: 畿",
+      "field": "sentence",
+      "full": "[中心](ちゅうしん)"
+    },
+    {
+      "id": "942: 畿",
+      "field": "sentence",
+      "full": "[地方](ちほう)"
+    },
+    {
+      "id": "944: 稀",
+      "field": "sentence",
+      "full": "[大天守](だいてんしゅ)"
+    },
+    {
+      "id": "944: 稀",
+      "field": "sentence",
+      "full": "[見物](けんぶつ)"
+    },
+    {
+      "id": "944: 稀",
+      "field": "sentence",
+      "full": "[資源](しげん)"
+    },
+    {
+      "id": "944: 稀",
+      "field": "sentence",
+      "full": "[大切](たいせつ)"
+    },
+    {
+      "id": "945: 毅",
+      "field": "sentence",
+      "full": "[態度](たいど)"
+    },
+    {
+      "id": "946: 徽",
+      "field": "sentence",
+      "full": "[登校](とうこう)"
+    },
+    {
+      "id": "947: 嗅",
+      "field": "sentence",
+      "full": "[警察](けいさつ)"
+    },
+    {
+      "id": "948: 亀",
+      "field": "sentence",
+      "full": "[甲羅](こうら)"
+    },
+    {
+      "id": "949: 鋸",
+      "field": "sentence",
+      "full": "[大工](だいく)"
+    },
+    {
+      "id": "951: 隙",
+      "field": "sentence",
+      "full": "[一寸](いっすん)"
+    },
+    {
+      "id": "951: 隙",
+      "field": "sentence",
+      "full": "[完璧](かんぺき)"
+    },
+    {
+      "id": "951: 隙",
+      "field": "sentence",
+      "full": "[計画](けいかく)"
+    },
+    {
+      "id": "952: 桁",
+      "field": "sentence",
+      "full": "[計算](けいさん)"
+    },
+    {
+      "id": "952: 桁",
+      "field": "sentence",
+      "full": "[間違](まちが)"
+    },
+    {
+      "id": "954: 芯",
+      "field": "sentence",
+      "full": "[蝋燭](ろうそく)"
+    },
+    {
+      "id": "954: 芯",
+      "field": "sentence",
+      "full": "[林檎](りんご)"
+    },
+    {
+      "id": "956: 凄",
+      "field": "sentence",
+      "full": "[事件](じけん)"
+    },
+    {
+      "id": "956: 凄",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "957: 醒",
+      "field": "sentence",
+      "full": "[現実](げんじつ)"
+    },
+    {
+      "id": "957: 醒",
+      "field": "sentence",
+      "full": "[直視](ちょくし)"
+    },
+    {
+      "id": "957: 醒",
+      "field": "sentence",
+      "full": "[意識](いしき)"
+    },
+    {
+      "id": "960: 腺",
+      "field": "sentence",
+      "full": "[検査](けんさ)"
+    },
+    {
+      "id": "961: 煽",
+      "field": "sentence",
+      "full": "[不当](ふとう)"
+    },
+    {
+      "id": "961: 煽",
+      "field": "sentence",
+      "full": "[不安](ふあん)"
+    },
+    {
+      "id": "961: 煽",
+      "field": "sentence",
+      "full": "[言動](げんどう)"
+    },
+    {
+      "id": "962: 栓",
+      "field": "sentence",
+      "full": "[蛇口](じゃぐち)"
+    },
+    {
+      "id": "962: 栓",
+      "field": "sentence",
+      "full": "[中身](なかみ)"
+    },
+    {
+      "id": "963: 箋",
+      "field": "sentence",
+      "full": "[処方](しょほう)"
+    },
+    {
+      "id": "964: 膳",
+      "field": "sentence",
+      "full": "[用意](ようい)"
+    },
+    {
+      "id": "964: 膳",
+      "field": "sentence",
+      "full": "[豪華](ごうか)"
+    },
+    {
+      "id": "965: 狙",
+      "field": "sentence",
+      "full": "[眈眈](たんたん)"
+    },
+    {
+      "id": "965: 狙",
+      "field": "sentence",
+      "full": "[獲物](えもの)"
+    },
+    {
+      "id": "966: 阻",
+      "field": "sentence",
+      "full": "[前進](ぜんしん)"
+    },
+    {
+      "id": "968: 噌",
+      "field": "sentence",
+      "full": "[郷土](きょうど)"
+    },
+    {
+      "id": "968: 噌",
+      "field": "sentence",
+      "full": "[料理](りょうり)"
+    },
+    {
+      "id": "969: 爽",
+      "field": "sentence",
+      "full": "[空気](くうき)"
+    },
+    {
+      "id": "969: 爽",
+      "field": "sentence",
+      "full": "[気分](きぶん)"
+    },
+    {
+      "id": "970: 痩",
+      "field": "sentence",
+      "full": "[病気](びょうき)"
+    },
+    {
+      "id": "970: 痩",
+      "field": "sentence",
+      "full": "[減量](げんりょう)"
+    },
+    {
+      "id": "971: 踪",
+      "field": "sentence",
+      "full": "[行方](ゆくえ)"
+    },
+    {
+      "id": "971: 踪",
+      "field": "sentence",
+      "full": "[行方](ゆくえ)"
+    },
+    {
+      "id": "972: 捉",
+      "field": "sentence",
+      "full": "[決定](けってい)"
+    },
+    {
+      "id": "972: 捉",
+      "field": "sentence",
+      "full": "[瞬間](しゅんかん)"
+    },
+    {
+      "id": "972: 捉",
+      "field": "sentence",
+      "full": "[特徴](とくちょう)"
+    },
+    {
+      "id": "973: 遜",
+      "field": "sentence",
+      "full": "[言葉](ことば)"
+    },
+    {
+      "id": "973: 遜",
+      "field": "sentence",
+      "full": "[否定](ひてい)"
+    },
+    {
+      "id": "974: 汰",
+      "field": "sentence",
+      "full": "[自然](しぜん)"
+    },
+    {
+      "id": "974: 汰",
+      "field": "sentence",
+      "full": "[摂理](せつり)"
+    },
+    {
+      "id": "974: 汰",
+      "field": "sentence",
+      "full": "[正気](しょうき)"
+    },
+    {
+      "id": "975: 舵",
+      "field": "sentence",
+      "full": "[座礁](ざしょう)"
+    },
+    {
+      "id": "976: 妥",
+      "field": "sentence",
+      "full": "[見出](みいだ)"
+    },
+    {
+      "id": "976: 妥",
+      "field": "sentence",
+      "full": "[理由](りゆう)"
+    },
+    {
+      "id": "976: 妥",
+      "field": "sentence",
+      "full": "[説明](せつめい)"
+    },
+    {
+      "id": "977: 唾",
+      "field": "sentence",
+      "full": "[消化](しょうか)"
+    },
+    {
+      "id": "978: 墮",
+      "field": "sentence",
+      "full": "[生活](せいかつ)"
+    },
+    {
+      "id": "978: 墮",
+      "field": "sentence",
+      "full": "[後悔](こうかい)"
+    },
+    {
+      "id": "979: 惰",
+      "field": "sentence",
+      "full": "[長年](ながねん)"
+    },
+    {
+      "id": "979: 惰",
+      "field": "sentence",
+      "full": "[日常](にちじょう)"
+    },
+    {
+      "id": "992: 抽",
+      "field": "sentence",
+      "full": "[抽象的](ちゅうしょうてき)"
+    },
+    {
+      "id": "992: 抽",
+      "field": "sentence",
+      "full": "[概念](がいねん)"
+    },
+    {
+      "id": "992: 抽",
+      "field": "sentence",
+      "full": "[理解](りかい)"
+    },
+    {
+      "id": "992: 抽",
+      "field": "sentence",
+      "full": "[厳正](げんせい)"
+    },
+    {
+      "id": "992: 抽",
+      "field": "sentence",
+      "full": "[当選者](とうせんしゃ)"
+    },
+    {
+      "id": "993: 鋳",
+      "field": "sentence",
+      "full": "[銅像](どうぞう)"
+    },
+    {
+      "id": "993: 鋳",
+      "field": "sentence",
+      "full": "[技術](ぎじゅつ)"
+    },
+    {
+      "id": "996: 箸",
+      "field": "sentence",
+      "full": "[食文化](しょくぶんか)"
+    },
+    {
+      "id": "996: 箸",
+      "field": "sentence",
+      "full": "[重要](じゅうよう)"
+    },
+    {
+      "id": "996: 箸",
+      "field": "sentence",
+      "full": "[道具](どうぐ)"
+    },
+    {
+      "id": "996: 箸",
+      "field": "sentence",
+      "full": "[上手](じょうず)"
+    },
+    {
+      "id": "998: 朕",
+      "field": "sentence",
+      "full": "[国家](こっか)"
+    },
+    {
+      "id": "998: 朕",
+      "field": "sentence",
+      "full": "[名言](めいげん)"
+    },
+    {
+      "id": "998: 朕",
+      "field": "sentence",
+      "full": "[皇帝](こうてい)"
+    },
+    {
+      "id": "1000: 塚",
+      "field": "sentence",
+      "full": "[付近](ふきん)"
+    },
+    {
+      "id": "1000: 塚",
+      "field": "sentence",
+      "full": "[縄文](じょうもん)"
+    },
+    {
+      "id": "1000: 塚",
+      "field": "sentence",
+      "full": "[時代](じだい)"
+    },
+    {
+      "id": "1000: 塚",
+      "field": "sentence",
+      "full": "[出土](しゅつど)"
+    },
+    {
+      "id": "1000: 塚",
+      "field": "sentence",
+      "full": "[一里塚](いちりづか)"
+    },
+    {
+      "id": "1000: 塚",
+      "field": "sentence",
+      "full": "[目印](めじるし)"
+    },
+    {
+      "id": "1001: 悪",
+      "field": "sentence",
+      "full": "[気分](きぶん)"
+    },
+    {
+      "id": "1002: 委",
+      "field": "sentence",
+      "full": "[運命](うんめい)"
+    },
+    {
+      "id": "1003: 院",
+      "field": "sentence",
+      "full": "[診察](しんさつ)"
+    },
+    {
+      "id": "1005: 温",
+      "field": "sentence",
+      "full": "[暖房](だんぼう)"
+    },
+    {
+      "id": "1006: 化",
+      "field": "sentence",
+      "full": "[気温](きおん)"
+    },
+    {
+      "id": "1007: 荷",
+      "field": "sentence",
+      "full": "[新商品](しんしょうひん)"
+    },
+    {
+      "id": "1008: 寒",
+      "field": "sentence",
+      "full": "[気候](きこう)"
+    },
+    {
+      "id": "1009: 感",
+      "field": "sentence",
+      "full": "[映画](えいが)"
+    },
+    {
+      "id": "1010: 岸",
+      "field": "sentence",
+      "full": "[散歩](さんぽ)"
+    },
+    {
+      "id": "1011: 期",
+      "field": "sentence",
+      "full": "[将来](しょうらい)"
+    },
+    {
+      "id": "1013: 暮",
+      "field": "sentence",
+      "full": "[季節](きせつ)"
+    },
+    {
+      "id": "1015: 祈",
+      "field": "sentence",
+      "full": "[合格](ごうかく)"
+    },
+    {
+      "id": "1016: 叫",
+      "field": "sentence",
+      "full": "[大声](おおごえ)"
+    },
+    {
+      "id": "1017: 互",
+      "field": "sentence",
+      "full": "[理解](りかい)"
+    },
+    {
+      "id": "1020: 恐",
+      "field": "sentence",
+      "full": "[化石](かせき)"
+    },
+    {
+      "id": "1020: 恐",
+      "field": "sentence",
+      "full": "[失敗](しっぱい)"
+    },
+    {
+      "id": "1022: 頼",
+      "field": "sentence",
+      "full": "[弁護士](べんごし)"
+    },
+    {
+      "id": "1023: 悩",
+      "field": "sentence",
+      "full": "[決断](けつだん)"
+    },
+    {
+      "id": "1023: 悩",
+      "field": "sentence",
+      "full": "[進路](しんろ)"
+    },
+    {
+      "id": "1025: 戻",
+      "field": "sentence",
+      "full": "[場所](ばしょ)"
+    },
+    {
+      "id": "1026: 眠",
+      "field": "sentence",
+      "full": "[睡眠不足](すいみんぶそく)"
+    },
+    {
+      "id": "1026: 眠",
+      "field": "sentence",
+      "full": "[昨日遅](きのうおそ)"
+    },
+    {
+      "id": "1027: 捕",
+      "field": "sentence",
+      "full": "[泥棒](どろぼう)"
+    },
+    {
+      "id": "1027: 捕",
+      "field": "sentence",
+      "full": "[警察](けいさつ)"
+    },
+    {
+      "id": "1027: 捕",
+      "field": "sentence",
+      "full": "[犯人](はんにん)"
+    },
+    {
+      "id": "1028: 逃",
+      "field": "sentence",
+      "full": "[犯人](はんにん)"
+    },
+    {
+      "id": "1028: 逃",
+      "field": "sentence",
+      "full": "[国外](こくがい)"
+    },
+    {
+      "id": "1029: 渡",
+      "field": "sentence",
+      "full": "[来月](らいげつ)"
+    },
+    {
+      "id": "1029: 渡",
+      "field": "sentence",
+      "full": "[横断歩道](おうだんほどう)"
+    },
+    {
+      "id": "1030: 喜",
+      "field": "sentence",
+      "full": "[有名](ゆうめい)"
+    },
+    {
+      "id": "1030: 喜",
+      "field": "sentence",
+      "full": "[俳優](はいゆう)"
+    },
+    {
+      "id": "1031: 破",
+      "field": "sentence",
+      "full": "[自然破壊](しぜんはかい)"
+    },
+    {
+      "id": "1033: 飾",
+      "field": "sentence",
+      "full": "[変更](へんこう)"
+    },
+    {
+      "id": "1034: 甘",
+      "field": "sentence",
+      "full": "[人生](じんせい)"
+    },
+    {
+      "id": "1035: 薄",
+      "field": "sentence",
+      "full": "[存在感](そんざいかん)"
+    },
+    {
+      "id": "1036: 浅",
+      "field": "sentence",
+      "full": "[雷門](かみなりもん)"
+    },
+    {
+      "id": "1036: 浅",
+      "field": "sentence",
+      "full": "[有名](ゆうめい)"
+    },
+    {
+      "id": "1037: 偉",
+      "field": "sentence",
+      "full": "[人物](じんぶつ)"
+    },
+    {
+      "id": "1037: 偉",
+      "field": "sentence",
+      "full": "[歴史](れきし)"
+    },
+    {
+      "id": "1038: 珍",
+      "field": "sentence",
+      "full": "[料理](りょうり)"
+    },
+    {
+      "id": "1039: 絡",
+      "field": "sentence",
+      "full": "[緊急](きんきゅう)"
+    },
+    {
+      "id": "1039: 絡",
+      "field": "sentence",
+      "full": "[複雑](ふくざつ)"
+    },
+    {
+      "id": "1041: 綿",
+      "field": "sentence",
+      "full": "[布団](ふとん)"
+    },
+    {
+      "id": "1042: 編",
+      "field": "sentence",
+      "full": "[動画](どうが)"
+    },
+    {
+      "id": "1042: 編",
+      "field": "sentence",
+      "full": "[毛糸](けいと)"
+    },
+    {
+      "id": "1044: 締",
+      "field": "sentence",
+      "full": "[国際条約](こくさいじょうやく)"
+    },
+    {
+      "id": "1045: 縁",
+      "field": "sentence",
+      "full": "[大切](たいせつ)"
+    },
+    {
+      "id": "1046: 緑",
+      "field": "sentence",
+      "full": "[公園](こうえん)"
+    },
+    {
+      "id": "1047: 輝",
+      "field": "sentence",
+      "full": "[夜空](よぞら)"
+    },
+    {
+      "id": "1047: 輝",
+      "field": "sentence",
+      "full": "[彼女](かのじょ)"
+    },
+    {
+      "id": "1047: 輝",
+      "field": "sentence",
+      "full": "[笑顔](えがお)"
+    },
+    {
+      "id": "1048: 狂",
+      "field": "sentence",
+      "full": "[熱狂的](ねっきょうてき)"
+    },
+    {
+      "id": "1048: 狂",
+      "field": "sentence",
+      "full": "[予定](よてい)"
+    },
+    {
+      "id": "1049: 貢",
+      "field": "sentence",
+      "full": "[社会](しゃかい)"
+    },
+    {
+      "id": "1049: 貢",
+      "field": "sentence",
+      "full": "[発展](はってん)"
+    },
+    {
+      "id": "1049: 貢",
+      "field": "sentence",
+      "full": "[大金](たいきん)"
+    },
+    {
+      "id": "1050: 奪",
+      "field": "sentence",
+      "full": "[他人](たにん)"
+    },
+    {
+      "id": "1050: 奪",
+      "field": "sentence",
+      "full": "[権利](けんり)"
+    },
+    {
+      "id": "1051: 奮",
+      "field": "sentence",
+      "full": "[試合](しあい)"
+    },
+    {
+      "id": "1051: 奮",
+      "field": "sentence",
+      "full": "[結果](けっか)"
+    },
+    {
+      "id": "1051: 奮",
+      "field": "sentence",
+      "full": "[勇気](ゆうき)"
+    },
+    {
+      "id": "1051: 奮",
+      "field": "sentence",
+      "full": "[挑戦](ちょうせん)"
+    },
+    {
+      "id": "1052: 劣",
+      "field": "sentence",
+      "full": "[技術](ぎじゅつ)"
+    },
+    {
+      "id": "1052: 劣",
+      "field": "sentence",
+      "full": "[他社](たしゃ)"
+    },
+    {
+      "id": "1053: 奨",
+      "field": "sentence",
+      "full": "[大学](だいがく)"
+    },
+    {
+      "id": "1053: 奨",
+      "field": "sentence",
+      "full": "[奨学金](しょうがくきん)"
+    },
+    {
+      "id": "1053: 奨",
+      "field": "sentence",
+      "full": "[読書](どくしょ)"
+    },
+    {
+      "id": "1054: 棄",
+      "field": "sentence",
+      "full": "[契約](けいやく)"
+    },
+    {
+      "id": "1054: 棄",
+      "field": "sentence",
+      "full": "[権利](けんり)"
+    },
+    {
+      "id": "1055: 葬",
+      "field": "sentence",
+      "full": "[参列](さんれつ)"
+    },
+    {
+      "id": "1055: 葬",
+      "field": "sentence",
+      "full": "[死者](ししゃ)"
+    },
+    {
+      "id": "1056: 糾",
+      "field": "sentence",
+      "full": "[会議](かいぎ)"
+    },
+    {
+      "id": "1056: 糾",
+      "field": "sentence",
+      "full": "[長引](ながび)"
+    },
+    {
+      "id": "1056: 糾",
+      "field": "sentence",
+      "full": "[不正](ふせい)"
+    },
+    {
+      "id": "1058: 縛",
+      "field": "sentence",
+      "full": "[規則](きそく)"
+    },
+    {
+      "id": "1059: 縫",
+      "field": "sentence",
+      "full": "[趣味](しゅみ)"
+    },
+    {
+      "id": "1060: 縮",
+      "field": "sentence",
+      "full": "[核兵器](かくへいき)"
+    },
+    {
+      "id": "1060: 縮",
+      "field": "sentence",
+      "full": "[洗濯](せんたく)"
+    },
+    {
+      "id": "1062: 翼",
+      "field": "sentence",
+      "full": "[飛行機](ひこうき)"
+    },
+    {
+      "id": "1063: 翻",
+      "field": "sentence",
+      "full": "[英語](えいご)"
+    },
+    {
+      "id": "1063: 翻",
+      "field": "sentence",
+      "full": "[強風](きょうふう)"
+    },
+    {
+      "id": "1064: 聴",
+      "field": "sentence",
+      "full": "[試験](しけん)"
+    },
+    {
+      "id": "1064: 聴",
+      "field": "sentence",
+      "full": "[問題](もんだい)"
+    },
+    {
+      "id": "1066: 犠",
+      "field": "sentence",
+      "full": "[平和](へいわ)"
+    },
+    {
+      "id": "1067: 懸",
+      "field": "sentence",
+      "full": "[一生懸命](いっしょうけんめい)"
+    },
+    {
+      "id": "1067: 懸",
+      "field": "sentence",
+      "full": "[努力](どりょく)"
+    },
+    {
+      "id": "1068: 慰",
+      "field": "sentence",
+      "full": "[被災](ひさい)"
+    },
+    {
+      "id": "1070: 慌",
+      "field": "sentence",
+      "full": "[世界](せかい)"
+    },
+    {
+      "id": "1071: 悔",
+      "field": "sentence",
+      "full": "[自分](じぶん)"
+    },
+    {
+      "id": "1071: 悔",
+      "field": "sentence",
+      "full": "[試合](しあい)"
+    },
+    {
+      "id": "1072: 懐",
+      "field": "sentence",
+      "full": "[懐中時計](かいちゅうどけい)"
+    },
+    {
+      "id": "1073: 悟",
+      "field": "sentence",
+      "full": "[失敗](しっぱい)"
+    },
+    {
+      "id": "1073: 悟",
+      "field": "sentence",
+      "full": "[運命](うんめい)"
+    }
+  ]
+}

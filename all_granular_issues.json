@@ -1,0 +1,2384 @@
+[
+  {
+    "kanji": "本",
+    "category": "N5",
+    "type": "on",
+    "part": "[日本語](にほんご)"
+  },
+  {
+    "kanji": "休",
+    "category": "N5",
+    "type": "on",
+    "part": "[休憩](きゅうけい)"
+  },
+  {
+    "kanji": "語",
+    "category": "N5",
+    "type": "on",
+    "part": "[英語](えいご)"
+  },
+  {
+    "kanji": "語",
+    "category": "N5",
+    "type": "kun",
+    "part": "[物語](ものがたり)"
+  },
+  {
+    "kanji": "書",
+    "category": "N5",
+    "type": "on",
+    "part": "[図書館](としょかん)"
+  },
+  {
+    "kanji": "見",
+    "category": "N5",
+    "type": "on",
+    "part": "[意見](いけん)"
+  },
+  {
+    "kanji": "言",
+    "category": "N5",
+    "type": "on",
+    "part": "[言語](げんご)"
+  },
+  {
+    "kanji": "話",
+    "category": "N5",
+    "type": "on",
+    "part": "[電話](でんわ)"
+  },
+  {
+    "kanji": "駅",
+    "category": "N5",
+    "type": "on",
+    "part": "[終着駅](しゅうちゃくえき)"
+  },
+  {
+    "kanji": "花",
+    "category": "N5",
+    "type": "on",
+    "part": "[生け花](いけばな)"
+  },
+  {
+    "kanji": "家",
+    "category": "N5",
+    "type": "on",
+    "part": "[国家](こっか)"
+  },
+  {
+    "kanji": "電",
+    "category": "N5",
+    "type": "on",
+    "part": "[電力](でんりょく)"
+  },
+  {
+    "kanji": "名",
+    "category": "N5",
+    "type": "on",
+    "part": "[大名](だいみょう)"
+  },
+  {
+    "kanji": "力",
+    "category": "N5",
+    "type": "on",
+    "part": "[馬力](ばりき)"
+  },
+  {
+    "kanji": "不",
+    "category": "N4",
+    "type": "on",
+    "part": "[不安](ふあん)"
+  },
+  {
+    "kanji": "世",
+    "category": "N4",
+    "type": "on",
+    "part": "[世紀](せいき)"
+  },
+  {
+    "kanji": "事",
+    "category": "N4",
+    "type": "on",
+    "part": "[大事](だいじ)"
+  },
+  {
+    "kanji": "京",
+    "category": "N4",
+    "type": "on",
+    "part": "[東京](とうきょう)"
+  },
+  {
+    "kanji": "低",
+    "category": "N4",
+    "type": "on",
+    "part": "[低下](ていか)"
+  },
+  {
+    "kanji": "使",
+    "category": "N4",
+    "type": "on",
+    "part": "[大使館](たいしかん)"
+  },
+  {
+    "kanji": "便",
+    "category": "N4",
+    "type": "on",
+    "part": "[便利](べんり)"
+  },
+  {
+    "kanji": "借",
+    "category": "N4",
+    "type": "on",
+    "part": "[借金](しゃっきん)"
+  },
+  {
+    "kanji": "医",
+    "category": "N4",
+    "type": "on",
+    "part": "[医者](いしゃ)"
+  },
+  {
+    "kanji": "冷",
+    "category": "N4",
+    "type": "on",
+    "part": "[冷蔵庫](れいぞうこ)"
+  },
+  {
+    "kanji": "映",
+    "category": "N4",
+    "type": "on",
+    "part": "[映画](えいが)"
+  },
+  {
+    "kanji": "研",
+    "category": "N4",
+    "type": "on",
+    "part": "[研究](けんきゅう)"
+  },
+  {
+    "kanji": "究",
+    "category": "N4",
+    "type": "on",
+    "part": "[探究](たんきゅう)"
+  },
+  {
+    "kanji": "教",
+    "category": "N4",
+    "type": "on",
+    "part": "[教会](きょうかい)"
+  },
+  {
+    "kanji": "室",
+    "category": "N4",
+    "type": "on",
+    "part": "[教室](きょうしつ)"
+  },
+  {
+    "kanji": "春",
+    "category": "N4",
+    "type": "on",
+    "part": "[青春](せいしゅん)"
+  },
+  {
+    "kanji": "夏",
+    "category": "N4",
+    "type": "on",
+    "part": "[真夏](まなつ)"
+  },
+  {
+    "kanji": "秋",
+    "category": "N4",
+    "type": "on",
+    "part": "[秋分](しゅうぶん)"
+  },
+  {
+    "kanji": "急",
+    "category": "N4",
+    "type": "on",
+    "part": "[急行](きゅうこう)"
+  },
+  {
+    "kanji": "止",
+    "category": "N4",
+    "type": "on",
+    "part": "[禁止](きんし)"
+  },
+  {
+    "kanji": "走",
+    "category": "N4",
+    "type": "on",
+    "part": "[全力疾走](ぜんりょくしっそう)"
+  },
+  {
+    "kanji": "降",
+    "category": "N4",
+    "type": "on",
+    "part": "[降水確率](こうすいかくりつ)"
+  },
+  {
+    "kanji": "始",
+    "category": "N4",
+    "type": "on",
+    "part": "[開始](かいし)"
+  },
+  {
+    "kanji": "終",
+    "category": "N4",
+    "type": "on",
+    "part": "[最終](さいしゅう)"
+  },
+  {
+    "kanji": "動",
+    "category": "N4",
+    "type": "on",
+    "part": "[動物園](どうぶつえん)"
+  },
+  {
+    "kanji": "転",
+    "category": "N4",
+    "type": "on",
+    "part": "[自転車](じてんしゃ)"
+  },
+  {
+    "kanji": "園",
+    "category": "N4",
+    "type": "on",
+    "part": "[動物園](どうぶつえん)"
+  },
+  {
+    "kanji": "屋",
+    "category": "N4",
+    "type": "on",
+    "part": "[屋上](おくじょう)"
+  },
+  {
+    "kanji": "屋",
+    "category": "N4",
+    "type": "kun",
+    "part": "[本屋](ほんや)"
+  },
+  {
+    "kanji": "歌",
+    "category": "N4",
+    "type": "on",
+    "part": "[歌手](かしゅ)"
+  },
+  {
+    "kanji": "度",
+    "category": "N4",
+    "type": "on",
+    "part": "[温度](おんど)"
+  },
+  {
+    "kanji": "待",
+    "category": "N4",
+    "type": "on",
+    "part": "[招待状](しょうたいじょう)"
+  },
+  {
+    "kanji": "案",
+    "category": "N4",
+    "type": "on",
+    "part": "[案内所](あんないしょ)"
+  },
+  {
+    "kanji": "品",
+    "category": "N4",
+    "type": "on",
+    "part": "[商品](しょうひん)"
+  },
+  {
+    "kanji": "員",
+    "category": "N4",
+    "type": "on",
+    "part": "[会社員](かいしゃいん)"
+  },
+  {
+    "kanji": "題",
+    "category": "N4",
+    "type": "on",
+    "part": "[宿題](しゅくだい)"
+  },
+  {
+    "kanji": "館",
+    "category": "N4",
+    "type": "on",
+    "part": "[図書館](としょかん)"
+  },
+  {
+    "kanji": "地",
+    "category": "N4",
+    "type": "on",
+    "part": "[地下鉄](ちかてつ)"
+  },
+  {
+    "kanji": "場",
+    "category": "N4",
+    "type": "on",
+    "part": "[場所](ばしょ)"
+  },
+  {
+    "kanji": "場",
+    "category": "N4",
+    "type": "kun",
+    "part": "[会場](かいじょう)"
+  },
+  {
+    "kanji": "場",
+    "category": "N4",
+    "type": "kun",
+    "part": "[広場](ひろば)"
+  },
+  {
+    "kanji": "用",
+    "category": "N4",
+    "type": "on",
+    "part": "[用事](ようじ)"
+  },
+  {
+    "kanji": "界",
+    "category": "N4",
+    "type": "on",
+    "part": "[世界中](せかいじゅう)"
+  },
+  {
+    "kanji": "開",
+    "category": "N4",
+    "type": "on",
+    "part": "[開始](かいし)"
+  },
+  {
+    "kanji": "集",
+    "category": "N4",
+    "type": "on",
+    "part": "[集合](しゅうごう)"
+  },
+  {
+    "kanji": "習",
+    "category": "N4",
+    "type": "on",
+    "part": "[学習](がくしゅう)"
+  },
+  {
+    "kanji": "試",
+    "category": "N4",
+    "type": "on",
+    "part": "[試験](しけん)"
+  },
+  {
+    "kanji": "野",
+    "category": "N4",
+    "type": "kun",
+    "part": "[野原](のはら)"
+  },
+  {
+    "kanji": "宿",
+    "category": "N4",
+    "type": "on",
+    "part": "[宿題](しゅくだい)"
+  },
+  {
+    "kanji": "理",
+    "category": "N4",
+    "type": "on",
+    "part": "[理由](りゆう)"
+  },
+  {
+    "kanji": "産",
+    "category": "N4",
+    "type": "on",
+    "part": "[産業](さんぎょう)"
+  },
+  {
+    "kanji": "業",
+    "category": "N4",
+    "type": "on",
+    "part": "[授業](じゅぎょう)"
+  },
+  {
+    "kanji": "留",
+    "category": "N4",
+    "type": "on",
+    "part": "[留学生](りゅうがくせい)"
+  },
+  {
+    "kanji": "政",
+    "category": "N4",
+    "type": "on",
+    "part": "[政治家](せいじか)"
+  },
+  {
+    "kanji": "治",
+    "category": "N4",
+    "type": "on",
+    "part": "[政治](せいじ)"
+  },
+  {
+    "kanji": "歴",
+    "category": "N4",
+    "type": "on",
+    "part": "[歴史](れきし)"
+  },
+  {
+    "kanji": "史",
+    "category": "N4",
+    "type": "on",
+    "part": "[歴史](れきし)"
+  },
+  {
+    "kanji": "育",
+    "category": "N4",
+    "type": "on",
+    "part": "[教育](きょういく)"
+  },
+  {
+    "kanji": "議",
+    "category": "N4",
+    "type": "on",
+    "part": "[会議](かいぎ)"
+  },
+  {
+    "kanji": "合",
+    "category": "N4",
+    "type": "on",
+    "part": "[試合](しあい)"
+  },
+  {
+    "kanji": "市",
+    "category": "N4",
+    "type": "on",
+    "part": "[市民](しみん)"
+  },
+  {
+    "kanji": "市",
+    "category": "N4",
+    "type": "kun",
+    "part": "[市場](いちば)"
+  },
+  {
+    "kanji": "役",
+    "category": "N4",
+    "type": "on",
+    "part": "[市役所](しやくしょ)"
+  },
+  {
+    "kanji": "苦",
+    "category": "N4",
+    "type": "on",
+    "part": "[苦労](くろう)"
+  },
+  {
+    "kanji": "航",
+    "category": "N4",
+    "type": "on",
+    "part": "[航空便](こうくうびん)"
+  },
+  {
+    "kanji": "鉄",
+    "category": "N4",
+    "type": "on",
+    "part": "[地下鉄](ちかてつ)"
+  },
+  {
+    "kanji": "祭",
+    "category": "N4",
+    "type": "on",
+    "part": "[文化祭](ぶんかさい)"
+  },
+  {
+    "kanji": "段",
+    "category": "N4",
+    "type": "on",
+    "part": "[値段](ねだん)"
+  },
+  {
+    "kanji": "拾",
+    "category": "N4",
+    "type": "on",
+    "part": "[拾万円](じゅうまんえん)"
+  },
+  {
+    "kanji": "打",
+    "category": "N4",
+    "type": "on",
+    "part": "[打席](だせき)"
+  },
+  {
+    "kanji": "抱",
+    "category": "N4",
+    "type": "on",
+    "part": "[抱負](ほうふ)"
+  },
+  {
+    "kanji": "招",
+    "category": "N4",
+    "type": "on",
+    "part": "[招待](しょうたい)"
+  },
+  {
+    "kanji": "支",
+    "category": "N4",
+    "type": "on",
+    "part": "[支払](しはら)"
+  },
+  {
+    "kanji": "改",
+    "category": "N4",
+    "type": "on",
+    "part": "[改札口](かいさつぐち)"
+  },
+  {
+    "kanji": "散",
+    "category": "N4",
+    "type": "on",
+    "part": "[散歩](さんぽ)"
+  },
+  {
+    "kanji": "断",
+    "category": "N4",
+    "type": "on",
+    "part": "[横断歩道](おうだんほどう)"
+  },
+  {
+    "kanji": "昔",
+    "category": "N4",
+    "type": "on",
+    "part": "[今昔](こんじゃく)"
+  },
+  {
+    "kanji": "暗",
+    "category": "N4",
+    "type": "on",
+    "part": "[暗証](あんしょう)"
+  },
+  {
+    "kanji": "普",
+    "category": "N4",
+    "type": "on",
+    "part": "[普段](ふだん)"
+  },
+  {
+    "kanji": "景",
+    "category": "N4",
+    "type": "on",
+    "part": "[景色](けしき)"
+  },
+  {
+    "kanji": "望",
+    "category": "N4",
+    "type": "on",
+    "part": "[希望](きぼう)"
+  },
+  {
+    "kanji": "未",
+    "category": "N4",
+    "type": "on",
+    "part": "[未来](みらい)"
+  },
+  {
+    "kanji": "末",
+    "category": "N4",
+    "type": "on",
+    "part": "[週末](しゅうまつ)"
+  },
+  {
+    "kanji": "材",
+    "category": "N4",
+    "type": "on",
+    "part": "[材料](ざいりょう)"
+  },
+  {
+    "kanji": "条",
+    "category": "N4",
+    "type": "on",
+    "part": "[条件](じょうけん)"
+  },
+  {
+    "kanji": "様",
+    "category": "N4",
+    "type": "on",
+    "part": "[多様化](たようか)"
+  },
+  {
+    "kanji": "権",
+    "category": "N4",
+    "type": "on",
+    "part": "[権利](けんり)"
+  },
+  {
+    "kanji": "横",
+    "category": "N4",
+    "type": "on",
+    "part": "[横断歩道](おうだんほどう)"
+  },
+  {
+    "kanji": "次",
+    "category": "N4",
+    "type": "on",
+    "part": "[目次](もくじ)"
+  },
+  {
+    "kanji": "欲",
+    "category": "N4",
+    "type": "on",
+    "part": "[食欲](しょくよく)"
+  },
+  {
+    "kanji": "残",
+    "category": "N4",
+    "type": "on",
+    "part": "[残業](ざんぎょう)"
+  },
+  {
+    "kanji": "殺",
+    "category": "N4",
+    "type": "on",
+    "part": "[殺虫剤](さっちゅうざい)"
+  },
+  {
+    "kanji": "比",
+    "category": "N4",
+    "type": "on",
+    "part": "[対比](たいひ)"
+  },
+  {
+    "kanji": "毛",
+    "category": "N4",
+    "type": "on",
+    "part": "[毛布](もうふ)"
+  },
+  {
+    "kanji": "氷",
+    "category": "N4",
+    "type": "on",
+    "part": "[氷山](ひょうざん)"
+  },
+  {
+    "kanji": "指",
+    "category": "N3",
+    "type": "on",
+    "part": "[指導](しどう)"
+  },
+  {
+    "kanji": "捨",
+    "category": "N3",
+    "type": "on",
+    "part": "[四捨五入](ししゃごにゅう)"
+  },
+  {
+    "kanji": "掃",
+    "category": "N3",
+    "type": "on",
+    "part": "[掃除](そうじ)"
+  },
+  {
+    "kanji": "描",
+    "category": "N3",
+    "type": "on",
+    "part": "[描写](びょうしゃ)"
+  },
+  {
+    "kanji": "捜",
+    "category": "N3",
+    "type": "on",
+    "part": "[捜査](そうさ)"
+  },
+  {
+    "kanji": "摘",
+    "category": "N3",
+    "type": "on",
+    "part": "[指摘](してき)"
+  },
+  {
+    "kanji": "操",
+    "category": "N3",
+    "type": "on",
+    "part": "[操作](そうさ)"
+  },
+  {
+    "kanji": "救",
+    "category": "N3",
+    "type": "on",
+    "part": "[救助](きゅうじょ)"
+  },
+  {
+    "kanji": "敵",
+    "category": "N3",
+    "type": "on",
+    "part": "[素敵](すてき)"
+  },
+  {
+    "kanji": "敷",
+    "category": "N3",
+    "type": "on",
+    "part": "[敷地](しきち)"
+  },
+  {
+    "kanji": "承",
+    "category": "N3",
+    "type": "on",
+    "part": "[承諾](しょうだく)"
+  },
+  {
+    "kanji": "挟",
+    "category": "N3",
+    "type": "on",
+    "part": "[挟撃](きょうげき)"
+  },
+  {
+    "kanji": "拭",
+    "category": "N3",
+    "type": "on",
+    "part": "[払拭](ふっしょく)"
+  },
+  {
+    "kanji": "挫",
+    "category": "N3",
+    "type": "on",
+    "part": "[挫折](ざせつ)"
+  },
+  {
+    "kanji": "授",
+    "category": "N3",
+    "type": "on",
+    "part": "[授業](じゅぎょう)"
+  },
+  {
+    "kanji": "掌",
+    "category": "N3",
+    "type": "on",
+    "part": "[車掌](しゃしょう)"
+  },
+  {
+    "kanji": "掲",
+    "category": "N3",
+    "type": "on",
+    "part": "[掲示板](けいじばん)"
+  },
+  {
+    "kanji": "擦",
+    "category": "N3",
+    "type": "on",
+    "part": "[摩擦](まさつ)"
+  },
+  {
+    "kanji": "牧",
+    "category": "N3",
+    "type": "kun",
+    "part": "[牧場](まきば)"
+  },
+  {
+    "kanji": "整",
+    "category": "N3",
+    "type": "on",
+    "part": "[整理](せいり)"
+  },
+  {
+    "kanji": "額",
+    "category": "N3",
+    "type": "on",
+    "part": "[被害額](ひがいがく)"
+  },
+  {
+    "kanji": "飼",
+    "category": "N3",
+    "type": "on",
+    "part": "[飼育係](しいくがかり)"
+  },
+  {
+    "kanji": "驚",
+    "category": "N3",
+    "type": "on",
+    "part": "[驚異的](きょういてき)"
+  },
+  {
+    "kanji": "鳴",
+    "category": "N3",
+    "type": "on",
+    "part": "[悲鳴](ひめい)"
+  },
+  {
+    "kanji": "詞",
+    "category": "N3",
+    "type": "on",
+    "part": "[動詞](どうし)"
+  },
+  {
+    "kanji": "識",
+    "category": "N3",
+    "type": "on",
+    "part": "[知識](ちしき)"
+  },
+  {
+    "kanji": "証",
+    "category": "N3",
+    "type": "on",
+    "part": "[証明書](しょうめいしょ)"
+  },
+  {
+    "kanji": "課",
+    "category": "N3",
+    "type": "on",
+    "part": "[課題](かだい)"
+  },
+  {
+    "kanji": "誤",
+    "category": "N3",
+    "type": "on",
+    "part": "[誤解](ごかい)"
+  },
+  {
+    "kanji": "詳",
+    "category": "N3",
+    "type": "on",
+    "part": "[詳細](しょうさい)"
+  },
+  {
+    "kanji": "誌",
+    "category": "N3",
+    "type": "on",
+    "part": "[雑誌](ざっし)"
+  },
+  {
+    "kanji": "誕",
+    "category": "N3",
+    "type": "on",
+    "part": "[誕生日](たんじょうび)"
+  },
+  {
+    "kanji": "誉",
+    "category": "N3",
+    "type": "on",
+    "part": "[名誉](めいよ)"
+  },
+  {
+    "kanji": "請",
+    "category": "N3",
+    "type": "on",
+    "part": "[請求](せいきゅう)"
+  },
+  {
+    "kanji": "謹",
+    "category": "N3",
+    "type": "on",
+    "part": "[謹賀](きんが)"
+  },
+  {
+    "kanji": "講",
+    "category": "N3",
+    "type": "on",
+    "part": "[講義](こうぎ)"
+  },
+  {
+    "kanji": "謄",
+    "category": "N3",
+    "type": "on",
+    "part": "[戸籍謄本](こせきとうほん)"
+  },
+  {
+    "kanji": "辞",
+    "category": "N3",
+    "type": "on",
+    "part": "[辞書](じしょ)"
+  },
+  {
+    "kanji": "託",
+    "category": "N3",
+    "type": "on",
+    "part": "[委託](いたく)"
+  },
+  {
+    "kanji": "論",
+    "category": "N3",
+    "type": "on",
+    "part": "[議論](ぎろん)"
+  },
+  {
+    "kanji": "諾",
+    "category": "N3",
+    "type": "on",
+    "part": "[承諾](しょうだく)"
+  },
+  {
+    "kanji": "託",
+    "category": "N3",
+    "type": "on",
+    "part": "[委託](いたく)"
+  },
+  {
+    "kanji": "負",
+    "category": "N3",
+    "type": "on",
+    "part": "[負担](ふたん)"
+  },
+  {
+    "kanji": "貨",
+    "category": "N3",
+    "type": "on",
+    "part": "[硬貨](こうか)"
+  },
+  {
+    "kanji": "費",
+    "category": "N3",
+    "type": "on",
+    "part": "[生活費](せいかつひ)"
+  },
+  {
+    "kanji": "賀",
+    "category": "N3",
+    "type": "on",
+    "part": "[年賀状](ねんがじょう)"
+  },
+  {
+    "kanji": "賃",
+    "category": "N3",
+    "type": "on",
+    "part": "[家賃](やちん)"
+  },
+  {
+    "kanji": "資",
+    "category": "N3",
+    "type": "on",
+    "part": "[資金](しきん)"
+  },
+  {
+    "kanji": "賜",
+    "category": "N3",
+    "type": "on",
+    "part": "[恩賜](おんし)"
+  },
+  {
+    "kanji": "賠",
+    "category": "N3",
+    "type": "on",
+    "part": "[賠償](ばいしょう)"
+  },
+  {
+    "kanji": "購",
+    "category": "N3",
+    "type": "on",
+    "part": "[購入](こうにゅう)"
+  },
+  {
+    "kanji": "贈",
+    "category": "N3",
+    "type": "on",
+    "part": "[贈物](おくりもの)"
+  },
+  {
+    "kanji": "赴",
+    "category": "N3",
+    "type": "on",
+    "part": "[赴任](ふにん)"
+  },
+  {
+    "kanji": "超",
+    "category": "N3",
+    "type": "on",
+    "part": "[超満員](ちょうまんいん)"
+  },
+  {
+    "kanji": "趣",
+    "category": "N3",
+    "type": "on",
+    "part": "[趣味](しゅみ)"
+  },
+  {
+    "kanji": "徒",
+    "category": "N3",
+    "type": "on",
+    "part": "[生徒](せいと)"
+  },
+  {
+    "kanji": "得",
+    "category": "N3",
+    "type": "on",
+    "part": "[得意](とくい)"
+  },
+  {
+    "kanji": "徴",
+    "category": "N3",
+    "type": "on",
+    "part": "[特徴](とくちょう)"
+  },
+  {
+    "kanji": "循",
+    "category": "N3",
+    "type": "on",
+    "part": "[循環](じゅんかん)"
+  },
+  {
+    "kanji": "従",
+    "category": "N3",
+    "type": "on",
+    "part": "[服従](ふくじゅう)"
+  },
+  {
+    "kanji": "径",
+    "category": "N3",
+    "type": "on",
+    "part": "[直径](ちょっけい)"
+  },
+  {
+    "kanji": "補",
+    "category": "N3",
+    "type": "on",
+    "part": "[補填](ほてん)"
+  },
+  {
+    "kanji": "襲",
+    "category": "N3",
+    "type": "on",
+    "part": "[襲撃](しゅうげき)"
+  },
+  {
+    "kanji": "褐",
+    "category": "N3",
+    "type": "on",
+    "part": "[褐色](かっしょく)"
+  },
+  {
+    "kanji": "褒",
+    "category": "N3",
+    "type": "on",
+    "part": "[褒賞](ほうしょう)"
+  },
+  {
+    "kanji": "裕",
+    "category": "N3",
+    "type": "on",
+    "part": "[余裕](よゆう)"
+  },
+  {
+    "kanji": "衷",
+    "category": "N3",
+    "type": "on",
+    "part": "[折衷](せっちゅう)"
+  },
+  {
+    "kanji": "庁",
+    "category": "N3",
+    "type": "on",
+    "part": "[警察庁](けいさつちょう)"
+  },
+  {
+    "kanji": "府",
+    "category": "N3",
+    "type": "on",
+    "part": "[政府](せいふ)"
+  },
+  {
+    "kanji": "庫",
+    "category": "N3",
+    "type": "on",
+    "part": "[冷蔵庫](れいぞうこ)"
+  },
+  {
+    "kanji": "庫",
+    "category": "N3",
+    "type": "kun",
+    "part": "[車庫](しゃこ)"
+  },
+  {
+    "kanji": "廊",
+    "category": "N3",
+    "type": "on",
+    "part": "[廊下](ろうか)"
+  },
+  {
+    "kanji": "廃",
+    "category": "N3",
+    "type": "on",
+    "part": "[廃止](はいし)"
+  },
+  {
+    "kanji": "殿",
+    "category": "N3",
+    "type": "on",
+    "part": "[宮殿](きゅうでん)"
+  },
+  {
+    "kanji": "廟",
+    "category": "N3",
+    "type": "on",
+    "part": "[霊廟](れいびょう)"
+  },
+  {
+    "kanji": "廠",
+    "category": "N3",
+    "type": "on",
+    "part": "[兵器廠](へいきしょう)"
+  },
+  {
+    "kanji": "座",
+    "category": "N3",
+    "type": "on",
+    "part": "[口座](こうざ)"
+  },
+  {
+    "kanji": "麗",
+    "category": "N3",
+    "type": "on",
+    "part": "[綺麗](きれい)"
+  },
+  {
+    "kanji": "塵",
+    "category": "N3",
+    "type": "on",
+    "part": "[砂塵](さじん)"
+  },
+  {
+    "kanji": "麟",
+    "category": "N3",
+    "type": "on",
+    "part": "[麒麟](きりん)"
+  },
+  {
+    "kanji": "麻",
+    "category": "N3",
+    "type": "on",
+    "part": "[麻酔](ますい)"
+  },
+  {
+    "kanji": "魔",
+    "category": "N3",
+    "type": "on",
+    "part": "[悪魔](あくま)"
+  },
+  {
+    "kanji": "磨",
+    "category": "N3",
+    "type": "on",
+    "part": "[研磨](けんま)"
+  },
+  {
+    "kanji": "摩",
+    "category": "N3",
+    "type": "on",
+    "part": "[摩擦](まさつ)"
+  },
+  {
+    "kanji": "胴",
+    "category": "N3",
+    "type": "on",
+    "part": "[胴領](どうりょう)"
+  },
+  {
+    "kanji": "腕",
+    "category": "N3",
+    "type": "on",
+    "part": "[腕章](わんしょう)"
+  },
+  {
+    "kanji": "脚",
+    "category": "N3",
+    "type": "on",
+    "part": "[脚本](きゃくほん)"
+  },
+  {
+    "kanji": "腺",
+    "category": "N3",
+    "type": "on",
+    "part": "[甲状腺](こうじょうせん)"
+  },
+  {
+    "kanji": "抱",
+    "category": "N3",
+    "type": "on",
+    "part": "[抱負](ほうふ)"
+  },
+  {
+    "kanji": "承",
+    "category": "N3",
+    "type": "on",
+    "part": "[承諾](しょうだく)"
+  },
+  {
+    "kanji": "招",
+    "category": "N3",
+    "type": "on",
+    "part": "[招待](しょうたい)"
+  },
+  {
+    "kanji": "拾",
+    "category": "N3",
+    "type": "on",
+    "part": "[拾万円](じゅうまんえん)"
+  },
+  {
+    "kanji": "描",
+    "category": "N3",
+    "type": "on",
+    "part": "[描写](びょうしゃ)"
+  },
+  {
+    "kanji": "掲",
+    "category": "N3",
+    "type": "on",
+    "part": "[掲示板](けいじばん)"
+  },
+  {
+    "kanji": "捜",
+    "category": "N3",
+    "type": "on",
+    "part": "[捜査](そうさ)"
+  },
+  {
+    "kanji": "操",
+    "category": "N3",
+    "type": "on",
+    "part": "[操作](そうさ)"
+  },
+  {
+    "kanji": "股",
+    "category": "N2",
+    "type": "on",
+    "part": "[股関節](こかんせつ)"
+  },
+  {
+    "kanji": "依",
+    "category": "N2",
+    "type": "on",
+    "part": "[依頼](いらい)"
+  },
+  {
+    "kanji": "佳",
+    "category": "N2",
+    "type": "on",
+    "part": "[佳作](かさく)"
+  },
+  {
+    "kanji": "侍",
+    "category": "N2",
+    "type": "on",
+    "part": "[侍女](じじょ)"
+  },
+  {
+    "kanji": "俊",
+    "category": "N2",
+    "type": "on",
+    "part": "[俊敏](しゅんびん)"
+  },
+  {
+    "kanji": "侵",
+    "category": "N2",
+    "type": "on",
+    "part": "[侵略](しんりゃく)"
+  },
+  {
+    "kanji": "俘",
+    "category": "N2",
+    "type": "on",
+    "part": "[俘虜](ふりょ)"
+  },
+  {
+    "kanji": "倣",
+    "category": "N2",
+    "type": "on",
+    "part": "[模倣](もほう)"
+  },
+  {
+    "kanji": "倫",
+    "category": "N2",
+    "type": "on",
+    "part": "[倫理](りんり)"
+  },
+  {
+    "kanji": "傍",
+    "category": "N2",
+    "type": "on",
+    "part": "[傍聴](ぼうちょう)"
+  },
+  {
+    "kanji": "債",
+    "category": "N2",
+    "type": "on",
+    "part": "[負債](ふさい)"
+  },
+  {
+    "kanji": "僻",
+    "category": "N2",
+    "type": "on",
+    "part": "[僻地](へきち)"
+  },
+  {
+    "kanji": "充",
+    "category": "N2",
+    "type": "on",
+    "part": "[充実](じゅうじつ)"
+  },
+  {
+    "kanji": "兔",
+    "category": "N2",
+    "type": "on",
+    "part": "[脱兔](だっと)"
+  },
+  {
+    "kanji": "兢",
+    "category": "N2",
+    "type": "on",
+    "part": "[戦々兢々](せんせんきょうきょう)"
+  },
+  {
+    "kanji": "允",
+    "category": "N2",
+    "type": "on",
+    "part": "[允可](いんか)"
+  },
+  {
+    "kanji": "兇",
+    "category": "N2",
+    "type": "on",
+    "part": "[兇悪](きょうあく)"
+  },
+  {
+    "kanji": "兼",
+    "category": "N2",
+    "type": "on",
+    "part": "[兼備](けんび)"
+  },
+  {
+    "kanji": "冗",
+    "category": "N2",
+    "type": "on",
+    "part": "[冗談](じょうだん)"
+  },
+  {
+    "kanji": "准",
+    "category": "N2",
+    "type": "on",
+    "part": "[准看護師](じゅんかんごし)"
+  },
+  {
+    "kanji": "凶",
+    "category": "N2",
+    "type": "on",
+    "part": "[凶悪](きょうあく)"
+  },
+  {
+    "kanji": "刃",
+    "category": "N2",
+    "type": "on",
+    "part": "[刃物](はもの)"
+  },
+  {
+    "kanji": "刑",
+    "category": "N2",
+    "type": "on",
+    "part": "[刑事](けいじ)"
+  },
+  {
+    "kanji": "刺",
+    "category": "N2",
+    "type": "on",
+    "part": "[刺激](しげき)"
+  },
+  {
+    "kanji": "剖",
+    "category": "N2",
+    "type": "on",
+    "part": "[解剖学](かいぼうがく)"
+  },
+  {
+    "kanji": "剔",
+    "category": "N2",
+    "type": "on",
+    "part": "[剔出](てきしゅつ)"
+  },
+  {
+    "kanji": "劈",
+    "category": "N2",
+    "type": "on",
+    "part": "[直劈](ちょくへき)"
+  },
+  {
+    "kanji": "勁",
+    "category": "N2",
+    "type": "on",
+    "part": "[強勁](きょうけい)"
+  },
+  {
+    "kanji": "勒",
+    "category": "N2",
+    "type": "on",
+    "part": "[弥勒](みろく)"
+  },
+  {
+    "kanji": "勅",
+    "category": "N2",
+    "type": "on",
+    "part": "[勅命](ちょくめい)"
+  },
+  {
+    "kanji": "劭",
+    "category": "N2",
+    "type": "on",
+    "part": "[劭勉](しょうべん)"
+  },
+  {
+    "kanji": "勠",
+    "category": "N2",
+    "type": "on",
+    "part": "[勠力](りくりょく)"
+  },
+  {
+    "kanji": "勠",
+    "category": "N2",
+    "type": "kun",
+    "part": "[勠力](りくりょく)"
+  },
+  {
+    "kanji": "菊",
+    "category": "N2",
+    "type": "on",
+    "part": "[菊花](きっか)"
+  },
+  {
+    "kanji": "葡",
+    "category": "N2",
+    "type": "on",
+    "part": "[葡萄](ぶどう)"
+  },
+  {
+    "kanji": "萄",
+    "category": "N2",
+    "type": "on",
+    "part": "[葡萄](ぶどう)"
+  },
+  {
+    "kanji": "藹",
+    "category": "N2",
+    "type": "on",
+    "part": "[和気藹藹](わきあいあい)"
+  },
+  {
+    "kanji": "藻",
+    "category": "N2",
+    "type": "on",
+    "part": "[辞藻](じそう)"
+  },
+  {
+    "kanji": "藉",
+    "category": "N2",
+    "type": "on",
+    "part": "[慰藉料](いしゃりょう)"
+  },
+  {
+    "kanji": "蕉",
+    "category": "N2",
+    "type": "on",
+    "part": "[松尾芭蕉](まつおばしょう)"
+  },
+  {
+    "kanji": "薩",
+    "category": "N2",
+    "type": "on",
+    "part": "[菩薩](ぼさつ)"
+  },
+  {
+    "kanji": "苛",
+    "category": "N2",
+    "type": "on",
+    "part": "[苛酷](かこく)"
+  },
+  {
+    "kanji": "范",
+    "category": "N2",
+    "type": "on",
+    "part": "[規范](きはん)"
+  },
+  {
+    "kanji": "茱",
+    "category": "N2",
+    "type": "on",
+    "part": "[茱萸](しゅゆ)"
+  },
+  {
+    "kanji": "蓮",
+    "category": "N2",
+    "type": "on",
+    "part": "[蓮華](れんげ)"
+  },
+  {
+    "kanji": "虐",
+    "category": "N2",
+    "type": "on",
+    "part": "[虐殺](ぎゃくさつ)"
+  },
+  {
+    "kanji": "虐",
+    "category": "N2",
+    "type": "on",
+    "part": "[残虐](ざんぎゃく)"
+  },
+  {
+    "kanji": "虧",
+    "category": "N2",
+    "type": "on",
+    "part": "[虧損](きそん)"
+  },
+  {
+    "kanji": "蛋",
+    "category": "N2",
+    "type": "on",
+    "part": "[蛋白質](たんぱくしつ)"
+  },
+  {
+    "kanji": "蜂",
+    "category": "N2",
+    "type": "on",
+    "part": "[蜂起](ほうき)"
+  },
+  {
+    "kanji": "螺",
+    "category": "N2",
+    "type": "on",
+    "part": "[螺旋](らせん)"
+  },
+  {
+    "kanji": "蠢",
+    "category": "N2",
+    "type": "on",
+    "part": "[蠢動](しゅんどう)"
+  },
+  {
+    "kanji": "蛮",
+    "category": "N2",
+    "type": "on",
+    "part": "[野蛮](やばん)"
+  },
+  {
+    "kanji": "衷",
+    "category": "N2",
+    "type": "on",
+    "part": "[折衷](せっちゅう)"
+  },
+  {
+    "kanji": "褒",
+    "category": "N2",
+    "type": "on",
+    "part": "[褒賞](ほうしょう)"
+  },
+  {
+    "kanji": "褐",
+    "category": "N2",
+    "type": "on",
+    "part": "[褐色](かっしょく)"
+  },
+  {
+    "kanji": "袒",
+    "category": "N2",
+    "type": "on",
+    "part": "[左袒](さたん)"
+  },
+  {
+    "kanji": "祷",
+    "category": "N2",
+    "type": "on",
+    "part": "[祈祷](きとう)"
+  },
+  {
+    "kanji": "祀",
+    "category": "N2",
+    "type": "on",
+    "part": "[祭祀](さいし)"
+  },
+  {
+    "kanji": "祁",
+    "category": "N2",
+    "type": "on",
+    "part": "[祁連山](きれんざん)"
+  },
+  {
+    "kanji": "祇",
+    "category": "N2",
+    "type": "on",
+    "part": "[祇園](ぎおん)"
+  },
+  {
+    "kanji": "祥",
+    "category": "N2",
+    "type": "on",
+    "part": "[発祥](はっしょう)"
+  },
+  {
+    "kanji": "禅",
+    "category": "N2",
+    "type": "on",
+    "part": "[座禅](ざぜん)"
+  },
+  {
+    "kanji": "禧",
+    "category": "N2",
+    "type": "on",
+    "part": "[新禧](しんき)"
+  },
+  {
+    "kanji": "祓",
+    "category": "N2",
+    "type": "on",
+    "part": "[厄祓い](やくばらい)"
+  },
+  {
+    "kanji": "畏",
+    "category": "N1",
+    "type": "on",
+    "part": "[畏敬](いけい)"
+  },
+  {
+    "kanji": "淫",
+    "category": "N1",
+    "type": "on",
+    "part": "[淫ら](みだら)"
+  },
+  {
+    "kanji": "唄",
+    "category": "N1",
+    "type": "kun",
+    "part": "[小唄](こうた)"
+  },
+  {
+    "kanji": "餌",
+    "category": "N1",
+    "type": "on",
+    "part": "[餌食](えじき)"
+  },
+  {
+    "kanji": "艶",
+    "category": "N1",
+    "type": "on",
+    "part": "[艶やか](あでやか)"
+  },
+  {
+    "kanji": "臆",
+    "category": "N1",
+    "type": "on",
+    "part": "[臆病](おくびょう)"
+  },
+  {
+    "kanji": "牙",
+    "category": "N1",
+    "type": "on",
+    "part": "[象牙](ぞうげ)"
+  },
+  {
+    "kanji": "顎",
+    "category": "N1",
+    "type": "on",
+    "part": "[顎関節](がくかんせつ)"
+  },
+  {
+    "kanji": "釜",
+    "category": "N1",
+    "type": "on",
+    "part": "[釜山](ぷさん)"
+  },
+  {
+    "kanji": "釜",
+    "category": "N1",
+    "type": "kun",
+    "part": "[御釜](おかま)"
+  },
+  {
+    "kanji": "玩",
+    "category": "N1",
+    "type": "on",
+    "part": "[玩具](がんぐ)"
+  },
+  {
+    "kanji": "玩",
+    "category": "N1",
+    "type": "kun",
+    "part": "[玩味](がんみ)"
+  },
+  {
+    "kanji": "忌",
+    "category": "N1",
+    "type": "kun",
+    "part": "[一周忌](いっしゅうき)"
+  },
+  {
+    "kanji": "畿",
+    "category": "N1",
+    "type": "on",
+    "part": "[近畿](きんき)"
+  },
+  {
+    "kanji": "毅",
+    "category": "N1",
+    "type": "on",
+    "part": "[毅然](きぜん)"
+  },
+  {
+    "kanji": "徽",
+    "category": "N1",
+    "type": "on",
+    "part": "[校徽](こうき)"
+  },
+  {
+    "kanji": "嗅",
+    "category": "N1",
+    "type": "on",
+    "part": "[嗅覚](きゅうかく)"
+  },
+  {
+    "kanji": "隙",
+    "category": "N1",
+    "type": "kun",
+    "part": "[隙間](すきま)"
+  },
+  {
+    "kanji": "腺",
+    "category": "N1",
+    "type": "on",
+    "part": "[甲状腺](こうじょうせん)"
+  },
+  {
+    "kanji": "煽",
+    "category": "N1",
+    "type": "on",
+    "part": "[煽る](あおる)"
+  },
+  {
+    "kanji": "捉",
+    "category": "N1",
+    "type": "on",
+    "part": "[捕捉](ほそく)"
+  },
+  {
+    "kanji": "汰",
+    "category": "N1",
+    "type": "on",
+    "part": "[淘汰](とうた)"
+  },
+  {
+    "kanji": "舵",
+    "category": "N1",
+    "type": "on",
+    "part": "[操舵](そうだ)"
+  },
+  {
+    "kanji": "妥",
+    "category": "N1",
+    "type": "on",
+    "part": "[妥協点](だきょうてん)"
+  },
+  {
+    "kanji": "唾",
+    "category": "N1",
+    "type": "on",
+    "part": "[唾液](だえき)"
+  },
+  {
+    "kanji": "墮",
+    "category": "N1",
+    "type": "on",
+    "part": "[墮落](だらく)"
+  },
+  {
+    "kanji": "惰",
+    "category": "N1",
+    "type": "on",
+    "part": "[惰性](だせい)"
+  },
+  {
+    "kanji": "戴",
+    "category": "N1",
+    "type": "kun",
+    "part": "[頂戴](ちょうだい)"
+  },
+  {
+    "kanji": "緻",
+    "category": "N1",
+    "type": "on",
+    "part": "[緻密](ちみつ)"
+  },
+  {
+    "kanji": "凋",
+    "category": "N1",
+    "type": "on",
+    "part": "[凋落](ちょうらく)"
+  },
+  {
+    "kanji": "寵",
+    "category": "N1",
+    "type": "on",
+    "part": "[寵愛](ちょうあい)"
+  },
+  {
+    "kanji": "捗",
+    "category": "N1",
+    "type": "on",
+    "part": "[進捗](しんちょく)"
+  },
+  {
+    "kanji": "錘",
+    "category": "N1",
+    "type": "on",
+    "part": "[紡錘形](ぼうすいけい)"
+  },
+  {
+    "kanji": "爪",
+    "category": "N1",
+    "type": "on",
+    "part": "[爪牙](そうが)"
+  },
+  {
+    "kanji": "鶴",
+    "category": "N1",
+    "type": "on",
+    "part": "[千羽鶴](せんばづる)"
+  },
+  {
+    "kanji": "憧",
+    "category": "N1",
+    "type": "on",
+    "part": "[憧憬](しょうけい)"
+  },
+  {
+    "kanji": "嫉",
+    "category": "N1",
+    "type": "on",
+    "part": "[嫉妬](しっと)"
+  },
+  {
+    "kanji": "妬",
+    "category": "N1",
+    "type": "on",
+    "part": "[嫉妬](しっと)"
+  },
+  {
+    "kanji": "罵",
+    "category": "N1",
+    "type": "on",
+    "part": "[罵声](ばせい)"
+  },
+  {
+    "kanji": "挫",
+    "category": "N1",
+    "type": "on",
+    "part": "[挫折](ざせつ)"
+  },
+  {
+    "kanji": "羞",
+    "category": "N1",
+    "type": "on",
+    "part": "[羞恥心](しゅうちしん)"
+  },
+  {
+    "kanji": "憔",
+    "category": "N1",
+    "type": "on",
+    "part": "[憔悴](しょうすい)"
+  },
+  {
+    "kanji": "悴",
+    "category": "N1",
+    "type": "on",
+    "part": "[憔悴](しょうすい)"
+  },
+  {
+    "kanji": "憚",
+    "category": "N1",
+    "type": "on",
+    "part": "[忌憚](きたん)"
+  },
+  {
+    "kanji": "憬",
+    "category": "N1",
+    "type": "on",
+    "part": "[憧憬](しょうけい)"
+  },
+  {
+    "kanji": "諜",
+    "category": "N1",
+    "type": "on",
+    "part": "[諜報](ちょうほう)"
+  },
+  {
+    "kanji": "錘",
+    "category": "N1",
+    "type": "on",
+    "part": "[紡錘形](ぼうすいけい)"
+  },
+  {
+    "kanji": "爪",
+    "category": "N1",
+    "type": "on",
+    "part": "[爪牙](そうが)"
+  },
+  {
+    "kanji": "鶴",
+    "category": "N1",
+    "type": "on",
+    "part": "[千羽鶴](せんばづる)"
+  },
+  {
+    "kanji": "籠",
+    "category": "N1",
+    "type": "on",
+    "part": "[籠城](ろうじょう)"
+  },
+  {
+    "kanji": "嗜",
+    "category": "N1",
+    "type": "on",
+    "part": "[嗜好品](しこうひん)"
+  },
+  {
+    "kanji": "釜",
+    "category": "N1",
+    "type": "on",
+    "part": "[釜山](ぷさん)"
+  },
+  {
+    "kanji": "釜",
+    "category": "N1",
+    "type": "kun",
+    "part": "[御釜](おかま)"
+  },
+  {
+    "kanji": "玩",
+    "category": "N1",
+    "type": "on",
+    "part": "[玩具](がんぐ)"
+  },
+  {
+    "kanji": "玩",
+    "category": "N1",
+    "type": "kun",
+    "part": "[玩味](がんみ)"
+  },
+  {
+    "kanji": "忌",
+    "category": "N1",
+    "type": "kun",
+    "part": "[一周忌](いっしゅうき)"
+  },
+  {
+    "kanji": "畿",
+    "category": "N1",
+    "type": "on",
+    "part": "[近畿](きんき)"
+  },
+  {
+    "kanji": "毅",
+    "category": "N1",
+    "type": "on",
+    "part": "[毅然](きぜん)"
+  },
+  {
+    "kanji": "徽",
+    "category": "N1",
+    "type": "on",
+    "part": "[校徽](こうき)"
+  },
+  {
+    "kanji": "嗅",
+    "category": "N1",
+    "type": "on",
+    "part": "[嗅覚](きゅうかく)"
+  },
+  {
+    "kanji": "隙",
+    "category": "N1",
+    "type": "kun",
+    "part": "[隙間](すきま)"
+  },
+  {
+    "kanji": "腺",
+    "category": "N1",
+    "type": "on",
+    "part": "[甲状腺](こうじょうせん)"
+  },
+  {
+    "kanji": "煽",
+    "category": "N1",
+    "type": "on",
+    "part": "[煽る](あおる)"
+  },
+  {
+    "kanji": "膳",
+    "category": "N1",
+    "type": "kun",
+    "part": "[御膳](ごぜん)"
+  },
+  {
+    "kanji": "捉",
+    "category": "N1",
+    "type": "on",
+    "part": "[捕捉](ほそく)"
+  },
+  {
+    "kanji": "遜",
+    "category": "N1",
+    "type": "kun",
+    "part": "[遜色](そんしょく)"
+  },
+  {
+    "kanji": "汰",
+    "category": "N1",
+    "type": "on",
+    "part": "[淘汰](とうた)"
+  },
+  {
+    "kanji": "舵",
+    "category": "N1",
+    "type": "on",
+    "part": "[操舵](そうだ)"
+  },
+  {
+    "kanji": "妥",
+    "category": "N1",
+    "type": "on",
+    "part": "[妥協点](だきょうてん)"
+  },
+  {
+    "kanji": "妥",
+    "category": "N1",
+    "type": "kun",
+    "part": "[妥当](だとう)"
+  },
+  {
+    "kanji": "唾",
+    "category": "N1",
+    "type": "on",
+    "part": "[唾液](だえき)"
+  },
+  {
+    "kanji": "墮",
+    "category": "N1",
+    "type": "on",
+    "part": "[墮落](だらく)"
+  },
+  {
+    "kanji": "惰",
+    "category": "N1",
+    "type": "on",
+    "part": "[惰性](だせい)"
+  },
+  {
+    "kanji": "惰",
+    "category": "N1",
+    "type": "kun",
+    "part": "[怠惰](たいだ)"
+  },
+  {
+    "kanji": "駄",
+    "category": "N1",
+    "type": "kun",
+    "part": "[駄賃](だちん)"
+  },
+  {
+    "kanji": "抽",
+    "category": "N2",
+    "type": "on",
+    "part": "[抽象的](ちゅうしょうてき)"
+  },
+  {
+    "kanji": "抽",
+    "category": "N2",
+    "type": "kun",
+    "part": "[抽選](ちゅうせん)"
+  },
+  {
+    "kanji": "鋳",
+    "category": "N1",
+    "type": "on",
+    "part": "[鋳造](ちゅうぞう)"
+  },
+  {
+    "kanji": "塚",
+    "category": "N1",
+    "type": "kun",
+    "part": "[一里塚](いちりづか)"
+  },
+  {
+    "kanji": "悪",
+    "category": "N3",
+    "type": "on",
+    "part": "[悪魔](あくま)"
+  },
+  {
+    "kanji": "委",
+    "category": "N3",
+    "type": "on",
+    "part": "[委員長](いいんちょう)"
+  },
+  {
+    "kanji": "院",
+    "category": "N3",
+    "type": "on",
+    "part": "[病院](びょういん)"
+  },
+  {
+    "kanji": "央",
+    "category": "N3",
+    "type": "on",
+    "part": "[中央](ちゅうおう)"
+  },
+  {
+    "kanji": "化",
+    "category": "N3",
+    "type": "on",
+    "part": "[変化](へんか)"
+  },
+  {
+    "kanji": "荷",
+    "category": "N3",
+    "type": "kun",
+    "part": "[荷物](にもつ)"
+  },
+  {
+    "kanji": "期",
+    "category": "N3",
+    "type": "on",
+    "part": "[期待](きたい)"
+  },
+  {
+    "kanji": "客",
+    "category": "N3",
+    "type": "on",
+    "part": "[客様](きゃくさま)"
+  },
+  {
+    "kanji": "暮",
+    "category": "N2",
+    "type": "on",
+    "part": "[歳暮](せいぼ)"
+  },
+  {
+    "kanji": "祈",
+    "category": "N2",
+    "type": "on",
+    "part": "[祈願](きがん)"
+  },
+  {
+    "kanji": "叫",
+    "category": "N2",
+    "type": "on",
+    "part": "[絶叫](ぜっきょう)"
+  },
+  {
+    "kanji": "互",
+    "category": "N2",
+    "type": "on",
+    "part": "[相互](そうご)"
+  },
+  {
+    "kanji": "悲",
+    "category": "N2",
+    "type": "on",
+    "part": "[悲惨](ひさん)"
+  },
+  {
+    "kanji": "怒",
+    "category": "N2",
+    "type": "on",
+    "part": "[怒号](どごう)"
+  },
+  {
+    "kanji": "恥",
+    "category": "N2",
+    "type": "on",
+    "part": "[羞恥心](しゅうちしん)"
+  },
+  {
+    "kanji": "頼",
+    "category": "N2",
+    "type": "on",
+    "part": "[依頼](いらい)"
+  },
+  {
+    "kanji": "悩",
+    "category": "N2",
+    "type": "on",
+    "part": "[苦悩](くのう)"
+  },
+  {
+    "kanji": "戻",
+    "category": "N2",
+    "type": "on",
+    "part": "[返戻金](へんれいきん)"
+  },
+  {
+    "kanji": "眠",
+    "category": "N2",
+    "type": "on",
+    "part": "[睡眠不足](すいみんぶそく)"
+  },
+  {
+    "kanji": "捕",
+    "category": "N2",
+    "type": "on",
+    "part": "[逮捕](たいほ)"
+  },
+  {
+    "kanji": "渡",
+    "category": "N2",
+    "type": "on",
+    "part": "[渡米](とべい)"
+  },
+  {
+    "kanji": "喜",
+    "category": "N2",
+    "type": "on",
+    "part": "[喜劇](きげき)"
+  },
+  {
+    "kanji": "破",
+    "category": "N2",
+    "type": "on",
+    "part": "[自然破壊](しぜんはかい)"
+  },
+  {
+    "kanji": "飾",
+    "category": "N2",
+    "type": "on",
+    "part": "[装飾](そうしょく)"
+  },
+  {
+    "kanji": "薄",
+    "category": "N2",
+    "type": "on",
+    "part": "[希薄](きはく)"
+  },
+  {
+    "kanji": "偉",
+    "category": "N2",
+    "type": "on",
+    "part": "[偉大](いだい)"
+  },
+  {
+    "kanji": "珍",
+    "category": "N2",
+    "type": "on",
+    "part": "[珍味](ちんみ)"
+  },
+  {
+    "kanji": "編",
+    "category": "N2",
+    "type": "on",
+    "part": "[編集](へんしゅう)"
+  },
+  {
+    "kanji": "緑",
+    "category": "N2",
+    "type": "on",
+    "part": "[新緑](しんりょく)"
+  },
+  {
+    "kanji": "輝",
+    "category": "N1",
+    "type": "on",
+    "part": "[光輝](こうき)"
+  },
+  {
+    "kanji": "狂",
+    "category": "N1",
+    "type": "on",
+    "part": "[熱狂的](ねっきょうてき)"
+  },
+  {
+    "kanji": "奪",
+    "category": "N1",
+    "type": "on",
+    "part": "[略奪](りゃくだつ)"
+  },
+  {
+    "kanji": "劣",
+    "category": "N1",
+    "type": "on",
+    "part": "[劣等感](れっとうかん)"
+  },
+  {
+    "kanji": "奨",
+    "category": "N1",
+    "type": "on",
+    "part": "[奨学金](しょうがくきん)"
+  },
+  {
+    "kanji": "糾",
+    "category": "N1",
+    "type": "on",
+    "part": "[紛糾](ふんきゅう)"
+  },
+  {
+    "kanji": "紀",
+    "category": "N1",
+    "type": "on",
+    "part": "[世紀](せいき)"
+  },
+  {
+    "kanji": "縮",
+    "category": "N1",
+    "type": "on",
+    "part": "[軍縮](ぐんしゅく)"
+  },
+  {
+    "kanji": "繁",
+    "category": "N1",
+    "type": "on",
+    "part": "[繁華](はんか)"
+  },
+  {
+    "kanji": "翼",
+    "category": "N1",
+    "type": "on",
+    "part": "[右翼](うよく)"
+  },
+  {
+    "kanji": "聴",
+    "category": "N1",
+    "type": "on",
+    "part": "[聴解](ちょうかい)"
+  },
+  {
+    "kanji": "犠",
+    "category": "N1",
+    "type": "on",
+    "part": "[犠牲](ぎせい)"
+  },
+  {
+    "kanji": "犠",
+    "category": "N1",
+    "type": "kun",
+    "part": "[犠牲](ぎせい)"
+  },
+  {
+    "kanji": "懸",
+    "category": "N1",
+    "type": "on",
+    "part": "[一生懸命](いっしょうけんめい)"
+  },
+  {
+    "kanji": "慰",
+    "category": "N1",
+    "type": "on",
+    "part": "[慰問](いもん)"
+  },
+  {
+    "kanji": "憾",
+    "category": "N1",
+    "type": "on",
+    "part": "[遺憾](いかん)"
+  },
+  {
+    "kanji": "慌",
+    "category": "N1",
+    "type": "on",
+    "part": "[恐慌](きょうこう)"
+  },
+  {
+    "kanji": "懐",
+    "category": "N1",
+    "type": "on",
+    "part": "[懐中時計](かいちゅうどけい)"
+  },
+  {
+    "kanji": "悟",
+    "category": "N1",
+    "type": "on",
+    "part": "[覚悟](かくご)"
+  }
+]

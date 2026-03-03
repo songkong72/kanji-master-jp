@@ -1,0 +1,6488 @@
+[
+  {
+    "id": 1,
+    "kanji": "日",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 7,
+    "kanji": "六",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 8,
+    "kanji": "七",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 9,
+    "kanji": "八",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 11,
+    "kanji": "十",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 12,
+    "kanji": "百",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 17,
+    "kanji": "分",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 18,
+    "kanji": "午",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 20,
+    "kanji": "後",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 21,
+    "kanji": "月",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 24,
+    "kanji": "木",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 25,
+    "kanji": "金",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 26,
+    "kanji": "土",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 27,
+    "kanji": "山",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 30,
+    "kanji": "人",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 31,
+    "kanji": "口",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 33,
+    "kanji": "門",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 34,
+    "kanji": "雨",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 35,
+    "kanji": "女",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 36,
+    "kanji": "男",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 37,
+    "kanji": "子",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 46,
+    "kanji": "聞",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 48,
+    "kanji": "言",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 49,
+    "kanji": "話",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 50,
+    "kanji": "行",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 52,
+    "kanji": "出",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 53,
+    "kanji": "入",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 55,
+    "kanji": "校",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 56,
+    "kanji": "生",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 57,
+    "kanji": "大",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 58,
+    "kanji": "小",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 60,
+    "kanji": "外",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 61,
+    "kanji": "上",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 62,
+    "kanji": "下",
+    "issues": [
+      "kun-placeholder",
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 64,
+    "kanji": "右",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 65,
+    "kanji": "東",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 66,
+    "kanji": "西",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 69,
+    "kanji": "白",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 70,
+    "kanji": "赤",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 71,
+    "kanji": "青",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 74,
+    "kanji": "高",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 75,
+    "kanji": "安",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 76,
+    "kanji": "新",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 79,
+    "kanji": "毎",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 80,
+    "kanji": "週",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 83,
+    "kanji": "少",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 84,
+    "kanji": "元",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 85,
+    "kanji": "気",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 86,
+    "kanji": "天",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 87,
+    "kanji": "私",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 88,
+    "kanji": "今",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 89,
+    "kanji": "何",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 91,
+    "kanji": "兄",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 93,
+    "kanji": "弟",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 95,
+    "kanji": "食",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 98,
+    "kanji": "立",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 99,
+    "kanji": "会",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 101,
+    "kanji": "店",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 102,
+    "kanji": "駅",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 103,
+    "kanji": "花",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 104,
+    "kanji": "道",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 105,
+    "kanji": "先",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 106,
+    "kanji": "間",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 107,
+    "kanji": "家",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 108,
+    "kanji": "電",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 109,
+    "kanji": "名",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 110,
+    "kanji": "半",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 111,
+    "kanji": "力",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 112,
+    "kanji": "体",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 113,
+    "kanji": "目",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 114,
+    "kanji": "耳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 115,
+    "kanji": "手",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 116,
+    "kanji": "足",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 117,
+    "kanji": "不",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 118,
+    "kanji": "世",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 119,
+    "kanji": "主",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 121,
+    "kanji": "事",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 122,
+    "kanji": "京",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 123,
+    "kanji": "仕",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 124,
+    "kanji": "代",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 125,
+    "kanji": "以",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 126,
+    "kanji": "低",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 127,
+    "kanji": "使",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 128,
+    "kanji": "便",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 129,
+    "kanji": "借",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 130,
+    "kanji": "貸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 131,
+    "kanji": "医",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 132,
+    "kanji": "公",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 133,
+    "kanji": "内",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 134,
+    "kanji": "冬",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 135,
+    "kanji": "冷",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 136,
+    "kanji": "切",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 137,
+    "kanji": "映",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 138,
+    "kanji": "画",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 139,
+    "kanji": "研",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 140,
+    "kanji": "究",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 141,
+    "kanji": "考",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 142,
+    "kanji": "教",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 143,
+    "kanji": "室",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 144,
+    "kanji": "別",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 145,
+    "kanji": "同",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 146,
+    "kanji": "勉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 147,
+    "kanji": "春",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 148,
+    "kanji": "夏",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 149,
+    "kanji": "秋",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 150,
+    "kanji": "昼",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 151,
+    "kanji": "夕",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 152,
+    "kanji": "急",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 153,
+    "kanji": "止",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 154,
+    "kanji": "進",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 155,
+    "kanji": "走",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 156,
+    "kanji": "起",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 157,
+    "kanji": "降",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 158,
+    "kanji": "始",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 159,
+    "kanji": "終",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 160,
+    "kanji": "運",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 161,
+    "kanji": "動",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 162,
+    "kanji": "働",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 163,
+    "kanji": "転",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 164,
+    "kanji": "園",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 165,
+    "kanji": "遠",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 166,
+    "kanji": "送",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 167,
+    "kanji": "屋",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 168,
+    "kanji": "音",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 169,
+    "kanji": "楽",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 170,
+    "kanji": "歌",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 171,
+    "kanji": "度",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 172,
+    "kanji": "待",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 173,
+    "kanji": "持",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 174,
+    "kanji": "案",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 175,
+    "kanji": "特",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 176,
+    "kanji": "強",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 177,
+    "kanji": "味",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 178,
+    "kanji": "品",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 179,
+    "kanji": "員",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 180,
+    "kanji": "問",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 181,
+    "kanji": "題",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 182,
+    "kanji": "答",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 183,
+    "kanji": "図",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 184,
+    "kanji": "館",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 185,
+    "kanji": "地",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 186,
+    "kanji": "場",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 187,
+    "kanji": "声",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 188,
+    "kanji": "心",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 189,
+    "kanji": "思",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 190,
+    "kanji": "意",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 191,
+    "kanji": "用",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 192,
+    "kanji": "界",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 193,
+    "kanji": "質",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 194,
+    "kanji": "開",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 195,
+    "kanji": "閉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 196,
+    "kanji": "集",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 197,
+    "kanji": "習",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 198,
+    "kanji": "試",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 199,
+    "kanji": "験",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 200,
+    "kanji": "説",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 201,
+    "kanji": "野",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 202,
+    "kanji": "台",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 203,
+    "kanji": "風",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 204,
+    "kanji": "洋",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 205,
+    "kanji": "服",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 206,
+    "kanji": "都",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 207,
+    "kanji": "宿",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 208,
+    "kanji": "理",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 209,
+    "kanji": "産",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 210,
+    "kanji": "業",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 211,
+    "kanji": "留",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 212,
+    "kanji": "政",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 213,
+    "kanji": "治",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 214,
+    "kanji": "経",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 215,
+    "kanji": "済",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 216,
+    "kanji": "歴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 217,
+    "kanji": "史",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 218,
+    "kanji": "育",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 219,
+    "kanji": "議",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 220,
+    "kanji": "民",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 221,
+    "kanji": "連",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 222,
+    "kanji": "対",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 223,
+    "kanji": "部",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 224,
+    "kanji": "合",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 225,
+    "kanji": "市",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 226,
+    "kanji": "役",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 227,
+    "kanji": "信",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 228,
+    "kanji": "成",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 229,
+    "kanji": "絶",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 230,
+    "kanji": "談",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 231,
+    "kanji": "配",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 232,
+    "kanji": "願",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 233,
+    "kanji": "痛",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 234,
+    "kanji": "苦",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 235,
+    "kanji": "健",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 236,
+    "kanji": "康",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 237,
+    "kanji": "航",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 238,
+    "kanji": "空",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 239,
+    "kanji": "港",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 240,
+    "kanji": "鉄",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 241,
+    "kanji": "祭",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 242,
+    "kanji": "際",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 243,
+    "kanji": "窓",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 244,
+    "kanji": "階",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 245,
+    "kanji": "段",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 246,
+    "kanji": "拾",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 247,
+    "kanji": "投",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 248,
+    "kanji": "打",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 249,
+    "kanji": "折",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 250,
+    "kanji": "抜",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 251,
+    "kanji": "抱",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 252,
+    "kanji": "招",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 253,
+    "kanji": "接",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 254,
+    "kanji": "挙",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 255,
+    "kanji": "換",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 256,
+    "kanji": "握",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 257,
+    "kanji": "揺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 258,
+    "kanji": "支",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 259,
+    "kanji": "改",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 260,
+    "kanji": "敗",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 261,
+    "kanji": "散",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 262,
+    "kanji": "数",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 263,
+    "kanji": "断",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 264,
+    "kanji": "昔",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 265,
+    "kanji": "暑",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 266,
+    "kanji": "暗",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 267,
+    "kanji": "晩",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 268,
+    "kanji": "普",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 269,
+    "kanji": "景",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 270,
+    "kanji": "晴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 271,
+    "kanji": "最",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 272,
+    "kanji": "望",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 273,
+    "kanji": "未",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 274,
+    "kanji": "末",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 275,
+    "kanji": "札",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 276,
+    "kanji": "材",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 277,
+    "kanji": "束",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 278,
+    "kanji": "条",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 279,
+    "kanji": "果",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 280,
+    "kanji": "栄",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 281,
+    "kanji": "梅",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 282,
+    "kanji": "極",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 283,
+    "kanji": "構",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 284,
+    "kanji": "様",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 285,
+    "kanji": "権",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 286,
+    "kanji": "横",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 287,
+    "kanji": "欠",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 288,
+    "kanji": "次",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 289,
+    "kanji": "欲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 290,
+    "kanji": "歯",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 291,
+    "kanji": "歳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 292,
+    "kanji": "残",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 293,
+    "kanji": "殺",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 294,
+    "kanji": "毒",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 295,
+    "kanji": "比",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 296,
+    "kanji": "毛",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 297,
+    "kanji": "氷",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 298,
+    "kanji": "永",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 299,
+    "kanji": "決",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 300,
+    "kanji": "泳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 301,
+    "kanji": "指",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 303,
+    "kanji": "捨",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 304,
+    "kanji": "掃",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 305,
+    "kanji": "掘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 306,
+    "kanji": "採",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 308,
+    "kanji": "描",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 310,
+    "kanji": "摘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 311,
+    "kanji": "操",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 312,
+    "kanji": "攻",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 313,
+    "kanji": "故",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 314,
+    "kanji": "敏",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 315,
+    "kanji": "救",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 316,
+    "kanji": "敬",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 317,
+    "kanji": "敵",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 318,
+    "kanji": "敷",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 319,
+    "kanji": "承",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 320,
+    "kanji": "担",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 321,
+    "kanji": "抑",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 322,
+    "kanji": "抵",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 323,
+    "kanji": "拝",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 324,
+    "kanji": "拡",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 325,
+    "kanji": "括",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 326,
+    "kanji": "挟",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 327,
+    "kanji": "拭",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 328,
+    "kanji": "挫",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 329,
+    "kanji": "授",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 330,
+    "kanji": "掌",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 331,
+    "kanji": "揉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 332,
+    "kanji": "措",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 333,
+    "kanji": "掲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 334,
+    "kanji": "提",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 335,
+    "kanji": "揚",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 336,
+    "kanji": "援",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 337,
+    "kanji": "損",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 338,
+    "kanji": "搬",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 339,
+    "kanji": "携",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 340,
+    "kanji": "搾",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 341,
+    "kanji": "摂",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 342,
+    "kanji": "摺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 343,
+    "kanji": "撤",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 344,
+    "kanji": "撮",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 345,
+    "kanji": "撲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 346,
+    "kanji": "擦",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 347,
+    "kanji": "牧",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 348,
+    "kanji": "赦",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 349,
+    "kanji": "敢",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 350,
+    "kanji": "整",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 351,
+    "kanji": "類",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 352,
+    "kanji": "頭",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 353,
+    "kanji": "顔",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 354,
+    "kanji": "額",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 355,
+    "kanji": "飯",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 356,
+    "kanji": "飼",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 357,
+    "kanji": "養",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 358,
+    "kanji": "驚",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 359,
+    "kanji": "鮮",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 360,
+    "kanji": "鳴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 361,
+    "kanji": "鼻",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 362,
+    "kanji": "齢",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 363,
+    "kanji": "詞",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 364,
+    "kanji": "謙",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 365,
+    "kanji": "譲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 366,
+    "kanji": "護",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 367,
+    "kanji": "識",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 368,
+    "kanji": "証",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 369,
+    "kanji": "評",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 370,
+    "kanji": "課",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 371,
+    "kanji": "諸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 372,
+    "kanji": "謝",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 373,
+    "kanji": "誤",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 374,
+    "kanji": "認",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 375,
+    "kanji": "访",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 376,
+    "kanji": "詳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 377,
+    "kanji": "詩",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 379,
+    "kanji": "詰",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 380,
+    "kanji": "誌",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 381,
+    "kanji": "誠",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 382,
+    "kanji": "誓",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 383,
+    "kanji": "誕",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 384,
+    "kanji": "誘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 385,
+    "kanji": "誇",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 386,
+    "kanji": "誉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 387,
+    "kanji": "該",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 388,
+    "kanji": "請",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 389,
+    "kanji": "謹",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 390,
+    "kanji": "諭",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 391,
+    "kanji": "警",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 392,
+    "kanji": "贊",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 393,
+    "kanji": "講",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 394,
+    "kanji": "謄",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 395,
+    "kanji": "譜",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 396,
+    "kanji": "辞",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 397,
+    "kanji": "訓",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 398,
+    "kanji": "託",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 399,
+    "kanji": "訴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 400,
+    "kanji": "診",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 401,
+    "kanji": "論",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 402,
+    "kanji": "设",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 403,
+    "kanji": "許",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 404,
+    "kanji": "訟",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 405,
+    "kanji": "詐",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 407,
+    "kanji": "諾",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 408,
+    "kanji": "謀",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 409,
+    "kanji": "謁",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 410,
+    "kanji": "謡",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 411,
+    "kanji": "訓",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 412,
+    "kanji": "託",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 413,
+    "kanji": "訴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 414,
+    "kanji": "診",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 415,
+    "kanji": "負",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 416,
+    "kanji": "財",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 417,
+    "kanji": "貧",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 418,
+    "kanji": "貨",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 419,
+    "kanji": "販",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 420,
+    "kanji": "責",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 421,
+    "kanji": "貯",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 422,
+    "kanji": "貴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 423,
+    "kanji": "費",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 424,
+    "kanji": "贸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 425,
+    "kanji": "賀",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 426,
+    "kanji": "賃",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 427,
+    "kanji": "資",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 428,
+    "kanji": "賊",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 429,
+    "kanji": "賑",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 430,
+    "kanji": "賓",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 431,
+    "kanji": "賜",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 432,
+    "kanji": "賞",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 433,
+    "kanji": "賠",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 434,
+    "kanji": "賢",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 435,
+    "kanji": "購",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 436,
+    "kanji": "贈",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 437,
+    "kanji": "赴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 438,
+    "kanji": "超",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 439,
+    "kanji": "越",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 440,
+    "kanji": "趣",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 441,
+    "kanji": "徒",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 442,
+    "kanji": "得",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 443,
+    "kanji": "復",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 444,
+    "kanji": "御",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 445,
+    "kanji": "衛",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 446,
+    "kanji": "術",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 447,
+    "kanji": "街",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 448,
+    "kanji": "彰",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 449,
+    "kanji": "徳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 450,
+    "kanji": "往",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 451,
+    "kanji": "徴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 452,
+    "kanji": "微",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 453,
+    "kanji": "循",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 455,
+    "kanji": "径",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 456,
+    "kanji": "彼",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 457,
+    "kanji": "征",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 458,
+    "kanji": "衡",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 459,
+    "kanji": "裁",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 460,
+    "kanji": "製",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 461,
+    "kanji": "複",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 462,
+    "kanji": "裏",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 463,
+    "kanji": "補",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 464,
+    "kanji": "装",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 465,
+    "kanji": "襲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 466,
+    "kanji": "裸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 467,
+    "kanji": "褐",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 468,
+    "kanji": "褒",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 469,
+    "kanji": "襟",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 471,
+    "kanji": "裕",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 472,
+    "kanji": "哀",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 473,
+    "kanji": "衷",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 474,
+    "kanji": "衰",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 475,
+    "kanji": "袖",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 476,
+    "kanji": "袴",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 477,
+    "kanji": "裙",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 478,
+    "kanji": "袷",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 479,
+    "kanji": "褓",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 480,
+    "kanji": "憲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 481,
+    "kanji": "庁",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 482,
+    "kanji": "府",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 483,
+    "kanji": "庫",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 484,
+    "kanji": "廊",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 485,
+    "kanji": "廃",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 486,
+    "kanji": "廉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 487,
+    "kanji": "殿",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 488,
+    "kanji": "廟",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 489,
+    "kanji": "廠",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 490,
+    "kanji": "座",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 491,
+    "kanji": "慶",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 492,
+    "kanji": "庶",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 493,
+    "kanji": "鹿",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 494,
+    "kanji": "麗",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 495,
+    "kanji": "塵",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 496,
+    "kanji": "麟",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 497,
+    "kanji": "麓",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 498,
+    "kanji": "麥",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 499,
+    "kanji": "麺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 500,
+    "kanji": "麻",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 501,
+    "kanji": "魔",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 502,
+    "kanji": "磨",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 503,
+    "kanji": "摩",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 504,
+    "kanji": "庸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 505,
+    "kanji": "庵",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 506,
+    "kanji": "底",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 507,
+    "kanji": "服",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 508,
+    "kanji": "胴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 509,
+    "kanji": "胸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 510,
+    "kanji": "腕",
+    "issues": [
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 511,
+    "kanji": "肩",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 512,
+    "kanji": "腰",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 513,
+    "kanji": "腹",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 514,
+    "kanji": "脚",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 515,
+    "kanji": "膝",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 516,
+    "kanji": "肘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 517,
+    "kanji": "肌",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 518,
+    "kanji": "脂",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 519,
+    "kanji": "肪",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 520,
+    "kanji": "胎",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 521,
+    "kanji": "胞",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 522,
+    "kanji": "脈",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 524,
+    "kanji": "脳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 525,
+    "kanji": "臓",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 526,
+    "kanji": "胃",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 527,
+    "kanji": "胆",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 528,
+    "kanji": "背",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 529,
+    "kanji": "肥",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 530,
+    "kanji": "肺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 531,
+    "kanji": "脇",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 532,
+    "kanji": "腫",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 533,
+    "kanji": "膨",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 534,
+    "kanji": "腺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 535,
+    "kanji": "腱",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 536,
+    "kanji": "腿",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 537,
+    "kanji": "腎",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 538,
+    "kanji": "膵",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 539,
+    "kanji": "肝",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 540,
+    "kanji": "腸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 541,
+    "kanji": "肛",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 542,
+    "kanji": "膀",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 543,
+    "kanji": "滴",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 544,
+    "kanji": "滞",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 545,
+    "kanji": "漆",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 546,
+    "kanji": "漏",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 547,
+    "kanji": "漢",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 548,
+    "kanji": "灘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 549,
+    "kanji": "湾",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 550,
+    "kanji": "滅",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 551,
+    "kanji": "滑",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 552,
+    "kanji": "濁",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 553,
+    "kanji": "澄",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 554,
+    "kanji": "濃",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 555,
+    "kanji": "潔",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 556,
+    "kanji": "激",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 557,
+    "kanji": "濫",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 558,
+    "kanji": "濯",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 559,
+    "kanji": "瀬",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 560,
+    "kanji": "滝",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 561,
+    "kanji": "涙",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 562,
+    "kanji": "津",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 563,
+    "kanji": "泡",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 564,
+    "kanji": "泥",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 565,
+    "kanji": "沼",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 566,
+    "kanji": "泊",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 567,
+    "kanji": "浮",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 568,
+    "kanji": "洞",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 569,
+    "kanji": "浜",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 570,
+    "kanji": "浸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 571,
+    "kanji": "浪",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 572,
+    "kanji": "液",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 573,
+    "kanji": "渇",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 574,
+    "kanji": "渋",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 575,
+    "kanji": "潤",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 576,
+    "kanji": "湿",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 577,
+    "kanji": "潜",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 578,
+    "kanji": "漸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 579,
+    "kanji": "瀉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 580,
+    "kanji": "漑",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 581,
+    "kanji": "灌",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 582,
+    "kanji": "漂",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 583,
+    "kanji": "抱",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 584,
+    "kanji": "承",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 585,
+    "kanji": "招",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 586,
+    "kanji": "拜",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 587,
+    "kanji": "拾",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 588,
+    "kanji": "振",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 589,
+    "kanji": "控",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 590,
+    "kanji": "描",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 591,
+    "kanji": "措",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 592,
+    "kanji": "掘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 593,
+    "kanji": "掲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 594,
+    "kanji": "揚",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 595,
+    "kanji": "握",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 596,
+    "kanji": "揮",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 597,
+    "kanji": "揺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 599,
+    "kanji": "操",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 600,
+    "kanji": "換",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 601,
+    "kanji": "肢",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 603,
+    "kanji": "脊",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 605,
+    "kanji": "髄",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 606,
+    "kanji": "傲",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 607,
+    "kanji": "儒",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 609,
+    "kanji": "傭",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 610,
+    "kanji": "傑",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 612,
+    "kanji": "像",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 614,
+    "kanji": "僚",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 615,
+    "kanji": "偽",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 616,
+    "kanji": "儀",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 617,
+    "kanji": "仰",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 618,
+    "kanji": "伴",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 619,
+    "kanji": "仙",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 620,
+    "kanji": "佐",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 622,
+    "kanji": "依",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 623,
+    "kanji": "佳",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 624,
+    "kanji": "侍",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 626,
+    "kanji": "侯",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 627,
+    "kanji": "俊",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 628,
+    "kanji": "俗",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 631,
+    "kanji": "侶",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 632,
+    "kanji": "俘",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 633,
+    "kanji": "倹",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 635,
+    "kanji": "倫",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 637,
+    "kanji": "偵",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 640,
+    "kanji": "傷",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 641,
+    "kanji": "債",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 642,
+    "kanji": "僧",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 643,
+    "kanji": "僑",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 644,
+    "kanji": "僻",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 645,
+    "kanji": "凝",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 649,
+    "kanji": "兢",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 650,
+    "kanji": "克",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 651,
+    "kanji": "允",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 652,
+    "kanji": "兇",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 654,
+    "kanji": "冀",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 656,
+    "kanji": "冥",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 658,
+    "kanji": "冤",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 659,
+    "kanji": "冗",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 660,
+    "kanji": "冶",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 662,
+    "kanji": "准",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 663,
+    "kanji": "冴",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 665,
+    "kanji": "凭",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 666,
+    "kanji": "凪",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 667,
+    "kanji": "凧",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 668,
+    "kanji": "凶",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 669,
+    "kanji": "凸",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 670,
+    "kanji": "凹",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 672,
+    "kanji": "刃",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 673,
+    "kanji": "벨 예",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 674,
+    "kanji": "刑",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 675,
+    "kanji": "判",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 677,
+    "kanji": "刺",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 678,
+    "kanji": "剃",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 679,
+    "kanji": "剛",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 680,
+    "kanji": "剰",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 681,
+    "kanji": "剖",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 682,
+    "kanji": "剔",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 683,
+    "kanji": "劈",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 684,
+    "kanji": "勁",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 685,
+    "kanji": "功",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 686,
+    "kanji": "勘",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 687,
+    "kanji": "勒",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 689,
+    "kanji": "劫",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 690,
+    "kanji": "勃",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 691,
+    "kanji": "劾",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 692,
+    "kanji": "勅",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 693,
+    "kanji": "勗",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 694,
+    "kanji": "劭",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 695,
+    "kanji": "劬",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 699,
+    "kanji": "勦",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 701,
+    "kanji": "菊",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 702,
+    "kanji": "菌",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 703,
+    "kanji": "葡",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 704,
+    "kanji": "萄",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 705,
+    "kanji": "葱",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 706,
+    "kanji": "葵",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 710,
+    "kanji": "蔑",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 711,
+    "kanji": "藹",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 713,
+    "kanji": "蘭",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 714,
+    "kanji": "蒐",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 715,
+    "kanji": "蔽",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 716,
+    "kanji": "藩",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 717,
+    "kanji": "薪",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 718,
+    "kanji": "蕩",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 719,
+    "kanji": "蕪",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 720,
+    "kanji": "蕭",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 721,
+    "kanji": "葦",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 723,
+    "kanji": "蓬",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 726,
+    "kanji": "菫",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 727,
+    "kanji": "藉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 729,
+    "kanji": "薯",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 730,
+    "kanji": "蔓",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 731,
+    "kanji": "薔",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 732,
+    "kanji": "薇",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 734,
+    "kanji": "薙",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 735,
+    "kanji": "蔚",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 736,
+    "kanji": "蕉",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 737,
+    "kanji": "藁",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 738,
+    "kanji": "蕨",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 739,
+    "kanji": "薩",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 740,
+    "kanji": "茨",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 742,
+    "kanji": "苛",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 745,
+    "kanji": "范",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 746,
+    "kanji": "茄",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 747,
+    "kanji": "茅",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 748,
+    "kanji": "茫",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 749,
+    "kanji": "茱",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 750,
+    "kanji": "茲",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 751,
+    "kanji": "蓮",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 752,
+    "kanji": "茹",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 753,
+    "kanji": "苺",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 754,
+    "kanji": "菱",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 756,
+    "kanji": "虐",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 758,
+    "kanji": "虔",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 760,
+    "kanji": "虜",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 766,
+    "kanji": "蛇",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 767,
+    "kanji": "蛋",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 769,
+    "kanji": "蛾",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 771,
+    "kanji": "蝶",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 772,
+    "kanji": "蝦",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 773,
+    "kanji": "螺",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 774,
+    "kanji": "蟹",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 775,
+    "kanji": "蟻",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 776,
+    "kanji": "蠅",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 777,
+    "kanji": "蠍",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 780,
+    "kanji": "蛮",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 781,
+    "kanji": "衷",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 782,
+    "kanji": "袴",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 783,
+    "kanji": "褒",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 784,
+    "kanji": "褐",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 785,
+    "kanji": "襟",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 786,
+    "kanji": "襯",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 787,
+    "kanji": "袂",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 789,
+    "kanji": "袷",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 792,
+    "kanji": "祁",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 793,
+    "kanji": "祇",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 794,
+    "kanji": "祐",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 795,
+    "kanji": "祥",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 796,
+    "kanji": "禅",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 798,
+    "kanji": "禧",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 799,
+    "kanji": "禳",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 801,
+    "kanji": "挨",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 802,
+    "kanji": "拶",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 803,
+    "kanji": "宛",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 805,
+    "kanji": "嵐",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 807,
+    "kanji": "萎",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 808,
+    "kanji": "椅",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 809,
+    "kanji": "彙",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 810,
+    "kanji": "咽",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 811,
+    "kanji": "姻",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 812,
+    "kanji": "淫",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 813,
+    "kanji": "隠",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 816,
+    "kanji": "唄",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 817,
+    "kanji": "餌",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 818,
+    "kanji": "怨",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 819,
+    "kanji": "艶",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 820,
+    "kanji": "旺",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 821,
+    "kanji": "岡",
+    "issues": [
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 822,
+    "kanji": "臆",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 824,
+    "kanji": "牙",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 825,
+    "kanji": "瓦",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 826,
+    "kanji": "拐",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 831,
+    "kanji": "喝",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 832,
+    "kanji": "釜",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 834,
+    "kanji": "粥",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 836,
+    "kanji": "伎",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 837,
+    "kanji": "忌",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 838,
+    "kanji": "畿",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 839,
+    "kanji": "杵",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 841,
+    "kanji": "毅",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 842,
+    "kanji": "徽",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 843,
+    "kanji": "嗅",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 844,
+    "kanji": "亀",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 846,
+    "kanji": "乞",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 847,
+    "kanji": "隙",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 848,
+    "kanji": "桁",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 850,
+    "kanji": "芯",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 854,
+    "kanji": "脊",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 855,
+    "kanji": "戚",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 856,
+    "kanji": "煎",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 857,
+    "kanji": "羨",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 858,
+    "kanji": "腺",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 859,
+    "kanji": "煽",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 860,
+    "kanji": "栓",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 862,
+    "kanji": "膳",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 863,
+    "kanji": "狙",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 865,
+    "kanji": "遡",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 866,
+    "kanji": "噌",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 869,
+    "kanji": "踪",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 870,
+    "kanji": "捉",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 871,
+    "kanji": "遜",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 872,
+    "kanji": "汰",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 874,
+    "kanji": "妥",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 877,
+    "kanji": "惰",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 878,
+    "kanji": "駄",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 879,
+    "kanji": "堆",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 882,
+    "kanji": "丹",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 884,
+    "kanji": "旦",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 885,
+    "kanji": "緻",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 886,
+    "kanji": "逐",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 887,
+    "kanji": "秩",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 888,
+    "kanji": "嫡",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 889,
+    "kanji": "凋",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 890,
+    "kanji": "嘲",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 892,
+    "kanji": "寵",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 893,
+    "kanji": "捗",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 894,
+    "kanji": "椎",
+    "issues": [
+      "on-placeholder"
+    ]
+  },
+  {
+    "id": 895,
+    "kanji": "錘",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 896,
+    "kanji": "槌",
+    "issues": [
+      "kun-placeholder"
+    ]
+  },
+  {
+    "id": 897,
+    "kanji": "墜",
+    "issues": [
+      "on-placeholder",
+      "kun-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 900,
+    "kanji": "鼎",
+    "issues": [
+      "on-placeholder",
+      "unsplit-ruby-sentence"
+    ]
+  },
+  {
+    "id": 901,
+    "kanji": "暮",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 906,
+    "kanji": "悲",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 907,
+    "kanji": "怒",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 908,
+    "kanji": "恐",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 909,
+    "kanji": "恥",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 910,
+    "kanji": "頼",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 911,
+    "kanji": "悩",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 913,
+    "kanji": "戻",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 914,
+    "kanji": "眠",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 915,
+    "kanji": "捕",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 916,
+    "kanji": "逃",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 917,
+    "kanji": "渡",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 919,
+    "kanji": "破",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  },
+  {
+    "id": 920,
+    "kanji": "割",
+    "issues": [
+      "kun-alignment-mismatch"
+    ]
+  }
+]

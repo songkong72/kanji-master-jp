@@ -1,0 +1,3860 @@
+[
+  {
+    "id": 1,
+    "kanji": "日",
+    "type": "missing_kun",
+    "kun": "ひ / び"
+  },
+  {
+    "id": 2,
+    "kanji": "一",
+    "type": "missing_kun",
+    "kun": "ひと / ひとつ"
+  },
+  {
+    "id": 2,
+    "kanji": "一",
+    "type": "missing_on",
+    "on": "イチ / イツ"
+  },
+  {
+    "id": 3,
+    "kanji": "二",
+    "type": "missing_kun",
+    "kun": "ふた"
+  },
+  {
+    "id": 4,
+    "kanji": "三",
+    "type": "missing_kun",
+    "kun": "みっ"
+  },
+  {
+    "id": 5,
+    "kanji": "四",
+    "type": "missing_kun",
+    "kun": "よっ / よん"
+  },
+  {
+    "id": 6,
+    "kanji": "五",
+    "type": "missing_kun",
+    "kun": "いつ"
+  },
+  {
+    "id": 7,
+    "kanji": "六",
+    "type": "missing_kun",
+    "kun": "むい / むっ"
+  },
+  {
+    "id": 8,
+    "kanji": "七",
+    "type": "missing_kun",
+    "kun": "なな / なの"
+  },
+  {
+    "id": 9,
+    "kanji": "八",
+    "type": "missing_kun",
+    "kun": "やっ / よう"
+  },
+  {
+    "id": 10,
+    "kanji": "九",
+    "type": "missing_kun",
+    "kun": "ここの / ここのつ"
+  },
+  {
+    "id": 10,
+    "kanji": "九",
+    "type": "missing_on",
+    "on": "キュウ / ク"
+  },
+  {
+    "id": 11,
+    "kanji": "十",
+    "type": "missing_kun",
+    "kun": "とお / と / とおか"
+  },
+  {
+    "id": 11,
+    "kanji": "十",
+    "type": "missing_on",
+    "on": "ジュウ / ジッ / ジュッ"
+  },
+  {
+    "id": 13,
+    "kanji": "千",
+    "type": "missing_kun",
+    "kun": "ち"
+  },
+  {
+    "id": 14,
+    "kanji": "万",
+    "type": "missing_kun",
+    "kun": "よろず"
+  },
+  {
+    "id": 15,
+    "kanji": "円",
+    "type": "missing_kun",
+    "kun": "まる"
+  },
+  {
+    "id": 16,
+    "kanji": "時",
+    "type": "missing_kun",
+    "kun": "とき"
+  },
+  {
+    "id": 17,
+    "kanji": "分",
+    "type": "missing_kun",
+    "kun": "わ"
+  },
+  {
+    "id": 19,
+    "kanji": "前",
+    "type": "missing_kun",
+    "kun": "まえ"
+  },
+  {
+    "id": 20,
+    "kanji": "後",
+    "type": "missing_kun",
+    "kun": "のち / あと / うし"
+  },
+  {
+    "id": 21,
+    "kanji": "月",
+    "type": "missing_kun",
+    "kun": "つき"
+  },
+  {
+    "id": 22,
+    "kanji": "火",
+    "type": "missing_kun",
+    "kun": "ひ / び / ほ"
+  },
+  {
+    "id": 23,
+    "kanji": "水",
+    "type": "missing_kun",
+    "kun": "みず"
+  },
+  {
+    "id": 24,
+    "kanji": "木",
+    "type": "missing_kun",
+    "kun": "き / こ"
+  },
+  {
+    "id": 25,
+    "kanji": "金",
+    "type": "missing_kun",
+    "kun": "かね / かな"
+  },
+  {
+    "id": 26,
+    "kanji": "土",
+    "type": "missing_kun",
+    "kun": "つち"
+  },
+  {
+    "id": 27,
+    "kanji": "山",
+    "type": "missing_kun",
+    "kun": "やま"
+  },
+  {
+    "id": 28,
+    "kanji": "川",
+    "type": "missing_kun",
+    "kun": "かわ"
+  },
+  {
+    "id": 29,
+    "kanji": "田",
+    "type": "missing_kun",
+    "kun": "た"
+  },
+  {
+    "id": 30,
+    "kanji": "人",
+    "type": "missing_kun",
+    "kun": "ひと"
+  },
+  {
+    "id": 31,
+    "kanji": "口",
+    "type": "missing_kun",
+    "kun": "くち"
+  },
+  {
+    "id": 32,
+    "kanji": "車",
+    "type": "missing_kun",
+    "kun": "くるま"
+  },
+  {
+    "id": 33,
+    "kanji": "門",
+    "type": "missing_kun",
+    "kun": "かど"
+  },
+  {
+    "id": 34,
+    "kanji": "雨",
+    "type": "missing_kun",
+    "kun": "あめ / あま"
+  },
+  {
+    "id": 35,
+    "kanji": "女",
+    "type": "missing_kun",
+    "kun": "おんな / め"
+  },
+  {
+    "id": 36,
+    "kanji": "男",
+    "type": "missing_kun",
+    "kun": "おとこ"
+  },
+  {
+    "id": 37,
+    "kanji": "子",
+    "type": "missing_kun",
+    "kun": "こ / ね"
+  },
+  {
+    "id": 38,
+    "kanji": "母",
+    "type": "missing_kun",
+    "kun": "はは"
+  },
+  {
+    "id": 39,
+    "kanji": "父",
+    "type": "missing_kun",
+    "kun": "ちち"
+  },
+  {
+    "id": 40,
+    "kanji": "友",
+    "type": "missing_kun",
+    "kun": "とも"
+  },
+  {
+    "id": 41,
+    "kanji": "本",
+    "type": "missing_kun",
+    "kun": "もと"
+  },
+  {
+    "id": 42,
+    "kanji": "休",
+    "type": "missing_kun",
+    "kun": "やす"
+  },
+  {
+    "id": 43,
+    "kanji": "語",
+    "type": "missing_kun",
+    "kun": "かた"
+  },
+  {
+    "id": 44,
+    "kanji": "書",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 45,
+    "kanji": "読",
+    "type": "missing_kun",
+    "kun": "よ"
+  },
+  {
+    "id": 46,
+    "kanji": "聞",
+    "type": "missing_kun",
+    "kun": "き"
+  },
+  {
+    "id": 47,
+    "kanji": "見",
+    "type": "missing_kun",
+    "kun": "み"
+  },
+  {
+    "id": 48,
+    "kanji": "言",
+    "type": "missing_kun",
+    "kun": "い / こと"
+  },
+  {
+    "id": 49,
+    "kanji": "話",
+    "type": "missing_kun",
+    "kun": "はな"
+  },
+  {
+    "id": 50,
+    "kanji": "行",
+    "type": "missing_kun",
+    "kun": "い / ゆ / おこな"
+  },
+  {
+    "id": 51,
+    "kanji": "来",
+    "type": "missing_kun",
+    "kun": "く / きた"
+  },
+  {
+    "id": 52,
+    "kanji": "出",
+    "type": "missing_kun",
+    "kun": "で / だ"
+  },
+  {
+    "id": 53,
+    "kanji": "入",
+    "type": "missing_kun",
+    "kun": "はい / い"
+  },
+  {
+    "id": 54,
+    "kanji": "学",
+    "type": "missing_kun",
+    "kun": "まな"
+  },
+  {
+    "id": 56,
+    "kanji": "生",
+    "type": "missing_on",
+    "on": "セイ / ショウ"
+  },
+  {
+    "id": 57,
+    "kanji": "大",
+    "type": "missing_kun",
+    "kun": "おお"
+  },
+  {
+    "id": 58,
+    "kanji": "小",
+    "type": "missing_kun",
+    "kun": "ちい / こ / お"
+  },
+  {
+    "id": 59,
+    "kanji": "中",
+    "type": "missing_kun",
+    "kun": "なか"
+  },
+  {
+    "id": 60,
+    "kanji": "外",
+    "type": "missing_kun",
+    "kun": "そと / ほか / はず"
+  },
+  {
+    "id": 61,
+    "kanji": "上",
+    "type": "missing_kun",
+    "kun": "うえ / あ / のぼ"
+  },
+  {
+    "id": 62,
+    "kanji": "下",
+    "type": "missing_kun",
+    "kun": "した, しも, もと, さ"
+  },
+  {
+    "id": 63,
+    "kanji": "左",
+    "type": "missing_kun",
+    "kun": "ひだり"
+  },
+  {
+    "id": 64,
+    "kanji": "右",
+    "type": "missing_kun",
+    "kun": "みぎ"
+  },
+  {
+    "id": 65,
+    "kanji": "東",
+    "type": "missing_kun",
+    "kun": "ひがし"
+  },
+  {
+    "id": 66,
+    "kanji": "西",
+    "type": "missing_kun",
+    "kun": "にし"
+  },
+  {
+    "id": 67,
+    "kanji": "南",
+    "type": "missing_kun",
+    "kun": "みなみ"
+  },
+  {
+    "id": 68,
+    "kanji": "北",
+    "type": "missing_kun",
+    "kun": "きた"
+  },
+  {
+    "id": 69,
+    "kanji": "白",
+    "type": "missing_kun",
+    "kun": "しろ"
+  },
+  {
+    "id": 70,
+    "kanji": "赤",
+    "type": "missing_kun",
+    "kun": "あか"
+  },
+  {
+    "id": 71,
+    "kanji": "青",
+    "type": "missing_kun",
+    "kun": "あお"
+  },
+  {
+    "id": 72,
+    "kanji": "黒",
+    "type": "missing_kun",
+    "kun": "くろ"
+  },
+  {
+    "id": 73,
+    "kanji": "長",
+    "type": "missing_kun",
+    "kun": "なが"
+  },
+  {
+    "id": 74,
+    "kanji": "高",
+    "type": "missing_kun",
+    "kun": "たか"
+  },
+  {
+    "id": 75,
+    "kanji": "安",
+    "type": "missing_kun",
+    "kun": "やす"
+  },
+  {
+    "id": 76,
+    "kanji": "新",
+    "type": "missing_kun",
+    "kun": "あたら / あら"
+  },
+  {
+    "id": 77,
+    "kanji": "古",
+    "type": "missing_kun",
+    "kun": "ふる"
+  },
+  {
+    "id": 78,
+    "kanji": "早",
+    "type": "missing_kun",
+    "kun": "はや"
+  },
+  {
+    "id": 81,
+    "kanji": "年",
+    "type": "missing_kun",
+    "kun": "とし"
+  },
+  {
+    "id": 82,
+    "kanji": "多",
+    "type": "missing_kun",
+    "kun": "おお"
+  },
+  {
+    "id": 83,
+    "kanji": "少",
+    "type": "missing_kun",
+    "kun": "すく / すこ"
+  },
+  {
+    "id": 84,
+    "kanji": "元",
+    "type": "missing_kun",
+    "kun": "もと"
+  },
+  {
+    "id": 86,
+    "kanji": "天",
+    "type": "missing_kun",
+    "kun": "あめ / あま"
+  },
+  {
+    "id": 87,
+    "kanji": "私",
+    "type": "missing_kun",
+    "kun": "わたし / わたくし"
+  },
+  {
+    "id": 88,
+    "kanji": "今",
+    "type": "missing_kun",
+    "kun": "いま"
+  },
+  {
+    "id": 89,
+    "kanji": "何",
+    "type": "missing_kun",
+    "kun": "なに / なん"
+  },
+  {
+    "id": 90,
+    "kanji": "国",
+    "type": "missing_kun",
+    "kun": "くに"
+  },
+  {
+    "id": 91,
+    "kanji": "兄",
+    "type": "missing_kun",
+    "kun": "あに"
+  },
+  {
+    "id": 92,
+    "kanji": "姉",
+    "type": "missing_kun",
+    "kun": "あね"
+  },
+  {
+    "id": 93,
+    "kanji": "弟",
+    "type": "missing_kun",
+    "kun": "おとうと"
+  },
+  {
+    "id": 94,
+    "kanji": "妹",
+    "type": "missing_kun",
+    "kun": "いもうと"
+  },
+  {
+    "id": 95,
+    "kanji": "食",
+    "type": "missing_on",
+    "on": "ショク / ジキ"
+  },
+  {
+    "id": 96,
+    "kanji": "飲",
+    "type": "missing_kun",
+    "kun": "の"
+  },
+  {
+    "id": 97,
+    "kanji": "買",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 98,
+    "kanji": "立",
+    "type": "missing_kun",
+    "kun": "た"
+  },
+  {
+    "id": 99,
+    "kanji": "会",
+    "type": "missing_kun",
+    "kun": "あ"
+  },
+  {
+    "id": 100,
+    "kanji": "社",
+    "type": "missing_kun",
+    "kun": "やしろ"
+  },
+  {
+    "id": 101,
+    "kanji": "店",
+    "type": "missing_kun",
+    "kun": "みせ / たな"
+  },
+  {
+    "id": 103,
+    "kanji": "花",
+    "type": "missing_kun",
+    "kun": "はな"
+  },
+  {
+    "id": 104,
+    "kanji": "道",
+    "type": "missing_kun",
+    "kun": "みち"
+  },
+  {
+    "id": 105,
+    "kanji": "先",
+    "type": "missing_kun",
+    "kun": "さき / ま"
+  },
+  {
+    "id": 106,
+    "kanji": "間",
+    "type": "missing_kun",
+    "kun": "あいだ / ま / あい"
+  },
+  {
+    "id": 107,
+    "kanji": "家",
+    "type": "missing_kun",
+    "kun": "いえ / や / うち"
+  },
+  {
+    "id": 109,
+    "kanji": "名",
+    "type": "missing_kun",
+    "kun": "な"
+  },
+  {
+    "id": 110,
+    "kanji": "半",
+    "type": "missing_kun",
+    "kun": "なか"
+  },
+  {
+    "id": 111,
+    "kanji": "力",
+    "type": "missing_kun",
+    "kun": "ちから"
+  },
+  {
+    "id": 112,
+    "kanji": "体",
+    "type": "missing_kun",
+    "kun": "からだ / かたち"
+  },
+  {
+    "id": 113,
+    "kanji": "目",
+    "type": "missing_kun",
+    "kun": "め / ま"
+  },
+  {
+    "id": 114,
+    "kanji": "耳",
+    "type": "missing_kun",
+    "kun": "みみ"
+  },
+  {
+    "id": 115,
+    "kanji": "手",
+    "type": "missing_kun",
+    "kun": "て / た"
+  },
+  {
+    "id": 116,
+    "kanji": "足",
+    "type": "missing_kun",
+    "kun": "あし / た"
+  },
+  {
+    "id": 118,
+    "kanji": "世",
+    "type": "missing_kun",
+    "kun": "よ"
+  },
+  {
+    "id": 118,
+    "kanji": "世",
+    "type": "missing_on",
+    "on": "セイ / セ"
+  },
+  {
+    "id": 119,
+    "kanji": "主",
+    "type": "missing_kun",
+    "kun": "ぬし"
+  },
+  {
+    "id": 120,
+    "kanji": "乗",
+    "type": "missing_kun",
+    "kun": "の"
+  },
+  {
+    "id": 121,
+    "kanji": "事",
+    "type": "missing_kun",
+    "kun": "こと"
+  },
+  {
+    "id": 123,
+    "kanji": "仕",
+    "type": "missing_kun",
+    "kun": "つか"
+  },
+  {
+    "id": 124,
+    "kanji": "代",
+    "type": "missing_kun",
+    "kun": "か.わる"
+  },
+  {
+    "id": 124,
+    "kanji": "代",
+    "type": "missing_on",
+    "on": "ダイ / タイ"
+  },
+  {
+    "id": 126,
+    "kanji": "低",
+    "type": "missing_kun",
+    "kun": "ひく"
+  },
+  {
+    "id": 127,
+    "kanji": "使",
+    "type": "missing_kun",
+    "kun": "つか"
+  },
+  {
+    "id": 129,
+    "kanji": "借",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 130,
+    "kanji": "貸",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 132,
+    "kanji": "公",
+    "type": "missing_kun",
+    "kun": "おおやけ"
+  },
+  {
+    "id": 133,
+    "kanji": "内",
+    "type": "missing_kun",
+    "kun": "うち"
+  },
+  {
+    "id": 134,
+    "kanji": "冬",
+    "type": "missing_kun",
+    "kun": "ふゆ"
+  },
+  {
+    "id": 135,
+    "kanji": "冷",
+    "type": "missing_kun",
+    "kun": "つめ / ひ"
+  },
+  {
+    "id": 136,
+    "kanji": "切",
+    "type": "missing_kun",
+    "kun": "き / きっ"
+  },
+  {
+    "id": 137,
+    "kanji": "映",
+    "type": "missing_kun",
+    "kun": "うつ"
+  },
+  {
+    "id": 139,
+    "kanji": "研",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 140,
+    "kanji": "究",
+    "type": "missing_kun",
+    "kun": "きわ"
+  },
+  {
+    "id": 141,
+    "kanji": "考",
+    "type": "missing_kun",
+    "kun": "かんが"
+  },
+  {
+    "id": 142,
+    "kanji": "教",
+    "type": "missing_kun",
+    "kun": "おし / おそ"
+  },
+  {
+    "id": 143,
+    "kanji": "室",
+    "type": "missing_kun",
+    "kun": "むろ"
+  },
+  {
+    "id": 144,
+    "kanji": "別",
+    "type": "missing_kun",
+    "kun": "わか / わ"
+  },
+  {
+    "id": 145,
+    "kanji": "同",
+    "type": "missing_kun",
+    "kun": "おな"
+  },
+  {
+    "id": 146,
+    "kanji": "勉",
+    "type": "missing_kun",
+    "kun": "つと"
+  },
+  {
+    "id": 147,
+    "kanji": "春",
+    "type": "missing_kun",
+    "kun": "はる"
+  },
+  {
+    "id": 148,
+    "kanji": "夏",
+    "type": "missing_kun",
+    "kun": "なつ"
+  },
+  {
+    "id": 149,
+    "kanji": "秋",
+    "type": "missing_kun",
+    "kun": "あき"
+  },
+  {
+    "id": 150,
+    "kanji": "昼",
+    "type": "missing_kun",
+    "kun": "ひる"
+  },
+  {
+    "id": 151,
+    "kanji": "夕",
+    "type": "missing_kun",
+    "kun": "ゆう"
+  },
+  {
+    "id": 152,
+    "kanji": "急",
+    "type": "missing_kun",
+    "kun": "いそ"
+  },
+  {
+    "id": 153,
+    "kanji": "止",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 154,
+    "kanji": "進",
+    "type": "missing_kun",
+    "kun": "すす"
+  },
+  {
+    "id": 155,
+    "kanji": "走",
+    "type": "missing_kun",
+    "kun": "はし"
+  },
+  {
+    "id": 156,
+    "kanji": "起",
+    "type": "missing_kun",
+    "kun": "お"
+  },
+  {
+    "id": 157,
+    "kanji": "降",
+    "type": "missing_kun",
+    "kun": "お / ふ"
+  },
+  {
+    "id": 158,
+    "kanji": "始",
+    "type": "missing_kun",
+    "kun": "はじ"
+  },
+  {
+    "id": 159,
+    "kanji": "終",
+    "type": "missing_kun",
+    "kun": "お"
+  },
+  {
+    "id": 160,
+    "kanji": "運",
+    "type": "missing_kun",
+    "kun": "はこ"
+  },
+  {
+    "id": 161,
+    "kanji": "動",
+    "type": "missing_on",
+    "on": "ドウ"
+  },
+  {
+    "id": 162,
+    "kanji": "働",
+    "type": "missing_kun",
+    "kun": "はたら"
+  },
+  {
+    "id": 163,
+    "kanji": "転",
+    "type": "missing_kun",
+    "kun": "ころ"
+  },
+  {
+    "id": 164,
+    "kanji": "園",
+    "type": "missing_kun",
+    "kun": "その"
+  },
+  {
+    "id": 165,
+    "kanji": "遠",
+    "type": "missing_kun",
+    "kun": "とお"
+  },
+  {
+    "id": 166,
+    "kanji": "送",
+    "type": "missing_kun",
+    "kun": "おく"
+  },
+  {
+    "id": 167,
+    "kanji": "屋",
+    "type": "missing_kun",
+    "kun": "や"
+  },
+  {
+    "id": 168,
+    "kanji": "音",
+    "type": "missing_kun",
+    "kun": "おと / ね"
+  },
+  {
+    "id": 169,
+    "kanji": "楽",
+    "type": "missing_kun",
+    "kun": "たの"
+  },
+  {
+    "id": 170,
+    "kanji": "歌",
+    "type": "missing_kun",
+    "kun": "うた"
+  },
+  {
+    "id": 171,
+    "kanji": "度",
+    "type": "missing_kun",
+    "kun": "たび"
+  },
+  {
+    "id": 172,
+    "kanji": "待",
+    "type": "missing_kun",
+    "kun": "ま"
+  },
+  {
+    "id": 173,
+    "kanji": "持",
+    "type": "missing_kun",
+    "kun": "も"
+  },
+  {
+    "id": 176,
+    "kanji": "強",
+    "type": "missing_kun",
+    "kun": "つよ"
+  },
+  {
+    "id": 177,
+    "kanji": "味",
+    "type": "missing_kun",
+    "kun": "あじ"
+  },
+  {
+    "id": 178,
+    "kanji": "品",
+    "type": "missing_kun",
+    "kun": "しな"
+  },
+  {
+    "id": 180,
+    "kanji": "問",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 182,
+    "kanji": "答",
+    "type": "missing_kun",
+    "kun": "こた"
+  },
+  {
+    "id": 183,
+    "kanji": "図",
+    "type": "missing_kun",
+    "kun": "はか"
+  },
+  {
+    "id": 184,
+    "kanji": "館",
+    "type": "missing_kun",
+    "kun": "やかた"
+  },
+  {
+    "id": 186,
+    "kanji": "場",
+    "type": "missing_kun",
+    "kun": "ば"
+  },
+  {
+    "id": 187,
+    "kanji": "声",
+    "type": "missing_kun",
+    "kun": "こえ"
+  },
+  {
+    "id": 188,
+    "kanji": "心",
+    "type": "missing_kun",
+    "kun": "こころ"
+  },
+  {
+    "id": 189,
+    "kanji": "思",
+    "type": "missing_kun",
+    "kun": "おも"
+  },
+  {
+    "id": 191,
+    "kanji": "用",
+    "type": "missing_kun",
+    "kun": "もち"
+  },
+  {
+    "id": 194,
+    "kanji": "開",
+    "type": "missing_kun",
+    "kun": "あ / ひら"
+  },
+  {
+    "id": 195,
+    "kanji": "閉",
+    "type": "missing_kun",
+    "kun": "し / と"
+  },
+  {
+    "id": 196,
+    "kanji": "集",
+    "type": "missing_kun",
+    "kun": "あつ / つ"
+  },
+  {
+    "id": 197,
+    "kanji": "習",
+    "type": "missing_kun",
+    "kun": "なら"
+  },
+  {
+    "id": 198,
+    "kanji": "試",
+    "type": "missing_kun",
+    "kun": "こころ / ため"
+  },
+  {
+    "id": 200,
+    "kanji": "説",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 201,
+    "kanji": "野",
+    "type": "missing_kun",
+    "kun": "の"
+  },
+  {
+    "id": 203,
+    "kanji": "風",
+    "type": "missing_kun",
+    "kun": "かぜ"
+  },
+  {
+    "id": 206,
+    "kanji": "都",
+    "type": "missing_kun",
+    "kun": "みやこ"
+  },
+  {
+    "id": 207,
+    "kanji": "宿",
+    "type": "missing_kun",
+    "kun": "やど"
+  },
+  {
+    "id": 209,
+    "kanji": "産",
+    "type": "missing_kun",
+    "kun": "う"
+  },
+  {
+    "id": 211,
+    "kanji": "留",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 212,
+    "kanji": "政",
+    "type": "missing_kun",
+    "kun": "まつりごと"
+  },
+  {
+    "id": 213,
+    "kanji": "治",
+    "type": "missing_kun",
+    "kun": "おさ / なお"
+  },
+  {
+    "id": 214,
+    "kanji": "経",
+    "type": "missing_kun",
+    "kun": "へ"
+  },
+  {
+    "id": 215,
+    "kanji": "済",
+    "type": "missing_kun",
+    "kun": "す"
+  },
+  {
+    "id": 218,
+    "kanji": "育",
+    "type": "missing_kun",
+    "kun": "そだ / はぐく"
+  },
+  {
+    "id": 220,
+    "kanji": "民",
+    "type": "missing_kun",
+    "kun": "たみ"
+  },
+  {
+    "id": 221,
+    "kanji": "連",
+    "type": "missing_kun",
+    "kun": "つ / つら"
+  },
+  {
+    "id": 224,
+    "kanji": "合",
+    "type": "missing_kun",
+    "kun": "あ"
+  },
+  {
+    "id": 225,
+    "kanji": "市",
+    "type": "missing_kun",
+    "kun": "いち"
+  },
+  {
+    "id": 228,
+    "kanji": "成",
+    "type": "missing_kun",
+    "kun": "な"
+  },
+  {
+    "id": 229,
+    "kanji": "絶",
+    "type": "missing_kun",
+    "kun": "た"
+  },
+  {
+    "id": 231,
+    "kanji": "配",
+    "type": "missing_kun",
+    "kun": "くば"
+  },
+  {
+    "id": 232,
+    "kanji": "願",
+    "type": "missing_kun",
+    "kun": "ねが"
+  },
+  {
+    "id": 233,
+    "kanji": "痛",
+    "type": "missing_kun",
+    "kun": "いた"
+  },
+  {
+    "id": 234,
+    "kanji": "苦",
+    "type": "missing_kun",
+    "kun": "くる / にが"
+  },
+  {
+    "id": 235,
+    "kanji": "健",
+    "type": "missing_kun",
+    "kun": "すこ"
+  },
+  {
+    "id": 238,
+    "kanji": "空",
+    "type": "missing_kun",
+    "kun": "そら / あ"
+  },
+  {
+    "id": 239,
+    "kanji": "港",
+    "type": "missing_kun",
+    "kun": "みなと"
+  },
+  {
+    "id": 241,
+    "kanji": "祭",
+    "type": "missing_kun",
+    "kun": "まつ"
+  },
+  {
+    "id": 242,
+    "kanji": "際",
+    "type": "missing_kun",
+    "kun": "きわ"
+  },
+  {
+    "id": 243,
+    "kanji": "窓",
+    "type": "missing_kun",
+    "kun": "まど"
+  },
+  {
+    "id": 246,
+    "kanji": "拾",
+    "type": "missing_kun",
+    "kun": "ひろ"
+  },
+  {
+    "id": 247,
+    "kanji": "投",
+    "type": "missing_kun",
+    "kun": "な"
+  },
+  {
+    "id": 248,
+    "kanji": "打",
+    "type": "missing_kun",
+    "kun": "う"
+  },
+  {
+    "id": 249,
+    "kanji": "折",
+    "type": "missing_kun",
+    "kun": "お"
+  },
+  {
+    "id": 250,
+    "kanji": "抜",
+    "type": "missing_kun",
+    "kun": "ぬ"
+  },
+  {
+    "id": 251,
+    "kanji": "抱",
+    "type": "missing_kun",
+    "kun": "だ / いだ"
+  },
+  {
+    "id": 252,
+    "kanji": "招",
+    "type": "missing_kun",
+    "kun": "まね"
+  },
+  {
+    "id": 253,
+    "kanji": "接",
+    "type": "missing_on",
+    "on": "セツ"
+  },
+  {
+    "id": 254,
+    "kanji": "挙",
+    "type": "missing_kun",
+    "kun": "あ"
+  },
+  {
+    "id": 255,
+    "kanji": "換",
+    "type": "missing_on",
+    "on": "カン"
+  },
+  {
+    "id": 256,
+    "kanji": "握",
+    "type": "missing_kun",
+    "kun": "にぎ"
+  },
+  {
+    "id": 257,
+    "kanji": "揺",
+    "type": "missing_kun",
+    "kun": "ゆ"
+  },
+  {
+    "id": 258,
+    "kanji": "支",
+    "type": "missing_kun",
+    "kun": "ささ"
+  },
+  {
+    "id": 259,
+    "kanji": "改",
+    "type": "missing_kun",
+    "kun": "あらた"
+  },
+  {
+    "id": 260,
+    "kanji": "敗",
+    "type": "missing_kun",
+    "kun": "やぶ"
+  },
+  {
+    "id": 261,
+    "kanji": "散",
+    "type": "missing_kun",
+    "kun": "ち"
+  },
+  {
+    "id": 262,
+    "kanji": "数",
+    "type": "missing_kun",
+    "kun": "かず / かぞ"
+  },
+  {
+    "id": 263,
+    "kanji": "断",
+    "type": "missing_kun",
+    "kun": "ことわ / た"
+  },
+  {
+    "id": 264,
+    "kanji": "昔",
+    "type": "missing_kun",
+    "kun": "むかし"
+  },
+  {
+    "id": 265,
+    "kanji": "暑",
+    "type": "missing_kun",
+    "kun": "あつ"
+  },
+  {
+    "id": 266,
+    "kanji": "暗",
+    "type": "missing_kun",
+    "kun": "くら"
+  },
+  {
+    "id": 270,
+    "kanji": "晴",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 271,
+    "kanji": "最",
+    "type": "missing_kun",
+    "kun": "もっと"
+  },
+  {
+    "id": 272,
+    "kanji": "望",
+    "type": "missing_kun",
+    "kun": "のぞ"
+  },
+  {
+    "id": 274,
+    "kanji": "末",
+    "type": "missing_kun",
+    "kun": "すえ"
+  },
+  {
+    "id": 275,
+    "kanji": "札",
+    "type": "missing_kun",
+    "kun": "ふだ"
+  },
+  {
+    "id": 277,
+    "kanji": "束",
+    "type": "missing_kun",
+    "kun": "たば"
+  },
+  {
+    "id": 279,
+    "kanji": "果",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 280,
+    "kanji": "栄",
+    "type": "missing_kun",
+    "kun": "さか / は"
+  },
+  {
+    "id": 281,
+    "kanji": "梅",
+    "type": "missing_kun",
+    "kun": "うめ"
+  },
+  {
+    "id": 282,
+    "kanji": "極",
+    "type": "missing_kun",
+    "kun": "きわ"
+  },
+  {
+    "id": 283,
+    "kanji": "構",
+    "type": "missing_kun",
+    "kun": "かま"
+  },
+  {
+    "id": 284,
+    "kanji": "様",
+    "type": "missing_kun",
+    "kun": "さま"
+  },
+  {
+    "id": 286,
+    "kanji": "横",
+    "type": "missing_kun",
+    "kun": "よこ"
+  },
+  {
+    "id": 287,
+    "kanji": "欠",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 288,
+    "kanji": "次",
+    "type": "missing_kun",
+    "kun": "つぎ / つ"
+  },
+  {
+    "id": 289,
+    "kanji": "欲",
+    "type": "missing_kun",
+    "kun": "ほ / ほっ"
+  },
+  {
+    "id": 290,
+    "kanji": "歯",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 292,
+    "kanji": "残",
+    "type": "missing_kun",
+    "kun": "のこ"
+  },
+  {
+    "id": 293,
+    "kanji": "殺",
+    "type": "missing_kun",
+    "kun": "ころ"
+  },
+  {
+    "id": 295,
+    "kanji": "比",
+    "type": "missing_kun",
+    "kun": "くら"
+  },
+  {
+    "id": 296,
+    "kanji": "毛",
+    "type": "missing_kun",
+    "kun": "け"
+  },
+  {
+    "id": 297,
+    "kanji": "氷",
+    "type": "missing_on",
+    "on": "ヒョウ"
+  },
+  {
+    "id": 298,
+    "kanji": "永",
+    "type": "missing_kun",
+    "kun": "なが"
+  },
+  {
+    "id": 299,
+    "kanji": "決",
+    "type": "missing_kun",
+    "kun": "き"
+  },
+  {
+    "id": 300,
+    "kanji": "泳",
+    "type": "missing_kun",
+    "kun": "およ"
+  },
+  {
+    "id": 301,
+    "kanji": "指",
+    "type": "missing_kun",
+    "kun": "ゆび / さ"
+  },
+  {
+    "id": 302,
+    "kanji": "探",
+    "type": "missing_kun",
+    "kun": "さが / さぐ"
+  },
+  {
+    "id": 303,
+    "kanji": "捨",
+    "type": "missing_kun",
+    "kun": "す.てる"
+  },
+  {
+    "id": 303,
+    "kanji": "捨",
+    "type": "missing_on",
+    "on": "シャ"
+  },
+  {
+    "id": 304,
+    "kanji": "掃",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 305,
+    "kanji": "掘",
+    "type": "missing_kun",
+    "kun": "ほ"
+  },
+  {
+    "id": 306,
+    "kanji": "採",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 307,
+    "kanji": "振",
+    "type": "missing_kun",
+    "kun": "ふ"
+  },
+  {
+    "id": 308,
+    "kanji": "描",
+    "type": "missing_kun",
+    "kun": "えが / か"
+  },
+  {
+    "id": 309,
+    "kanji": "捜",
+    "type": "missing_kun",
+    "kun": "さが"
+  },
+  {
+    "id": 310,
+    "kanji": "摘",
+    "type": "missing_kun",
+    "kun": "つ"
+  },
+  {
+    "id": 311,
+    "kanji": "操",
+    "type": "missing_kun",
+    "kun": "あやつ"
+  },
+  {
+    "id": 312,
+    "kanji": "攻",
+    "type": "missing_kun",
+    "kun": "せ.める"
+  },
+  {
+    "id": 312,
+    "kanji": "攻",
+    "type": "missing_on",
+    "on": "コウ"
+  },
+  {
+    "id": 313,
+    "kanji": "故",
+    "type": "missing_kun",
+    "kun": "ゆえ"
+  },
+  {
+    "id": 313,
+    "kanji": "故",
+    "type": "missing_on",
+    "on": "コ"
+  },
+  {
+    "id": 315,
+    "kanji": "救",
+    "type": "missing_kun",
+    "kun": "すく"
+  },
+  {
+    "id": 316,
+    "kanji": "敬",
+    "type": "missing_kun",
+    "kun": "うやま"
+  },
+  {
+    "id": 317,
+    "kanji": "敵",
+    "type": "missing_kun",
+    "kun": "かたき"
+  },
+  {
+    "id": 318,
+    "kanji": "敷",
+    "type": "missing_kun",
+    "kun": "し"
+  },
+  {
+    "id": 319,
+    "kanji": "承",
+    "type": "missing_on",
+    "on": "ショウ"
+  },
+  {
+    "id": 320,
+    "kanji": "担",
+    "type": "missing_kun",
+    "kun": "担 / かつ / にな"
+  },
+  {
+    "id": 321,
+    "kanji": "抑",
+    "type": "missing_kun",
+    "kun": "おさ"
+  },
+  {
+    "id": 323,
+    "kanji": "拝",
+    "type": "missing_kun",
+    "kun": "おが"
+  },
+  {
+    "id": 326,
+    "kanji": "挟",
+    "type": "missing_kun",
+    "kun": "はさ"
+  },
+  {
+    "id": 327,
+    "kanji": "拭",
+    "type": "missing_kun",
+    "kun": "ふ / ぬぐ"
+  },
+  {
+    "id": 328,
+    "kanji": "挫",
+    "type": "missing_kun",
+    "kun": "くじ"
+  },
+  {
+    "id": 329,
+    "kanji": "授",
+    "type": "missing_kun",
+    "kun": "さず"
+  },
+  {
+    "id": 330,
+    "kanji": "掌",
+    "type": "missing_kun",
+    "kun": "てのひら"
+  },
+  {
+    "id": 331,
+    "kanji": "揉",
+    "type": "missing_kun",
+    "kun": "も"
+  },
+  {
+    "id": 332,
+    "kanji": "措",
+    "type": "missing_kun",
+    "kun": "お"
+  },
+  {
+    "id": 333,
+    "kanji": "掲",
+    "type": "missing_kun",
+    "kun": "かか"
+  },
+  {
+    "id": 334,
+    "kanji": "提",
+    "type": "missing_kun",
+    "kun": "さ"
+  },
+  {
+    "id": 335,
+    "kanji": "揚",
+    "type": "missing_kun",
+    "kun": "あ"
+  },
+  {
+    "id": 337,
+    "kanji": "損",
+    "type": "missing_kun",
+    "kun": "そこ"
+  },
+  {
+    "id": 339,
+    "kanji": "携",
+    "type": "missing_kun",
+    "kun": "たずさ"
+  },
+  {
+    "id": 340,
+    "kanji": "搾",
+    "type": "missing_kun",
+    "kun": "しぼ"
+  },
+  {
+    "id": 342,
+    "kanji": "摺",
+    "type": "missing_kun",
+    "kun": "す"
+  },
+  {
+    "id": 344,
+    "kanji": "撮",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 346,
+    "kanji": "擦",
+    "type": "missing_kun",
+    "kun": "す"
+  },
+  {
+    "id": 347,
+    "kanji": "牧",
+    "type": "missing_kun",
+    "kun": "まき"
+  },
+  {
+    "id": 350,
+    "kanji": "整",
+    "type": "missing_kun",
+    "kun": "ととの"
+  },
+  {
+    "id": 351,
+    "kanji": "類",
+    "type": "missing_kun",
+    "kun": "たぐ"
+  },
+  {
+    "id": 352,
+    "kanji": "頭",
+    "type": "missing_kun",
+    "kun": "あたま / かしら"
+  },
+  {
+    "id": 353,
+    "kanji": "顔",
+    "type": "missing_kun",
+    "kun": "かお"
+  },
+  {
+    "id": 354,
+    "kanji": "額",
+    "type": "missing_kun",
+    "kun": "ひたい"
+  },
+  {
+    "id": 355,
+    "kanji": "飯",
+    "type": "missing_kun",
+    "kun": "めし"
+  },
+  {
+    "id": 356,
+    "kanji": "飼",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 357,
+    "kanji": "養",
+    "type": "missing_kun",
+    "kun": "やしな"
+  },
+  {
+    "id": 358,
+    "kanji": "驚",
+    "type": "missing_kun",
+    "kun": "おどろ"
+  },
+  {
+    "id": 359,
+    "kanji": "鮮",
+    "type": "missing_kun",
+    "kun": "あざ"
+  },
+  {
+    "id": 360,
+    "kanji": "鳴",
+    "type": "missing_kun",
+    "kun": "な"
+  },
+  {
+    "id": 361,
+    "kanji": "鼻",
+    "type": "missing_kun",
+    "kun": "はな"
+  },
+  {
+    "id": 363,
+    "kanji": "詞",
+    "type": "missing_kun",
+    "kun": "ことば"
+  },
+  {
+    "id": 365,
+    "kanji": "譲",
+    "type": "missing_kun",
+    "kun": "ゆず"
+  },
+  {
+    "id": 366,
+    "kanji": "護",
+    "type": "missing_kun",
+    "kun": "まも"
+  },
+  {
+    "id": 371,
+    "kanji": "諸",
+    "type": "missing_kun",
+    "kun": "もろもろ"
+  },
+  {
+    "id": 372,
+    "kanji": "謝",
+    "type": "missing_kun",
+    "kun": "あやま"
+  },
+  {
+    "id": 373,
+    "kanji": "誤",
+    "type": "missing_kun",
+    "kun": "あやま"
+  },
+  {
+    "id": 374,
+    "kanji": "認",
+    "type": "missing_kun",
+    "kun": "みと"
+  },
+  {
+    "id": 375,
+    "kanji": "访",
+    "type": "missing_kun",
+    "kun": "おとず / たず"
+  },
+  {
+    "id": 376,
+    "kanji": "詳",
+    "type": "missing_kun",
+    "kun": "くわ"
+  },
+  {
+    "id": 378,
+    "kanji": "詠",
+    "type": "missing_kun",
+    "kun": "よ"
+  },
+  {
+    "id": 379,
+    "kanji": "詰",
+    "type": "missing_on",
+    "on": "キツ"
+  },
+  {
+    "id": 381,
+    "kanji": "誠",
+    "type": "missing_kun",
+    "kun": "まこと"
+  },
+  {
+    "id": 382,
+    "kanji": "誓",
+    "type": "missing_kun",
+    "kun": "ちか"
+  },
+  {
+    "id": 384,
+    "kanji": "誘",
+    "type": "missing_kun",
+    "kun": "さそ"
+  },
+  {
+    "id": 385,
+    "kanji": "誇",
+    "type": "missing_kun",
+    "kun": "ほこ"
+  },
+  {
+    "id": 386,
+    "kanji": "誉",
+    "type": "missing_kun",
+    "kun": "ほま"
+  },
+  {
+    "id": 388,
+    "kanji": "請",
+    "type": "missing_kun",
+    "kun": "う / こ"
+  },
+  {
+    "id": 389,
+    "kanji": "謹",
+    "type": "missing_kun",
+    "kun": "つつし"
+  },
+  {
+    "id": 390,
+    "kanji": "諭",
+    "type": "missing_kun",
+    "kun": "さと"
+  },
+  {
+    "id": 396,
+    "kanji": "辞",
+    "type": "missing_kun",
+    "kun": "や"
+  },
+  {
+    "id": 397,
+    "kanji": "訓",
+    "type": "missing_kun",
+    "kun": "おし"
+  },
+  {
+    "id": 399,
+    "kanji": "訴",
+    "type": "missing_kun",
+    "kun": "うった"
+  },
+  {
+    "id": 400,
+    "kanji": "診",
+    "type": "missing_kun",
+    "kun": "み"
+  },
+  {
+    "id": 402,
+    "kanji": "设",
+    "type": "missing_kun",
+    "kun": "もう"
+  },
+  {
+    "id": 403,
+    "kanji": "許",
+    "type": "missing_kun",
+    "kun": "ゆる"
+  },
+  {
+    "id": 406,
+    "kanji": "誰",
+    "type": "missing_kun",
+    "kun": "だれ"
+  },
+  {
+    "id": 408,
+    "kanji": "謀",
+    "type": "missing_kun",
+    "kun": "はか"
+  },
+  {
+    "id": 410,
+    "kanji": "謡",
+    "type": "missing_kun",
+    "kun": "うた"
+  },
+  {
+    "id": 413,
+    "kanji": "訴",
+    "type": "missing_kun",
+    "kun": "うった"
+  },
+  {
+    "id": 415,
+    "kanji": "負",
+    "type": "missing_kun",
+    "kun": "ま / お"
+  },
+  {
+    "id": 417,
+    "kanji": "貧",
+    "type": "missing_kun",
+    "kun": "まず"
+  },
+  {
+    "id": 420,
+    "kanji": "責",
+    "type": "missing_on",
+    "on": "セキ"
+  },
+  {
+    "id": 421,
+    "kanji": "貯",
+    "type": "missing_kun",
+    "kun": "た"
+  },
+  {
+    "id": 422,
+    "kanji": "貴",
+    "type": "missing_kun",
+    "kun": "とう"
+  },
+  {
+    "id": 423,
+    "kanji": "費",
+    "type": "missing_kun",
+    "kun": "つい"
+  },
+  {
+    "id": 429,
+    "kanji": "賑",
+    "type": "missing_kun",
+    "kun": "き"
+  },
+  {
+    "id": 431,
+    "kanji": "賜",
+    "type": "missing_kun",
+    "kun": "たまわ"
+  },
+  {
+    "id": 432,
+    "kanji": "賞",
+    "type": "missing_kun",
+    "kun": "ほ"
+  },
+  {
+    "id": 434,
+    "kanji": "賢",
+    "type": "missing_kun",
+    "kun": "かし"
+  },
+  {
+    "id": 436,
+    "kanji": "贈",
+    "type": "missing_kun",
+    "kun": "おく"
+  },
+  {
+    "id": 437,
+    "kanji": "赴",
+    "type": "missing_kun",
+    "kun": "おもむ"
+  },
+  {
+    "id": 438,
+    "kanji": "超",
+    "type": "missing_kun",
+    "kun": "こ"
+  },
+  {
+    "id": 439,
+    "kanji": "越",
+    "type": "missing_kun",
+    "kun": "こ"
+  },
+  {
+    "id": 440,
+    "kanji": "趣",
+    "type": "missing_kun",
+    "kun": "おもむ"
+  },
+  {
+    "id": 442,
+    "kanji": "得",
+    "type": "missing_kun",
+    "kun": "え"
+  },
+  {
+    "id": 444,
+    "kanji": "御",
+    "type": "missing_kun",
+    "kun": "お"
+  },
+  {
+    "id": 447,
+    "kanji": "街",
+    "type": "missing_kun",
+    "kun": "ま"
+  },
+  {
+    "id": 454,
+    "kanji": "従",
+    "type": "missing_kun",
+    "kun": "したが"
+  },
+  {
+    "id": 456,
+    "kanji": "彼",
+    "type": "missing_kun",
+    "kun": "かれ / かの"
+  },
+  {
+    "id": 459,
+    "kanji": "裁",
+    "type": "missing_kun",
+    "kun": "さば / た"
+  },
+  {
+    "id": 462,
+    "kanji": "裏",
+    "type": "missing_kun",
+    "kun": "うら"
+  },
+  {
+    "id": 463,
+    "kanji": "補",
+    "type": "missing_kun",
+    "kun": "おぎな"
+  },
+  {
+    "id": 464,
+    "kanji": "装",
+    "type": "missing_kun",
+    "kun": "よそお"
+  },
+  {
+    "id": 465,
+    "kanji": "襲",
+    "type": "missing_kun",
+    "kun": "おそ"
+  },
+  {
+    "id": 466,
+    "kanji": "裸",
+    "type": "missing_kun",
+    "kun": "はだか"
+  },
+  {
+    "id": 468,
+    "kanji": "褒",
+    "type": "missing_on",
+    "on": "ホウ"
+  },
+  {
+    "id": 469,
+    "kanji": "襟",
+    "type": "missing_kun",
+    "kun": "えり"
+  },
+  {
+    "id": 470,
+    "kanji": "裾",
+    "type": "missing_kun",
+    "kun": "すそ"
+  },
+  {
+    "id": 472,
+    "kanji": "哀",
+    "type": "missing_kun",
+    "kun": "あわ"
+  },
+  {
+    "id": 474,
+    "kanji": "衰",
+    "type": "missing_kun",
+    "kun": "おとろ"
+  },
+  {
+    "id": 475,
+    "kanji": "袖",
+    "type": "missing_kun",
+    "kun": "そで"
+  },
+  {
+    "id": 476,
+    "kanji": "袴",
+    "type": "missing_kun",
+    "kun": "はかま"
+  },
+  {
+    "id": 477,
+    "kanji": "裙",
+    "type": "missing_kun",
+    "kun": "すそ"
+  },
+  {
+    "id": 478,
+    "kanji": "袷",
+    "type": "missing_kun",
+    "kun": "あわせ"
+  },
+  {
+    "id": 483,
+    "kanji": "庫",
+    "type": "missing_kun",
+    "kun": "くら"
+  },
+  {
+    "id": 485,
+    "kanji": "廃",
+    "type": "missing_kun",
+    "kun": "すた"
+  },
+  {
+    "id": 487,
+    "kanji": "殿",
+    "type": "missing_kun",
+    "kun": "との / どの"
+  },
+  {
+    "id": 490,
+    "kanji": "座",
+    "type": "missing_kun",
+    "kun": "すわ"
+  },
+  {
+    "id": 493,
+    "kanji": "鹿",
+    "type": "missing_kun",
+    "kun": "しか"
+  },
+  {
+    "id": 494,
+    "kanji": "麗",
+    "type": "missing_kun",
+    "kun": "うるわ"
+  },
+  {
+    "id": 495,
+    "kanji": "塵",
+    "type": "missing_kun",
+    "kun": "ちり"
+  },
+  {
+    "id": 497,
+    "kanji": "麓",
+    "type": "missing_kun",
+    "kun": "ふもと"
+  },
+  {
+    "id": 498,
+    "kanji": "麥",
+    "type": "missing_kun",
+    "kun": "むぎ"
+  },
+  {
+    "id": 500,
+    "kanji": "麻",
+    "type": "missing_kun",
+    "kun": "あさ"
+  },
+  {
+    "id": 502,
+    "kanji": "磨",
+    "type": "missing_kun",
+    "kun": "みが"
+  },
+  {
+    "id": 505,
+    "kanji": "庵",
+    "type": "missing_kun",
+    "kun": "いお"
+  },
+  {
+    "id": 506,
+    "kanji": "底",
+    "type": "missing_kun",
+    "kun": "そこ"
+  },
+  {
+    "id": 509,
+    "kanji": "胸",
+    "type": "missing_kun",
+    "kun": "むね"
+  },
+  {
+    "id": 510,
+    "kanji": "腕",
+    "type": "missing_kun",
+    "kun": "うで"
+  },
+  {
+    "id": 511,
+    "kanji": "肩",
+    "type": "missing_kun",
+    "kun": "かた"
+  },
+  {
+    "id": 512,
+    "kanji": "腰",
+    "type": "missing_kun",
+    "kun": "こし"
+  },
+  {
+    "id": 513,
+    "kanji": "腹",
+    "type": "missing_kun",
+    "kun": "はら"
+  },
+  {
+    "id": 514,
+    "kanji": "脚",
+    "type": "missing_kun",
+    "kun": "あし"
+  },
+  {
+    "id": 515,
+    "kanji": "膝",
+    "type": "missing_kun",
+    "kun": "ひざ"
+  },
+  {
+    "id": 516,
+    "kanji": "肘",
+    "type": "missing_kun",
+    "kun": "ひじ"
+  },
+  {
+    "id": 517,
+    "kanji": "肌",
+    "type": "missing_kun",
+    "kun": "はだ"
+  },
+  {
+    "id": 518,
+    "kanji": "脂",
+    "type": "missing_kun",
+    "kun": "あぶら"
+  },
+  {
+    "id": 523,
+    "kanji": "脱",
+    "type": "missing_kun",
+    "kun": "ぬ"
+  },
+  {
+    "id": 528,
+    "kanji": "背",
+    "type": "missing_kun",
+    "kun": "せ / せい / そむ"
+  },
+  {
+    "id": 529,
+    "kanji": "肥",
+    "type": "missing_kun",
+    "kun": "こ"
+  },
+  {
+    "id": 531,
+    "kanji": "脇",
+    "type": "missing_kun",
+    "kun": "わき"
+  },
+  {
+    "id": 532,
+    "kanji": "腫",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 533,
+    "kanji": "膨",
+    "type": "missing_kun",
+    "kun": "ふく"
+  },
+  {
+    "id": 536,
+    "kanji": "腿",
+    "type": "missing_kun",
+    "kun": "もも"
+  },
+  {
+    "id": 539,
+    "kanji": "肝",
+    "type": "missing_kun",
+    "kun": "きも"
+  },
+  {
+    "id": 543,
+    "kanji": "滴",
+    "type": "missing_kun",
+    "kun": "しずく / したた"
+  },
+  {
+    "id": 544,
+    "kanji": "滞",
+    "type": "missing_kun",
+    "kun": "とどこお"
+  },
+  {
+    "id": 545,
+    "kanji": "漆",
+    "type": "missing_kun",
+    "kun": "うるし"
+  },
+  {
+    "id": 546,
+    "kanji": "漏",
+    "type": "missing_kun",
+    "kun": "も"
+  },
+  {
+    "id": 548,
+    "kanji": "灘",
+    "type": "missing_kun",
+    "kun": "なだ"
+  },
+  {
+    "id": 550,
+    "kanji": "滅",
+    "type": "missing_kun",
+    "kun": "ほろ"
+  },
+  {
+    "id": 551,
+    "kanji": "滑",
+    "type": "missing_kun",
+    "kun": "すべ / なめ"
+  },
+  {
+    "id": 552,
+    "kanji": "濁",
+    "type": "missing_kun",
+    "kun": "にご"
+  },
+  {
+    "id": 553,
+    "kanji": "澄",
+    "type": "missing_kun",
+    "kun": "す"
+  },
+  {
+    "id": 554,
+    "kanji": "濃",
+    "type": "missing_kun",
+    "kun": "こ"
+  },
+  {
+    "id": 555,
+    "kanji": "潔",
+    "type": "missing_kun",
+    "kun": "いさぎよ"
+  },
+  {
+    "id": 556,
+    "kanji": "激",
+    "type": "missing_kun",
+    "kun": "はげ"
+  },
+  {
+    "id": 559,
+    "kanji": "瀬",
+    "type": "missing_kun",
+    "kun": "せ"
+  },
+  {
+    "id": 560,
+    "kanji": "滝",
+    "type": "missing_kun",
+    "kun": "たき"
+  },
+  {
+    "id": 561,
+    "kanji": "涙",
+    "type": "missing_kun",
+    "kun": "なみだ"
+  },
+  {
+    "id": 562,
+    "kanji": "津",
+    "type": "missing_kun",
+    "kun": "つ"
+  },
+  {
+    "id": 563,
+    "kanji": "泡",
+    "type": "missing_kun",
+    "kun": "あわ"
+  },
+  {
+    "id": 564,
+    "kanji": "泥",
+    "type": "missing_kun",
+    "kun": "どろ"
+  },
+  {
+    "id": 565,
+    "kanji": "沼",
+    "type": "missing_kun",
+    "kun": "ぬま"
+  },
+  {
+    "id": 566,
+    "kanji": "泊",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 567,
+    "kanji": "浮",
+    "type": "missing_kun",
+    "kun": "う"
+  },
+  {
+    "id": 568,
+    "kanji": "洞",
+    "type": "missing_kun",
+    "kun": "ほら"
+  },
+  {
+    "id": 569,
+    "kanji": "浜",
+    "type": "missing_kun",
+    "kun": "はま"
+  },
+  {
+    "id": 570,
+    "kanji": "浸",
+    "type": "missing_kun",
+    "kun": "ひた"
+  },
+  {
+    "id": 573,
+    "kanji": "渇",
+    "type": "missing_kun",
+    "kun": "かわ"
+  },
+  {
+    "id": 574,
+    "kanji": "渋",
+    "type": "missing_kun",
+    "kun": "しぶ"
+  },
+  {
+    "id": 575,
+    "kanji": "潤",
+    "type": "missing_kun",
+    "kun": "うるお"
+  },
+  {
+    "id": 576,
+    "kanji": "湿",
+    "type": "missing_kun",
+    "kun": "しめ"
+  },
+  {
+    "id": 577,
+    "kanji": "潜",
+    "type": "missing_kun",
+    "kun": "ひそ / もぐ"
+  },
+  {
+    "id": 582,
+    "kanji": "漂",
+    "type": "missing_kun",
+    "kun": "ただよ"
+  },
+  {
+    "id": 583,
+    "kanji": "抱",
+    "type": "missing_kun",
+    "kun": "だ / いだ / かか"
+  },
+  {
+    "id": 584,
+    "kanji": "承",
+    "type": "missing_kun",
+    "kun": "うけたまわ"
+  },
+  {
+    "id": 585,
+    "kanji": "招",
+    "type": "missing_kun",
+    "kun": "まね"
+  },
+  {
+    "id": 586,
+    "kanji": "拜",
+    "type": "missing_kun",
+    "kun": "おが"
+  },
+  {
+    "id": 587,
+    "kanji": "拾",
+    "type": "missing_kun",
+    "kun": "ひろ"
+  },
+  {
+    "id": 588,
+    "kanji": "振",
+    "type": "missing_kun",
+    "kun": "ふ"
+  },
+  {
+    "id": 589,
+    "kanji": "控",
+    "type": "missing_kun",
+    "kun": "ひか"
+  },
+  {
+    "id": 590,
+    "kanji": "描",
+    "type": "missing_kun",
+    "kun": "えが / か"
+  },
+  {
+    "id": 592,
+    "kanji": "掘",
+    "type": "missing_kun",
+    "kun": "ほ"
+  },
+  {
+    "id": 593,
+    "kanji": "掲",
+    "type": "missing_kun",
+    "kun": "かか"
+  },
+  {
+    "id": 594,
+    "kanji": "揚",
+    "type": "missing_kun",
+    "kun": "あ"
+  },
+  {
+    "id": 595,
+    "kanji": "握",
+    "type": "missing_kun",
+    "kun": "にぎ"
+  },
+  {
+    "id": 597,
+    "kanji": "揺",
+    "type": "missing_kun",
+    "kun": "ゆ"
+  },
+  {
+    "id": 598,
+    "kanji": "捜",
+    "type": "missing_kun",
+    "kun": "さが"
+  },
+  {
+    "id": 599,
+    "kanji": "操",
+    "type": "missing_kun",
+    "kun": "あやつ / みさお"
+  },
+  {
+    "id": 600,
+    "kanji": "換",
+    "type": "missing_on",
+    "on": "カン"
+  },
+  {
+    "id": 602,
+    "kanji": "股",
+    "type": "missing_kun",
+    "kun": "また"
+  },
+  {
+    "id": 604,
+    "kanji": "骸",
+    "type": "missing_kun",
+    "kun": "むくろ"
+  },
+  {
+    "id": 608,
+    "kanji": "償",
+    "type": "missing_kun",
+    "kun": "つぐな"
+  },
+  {
+    "id": 611,
+    "kanji": "僅",
+    "type": "missing_kun",
+    "kun": "わず"
+  },
+  {
+    "id": 613,
+    "kanji": "僕",
+    "type": "missing_kun",
+    "kun": "しもべ"
+  },
+  {
+    "id": 615,
+    "kanji": "偽",
+    "type": "missing_kun",
+    "kun": "にせ / いつわ"
+  },
+  {
+    "id": 617,
+    "kanji": "仰",
+    "type": "missing_kun",
+    "kun": "あお / おっしゃ"
+  },
+  {
+    "id": 618,
+    "kanji": "伴",
+    "type": "missing_kun",
+    "kun": "ともな"
+  },
+  {
+    "id": 621,
+    "kanji": "併",
+    "type": "missing_kun",
+    "kun": "あわ"
+  },
+  {
+    "id": 622,
+    "kanji": "依",
+    "type": "missing_kun",
+    "kun": "よ"
+  },
+  {
+    "id": 624,
+    "kanji": "侍",
+    "type": "missing_kun",
+    "kun": "さむらい / はべ"
+  },
+  {
+    "id": 625,
+    "kanji": "侮",
+    "type": "missing_kun",
+    "kun": "あなど"
+  },
+  {
+    "id": 629,
+    "kanji": "侵",
+    "type": "missing_kun",
+    "kun": "おか"
+  },
+  {
+    "id": 630,
+    "kanji": "促",
+    "type": "missing_kun",
+    "kun": "うなが"
+  },
+  {
+    "id": 634,
+    "kanji": "倣",
+    "type": "missing_kun",
+    "kun": "なら"
+  },
+  {
+    "id": 636,
+    "kanji": "偏",
+    "type": "missing_kun",
+    "kun": "かたよ"
+  },
+  {
+    "id": 638,
+    "kanji": "傍",
+    "type": "missing_kun",
+    "kun": "かたわ"
+  },
+  {
+    "id": 639,
+    "kanji": "催",
+    "type": "missing_kun",
+    "kun": "もよお"
+  },
+  {
+    "id": 640,
+    "kanji": "傷",
+    "type": "missing_kun",
+    "kun": "きず / いた"
+  },
+  {
+    "id": 645,
+    "kanji": "凝",
+    "type": "missing_kun",
+    "kun": "こ"
+  },
+  {
+    "id": 646,
+    "kanji": "充",
+    "type": "missing_kun",
+    "kun": "あ"
+  },
+  {
+    "id": 647,
+    "kanji": "兔",
+    "type": "missing_kun",
+    "kun": "うさぎ"
+  },
+  {
+    "id": 648,
+    "kanji": "兜",
+    "type": "missing_kun",
+    "kun": "かぶと"
+  },
+  {
+    "id": 653,
+    "kanji": "兼",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 655,
+    "kanji": "冒",
+    "type": "missing_kun",
+    "kun": "おか"
+  },
+  {
+    "id": 657,
+    "kanji": "冠",
+    "type": "missing_kun",
+    "kun": "かんむり"
+  },
+  {
+    "id": 661,
+    "kanji": "凄",
+    "type": "missing_kun",
+    "kun": "すご"
+  },
+  {
+    "id": 663,
+    "kanji": "冴",
+    "type": "missing_kun",
+    "kun": "さ"
+  },
+  {
+    "id": 664,
+    "kanji": "凛",
+    "type": "missing_on",
+    "on": "リン"
+  },
+  {
+    "id": 665,
+    "kanji": "凭",
+    "type": "missing_kun",
+    "kun": "よ / もた"
+  },
+  {
+    "id": 669,
+    "kanji": "凸",
+    "type": "missing_kun",
+    "kun": "でこ"
+  },
+  {
+    "id": 670,
+    "kanji": "凹",
+    "type": "missing_kun",
+    "kun": "ぼこ"
+  },
+  {
+    "id": 671,
+    "kanji": "函",
+    "type": "missing_kun",
+    "kun": "はこ"
+  },
+  {
+    "id": 672,
+    "kanji": "刃",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 673,
+    "kanji": "벨 예",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 675,
+    "kanji": "判",
+    "type": "missing_kun",
+    "kun": "わか"
+  },
+  {
+    "id": 676,
+    "kanji": "刷",
+    "type": "missing_kun",
+    "kun": "す"
+  },
+  {
+    "id": 677,
+    "kanji": "刺",
+    "type": "missing_kun",
+    "kun": "さ"
+  },
+  {
+    "id": 678,
+    "kanji": "剃",
+    "type": "missing_kun",
+    "kun": "そ / す"
+  },
+  {
+    "id": 688,
+    "kanji": "勲",
+    "type": "missing_kun",
+    "kun": "いさお"
+  },
+  {
+    "id": 693,
+    "kanji": "勗",
+    "type": "missing_kun",
+    "kun": "つと"
+  },
+  {
+    "id": 694,
+    "kanji": "劭",
+    "type": "missing_kun",
+    "kun": "つと"
+  },
+  {
+    "id": 695,
+    "kanji": "劬",
+    "type": "missing_kun",
+    "kun": "つか"
+  },
+  {
+    "id": 696,
+    "kanji": "勍",
+    "type": "missing_kun",
+    "kun": "つよ"
+  },
+  {
+    "id": 697,
+    "kanji": "勣",
+    "type": "missing_kun",
+    "kun": "いさお"
+  },
+  {
+    "id": 698,
+    "kanji": "勠",
+    "type": "missing_kun",
+    "kun": "あわ"
+  },
+  {
+    "id": 699,
+    "kanji": "勦",
+    "type": "missing_kun",
+    "kun": "ねだや / かす"
+  },
+  {
+    "id": 700,
+    "kanji": "包",
+    "type": "missing_kun",
+    "kun": "つつ"
+  },
+  {
+    "id": 706,
+    "kanji": "葵",
+    "type": "missing_kun",
+    "kun": "あおい"
+  },
+  {
+    "id": 707,
+    "kanji": "蒼",
+    "type": "missing_kun",
+    "kun": "あお"
+  },
+  {
+    "id": 708,
+    "kanji": "蓄",
+    "type": "missing_kun",
+    "kun": "たくわ"
+  },
+  {
+    "id": 709,
+    "kanji": "蓋",
+    "type": "missing_kun",
+    "kun": "ふた"
+  },
+  {
+    "id": 710,
+    "kanji": "蔑",
+    "type": "missing_kun",
+    "kun": "ないし / む"
+  },
+  {
+    "id": 712,
+    "kanji": "藻",
+    "type": "missing_kun",
+    "kun": "も"
+  },
+  {
+    "id": 717,
+    "kanji": "薪",
+    "type": "missing_kun",
+    "kun": "たきぎ / まき"
+  },
+  {
+    "id": 718,
+    "kanji": "蕩",
+    "type": "missing_on",
+    "on": "トウ"
+  },
+  {
+    "id": 719,
+    "kanji": "蕪",
+    "type": "missing_kun",
+    "kun": "かぶ"
+  },
+  {
+    "id": 721,
+    "kanji": "葦",
+    "type": "missing_kun",
+    "kun": "あし / よし"
+  },
+  {
+    "id": 722,
+    "kanji": "葛",
+    "type": "missing_kun",
+    "kun": "くず"
+  },
+  {
+    "id": 723,
+    "kanji": "蓬",
+    "type": "missing_kun",
+    "kun": "よもぎ"
+  },
+  {
+    "id": 724,
+    "kanji": "葺",
+    "type": "missing_kun",
+    "kun": "ふ"
+  },
+  {
+    "id": 725,
+    "kanji": "繭",
+    "type": "missing_kun",
+    "kun": "まゆ"
+  },
+  {
+    "id": 726,
+    "kanji": "菫",
+    "type": "missing_kun",
+    "kun": "すみれ"
+  },
+  {
+    "id": 728,
+    "kanji": "藍",
+    "type": "missing_kun",
+    "kun": "あい"
+  },
+  {
+    "id": 729,
+    "kanji": "薯",
+    "type": "missing_kun",
+    "kun": "いも"
+  },
+  {
+    "id": 730,
+    "kanji": "蔓",
+    "type": "missing_kun",
+    "kun": "つる / はびこ"
+  },
+  {
+    "id": 732,
+    "kanji": "薇",
+    "type": "missing_kun",
+    "kun": "ぜんまい"
+  },
+  {
+    "id": 733,
+    "kanji": "蕾",
+    "type": "missing_kun",
+    "kun": "つぼみ"
+  },
+  {
+    "id": 734,
+    "kanji": "薙",
+    "type": "missing_kun",
+    "kun": "な / なぎなた"
+  },
+  {
+    "id": 737,
+    "kanji": "藁",
+    "type": "missing_kun",
+    "kun": "わら"
+  },
+  {
+    "id": 738,
+    "kanji": "蕨",
+    "type": "missing_kun",
+    "kun": "わらび"
+  },
+  {
+    "id": 740,
+    "kanji": "茨",
+    "type": "missing_kun",
+    "kun": "いばら"
+  },
+  {
+    "id": 741,
+    "kanji": "苑",
+    "type": "missing_kun",
+    "kun": "その"
+  },
+  {
+    "id": 742,
+    "kanji": "苛",
+    "type": "missing_kun",
+    "kun": "いじ / さいな / いらだ"
+  },
+  {
+    "id": 743,
+    "kanji": "苔",
+    "type": "missing_kun",
+    "kun": "こけ"
+  },
+  {
+    "id": 744,
+    "kanji": "苟",
+    "type": "missing_kun",
+    "kun": "いやしく"
+  },
+  {
+    "id": 751,
+    "kanji": "蓮",
+    "type": "missing_kun",
+    "kun": "はす"
+  },
+  {
+    "id": 752,
+    "kanji": "茹",
+    "type": "missing_kun",
+    "kun": "ゆ"
+  },
+  {
+    "id": 754,
+    "kanji": "菱",
+    "type": "missing_kun",
+    "kun": "ひし"
+  },
+  {
+    "id": 755,
+    "kanji": "虎",
+    "type": "missing_kun",
+    "kun": "とら"
+  },
+  {
+    "id": 756,
+    "kanji": "虐",
+    "type": "missing_kun",
+    "kun": "しいた"
+  },
+  {
+    "id": 757,
+    "kanji": "慮",
+    "type": "missing_kun",
+    "kun": "おもんぱか"
+  },
+  {
+    "id": 759,
+    "kanji": "虞",
+    "type": "missing_kun",
+    "kun": "おそれ"
+  },
+  {
+    "id": 760,
+    "kanji": "虜",
+    "type": "missing_kun",
+    "kun": "とりこ"
+  },
+  {
+    "id": 761,
+    "kanji": "虧",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 762,
+    "kanji": "虹",
+    "type": "missing_kun",
+    "kun": "にじ"
+  },
+  {
+    "id": 763,
+    "kanji": "蚊",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 764,
+    "kanji": "蚤",
+    "type": "missing_kun",
+    "kun": "のみ"
+  },
+  {
+    "id": 765,
+    "kanji": "蚕",
+    "type": "missing_kun",
+    "kun": "かいこ"
+  },
+  {
+    "id": 766,
+    "kanji": "蛇",
+    "type": "missing_kun",
+    "kun": "へび"
+  },
+  {
+    "id": 768,
+    "kanji": "蛍",
+    "type": "missing_kun",
+    "kun": "ほたる"
+  },
+  {
+    "id": 770,
+    "kanji": "蜂",
+    "type": "missing_kun",
+    "kun": "はち"
+  },
+  {
+    "id": 772,
+    "kanji": "蝦",
+    "type": "missing_kun",
+    "kun": "えび"
+  },
+  {
+    "id": 774,
+    "kanji": "蟹",
+    "type": "missing_kun",
+    "kun": "かに"
+  },
+  {
+    "id": 775,
+    "kanji": "蟻",
+    "type": "missing_kun",
+    "kun": "あり"
+  },
+  {
+    "id": 776,
+    "kanji": "蠅",
+    "type": "missing_kun",
+    "kun": "はえ"
+  },
+  {
+    "id": 777,
+    "kanji": "蠍",
+    "type": "missing_kun",
+    "kun": "さそり"
+  },
+  {
+    "id": 778,
+    "kanji": "蠢",
+    "type": "missing_kun",
+    "kun": "うごめ"
+  },
+  {
+    "id": 779,
+    "kanji": "蝕",
+    "type": "missing_kun",
+    "kun": "むしば"
+  },
+  {
+    "id": 782,
+    "kanji": "袴",
+    "type": "missing_kun",
+    "kun": "はかま"
+  },
+  {
+    "id": 783,
+    "kanji": "褒",
+    "type": "missing_on",
+    "on": "ホウ"
+  },
+  {
+    "id": 785,
+    "kanji": "襟",
+    "type": "missing_kun",
+    "kun": "えり"
+  },
+  {
+    "id": 788,
+    "kanji": "袒",
+    "type": "missing_kun",
+    "kun": "はだぬぎ"
+  },
+  {
+    "id": 789,
+    "kanji": "袷",
+    "type": "missing_kun",
+    "kun": "あわせ"
+  },
+  {
+    "id": 790,
+    "kanji": "祷",
+    "type": "missing_kun",
+    "kun": "いの"
+  },
+  {
+    "id": 791,
+    "kanji": "祀",
+    "type": "missing_kun",
+    "kun": "まつ"
+  },
+  {
+    "id": 797,
+    "kanji": "禦",
+    "type": "missing_kun",
+    "kun": "ふせ"
+  },
+  {
+    "id": 800,
+    "kanji": "祓",
+    "type": "missing_kun",
+    "kun": "はら"
+  },
+  {
+    "id": 803,
+    "kanji": "宛",
+    "type": "missing_kun",
+    "kun": "あ / あて"
+  },
+  {
+    "id": 804,
+    "kanji": "闇",
+    "type": "missing_kun",
+    "kun": "やみ"
+  },
+  {
+    "id": 805,
+    "kanji": "嵐",
+    "type": "missing_kun",
+    "kun": "あらし"
+  },
+  {
+    "id": 806,
+    "kanji": "畏",
+    "type": "missing_kun",
+    "kun": "おそ"
+  },
+  {
+    "id": 807,
+    "kanji": "萎",
+    "type": "missing_kun",
+    "kun": "な / しぼ"
+  },
+  {
+    "id": 810,
+    "kanji": "咽",
+    "type": "missing_kun",
+    "kun": "むせ"
+  },
+  {
+    "id": 812,
+    "kanji": "淫",
+    "type": "missing_kun",
+    "kun": "みだら"
+  },
+  {
+    "id": 813,
+    "kanji": "隠",
+    "type": "missing_kun",
+    "kun": "かく"
+  },
+  {
+    "id": 814,
+    "kanji": "臼",
+    "type": "missing_kun",
+    "kun": "うす"
+  },
+  {
+    "id": 815,
+    "kanji": "渦",
+    "type": "missing_kun",
+    "kun": "うず"
+  },
+  {
+    "id": 817,
+    "kanji": "餌",
+    "type": "missing_kun",
+    "kun": "え / えさ"
+  },
+  {
+    "id": 819,
+    "kanji": "艶",
+    "type": "missing_kun",
+    "kun": "つや / なま"
+  },
+  {
+    "id": 821,
+    "kanji": "岡",
+    "type": "missing_kun",
+    "kun": "おか"
+  },
+  {
+    "id": 823,
+    "kanji": "俺",
+    "type": "missing_kun",
+    "kun": "おれ"
+  },
+  {
+    "id": 824,
+    "kanji": "牙",
+    "type": "missing_kun",
+    "kun": "きば"
+  },
+  {
+    "id": 825,
+    "kanji": "瓦",
+    "type": "missing_kun",
+    "kun": "かわら"
+  },
+  {
+    "id": 827,
+    "kanji": "崖",
+    "type": "missing_kun",
+    "kun": "がけ"
+  },
+  {
+    "id": 828,
+    "kanji": "鎧",
+    "type": "missing_kun",
+    "kun": "よろい"
+  },
+  {
+    "id": 829,
+    "kanji": "柿",
+    "type": "missing_kun",
+    "kun": "かき"
+  },
+  {
+    "id": 830,
+    "kanji": "顎",
+    "type": "missing_kun",
+    "kun": "あご"
+  },
+  {
+    "id": 832,
+    "kanji": "釜",
+    "type": "missing_kun",
+    "kun": "かま"
+  },
+  {
+    "id": 833,
+    "kanji": "鎌",
+    "type": "missing_kun",
+    "kun": "かま"
+  },
+  {
+    "id": 834,
+    "kanji": "粥",
+    "type": "missing_kun",
+    "kun": "かゆ"
+  },
+  {
+    "id": 835,
+    "kanji": "玩",
+    "type": "missing_kun",
+    "kun": "もちあそ"
+  },
+  {
+    "id": 837,
+    "kanji": "忌",
+    "type": "missing_kun",
+    "kun": "い"
+  },
+  {
+    "id": 839,
+    "kanji": "杵",
+    "type": "missing_kun",
+    "kun": "きね"
+  },
+  {
+    "id": 840,
+    "kanji": "稀",
+    "type": "missing_kun",
+    "kun": "まれ"
+  },
+  {
+    "id": 843,
+    "kanji": "嗅",
+    "type": "missing_kun",
+    "kun": "か"
+  },
+  {
+    "id": 844,
+    "kanji": "亀",
+    "type": "missing_kun",
+    "kun": "かめ"
+  },
+  {
+    "id": 845,
+    "kanji": "鋸",
+    "type": "missing_kun",
+    "kun": "のこぎり"
+  },
+  {
+    "id": 846,
+    "kanji": "乞",
+    "type": "missing_on",
+    "on": "コツ / キツ"
+  },
+  {
+    "id": 847,
+    "kanji": "隙",
+    "type": "missing_kun",
+    "kun": "すき"
+  },
+  {
+    "id": 848,
+    "kanji": "桁",
+    "type": "missing_kun",
+    "kun": "けた"
+  },
+  {
+    "id": 849,
+    "kanji": "尻",
+    "type": "missing_kun",
+    "kun": "しり"
+  },
+  {
+    "id": 851,
+    "kanji": "裾",
+    "type": "missing_kun",
+    "kun": "すそ"
+  },
+  {
+    "id": 852,
+    "kanji": "凄",
+    "type": "missing_kun",
+    "kun": "すご"
+  },
+  {
+    "id": 853,
+    "kanji": "醒",
+    "type": "missing_kun",
+    "kun": "さ"
+  },
+  {
+    "id": 854,
+    "kanji": "脊",
+    "type": "missing_on",
+    "on": "セキ"
+  },
+  {
+    "id": 856,
+    "kanji": "煎",
+    "type": "missing_kun",
+    "kun": "い / ぜん"
+  },
+  {
+    "id": 857,
+    "kanji": "羨",
+    "type": "missing_kun",
+    "kun": "うらや"
+  },
+  {
+    "id": 859,
+    "kanji": "煽",
+    "type": "missing_kun",
+    "kun": "おだ / あお"
+  },
+  {
+    "id": 861,
+    "kanji": "箋",
+    "type": "missing_kun",
+    "kun": "ふだ"
+  },
+  {
+    "id": 863,
+    "kanji": "狙",
+    "type": "missing_kun",
+    "kun": "ねら"
+  },
+  {
+    "id": 864,
+    "kanji": "阻",
+    "type": "missing_kun",
+    "kun": "はば"
+  },
+  {
+    "id": 865,
+    "kanji": "遡",
+    "type": "missing_kun",
+    "kun": "さかのぼ"
+  },
+  {
+    "id": 867,
+    "kanji": "爽",
+    "type": "missing_kun",
+    "kun": "さわ"
+  },
+  {
+    "id": 868,
+    "kanji": "痩",
+    "type": "missing_kun",
+    "kun": "や"
+  },
+  {
+    "id": 870,
+    "kanji": "捉",
+    "type": "missing_kun",
+    "kun": "とら"
+  },
+  {
+    "id": 873,
+    "kanji": "舵",
+    "type": "missing_kun",
+    "kun": "かじ"
+  },
+  {
+    "id": 875,
+    "kanji": "唾",
+    "type": "missing_kun",
+    "kun": "つば"
+  },
+  {
+    "id": 876,
+    "kanji": "墮",
+    "type": "missing_kun",
+    "kun": "おち"
+  },
+  {
+    "id": 880,
+    "kanji": "戴",
+    "type": "missing_kun",
+    "kun": "いただ"
+  },
+  {
+    "id": 881,
+    "kanji": "誰",
+    "type": "missing_kun",
+    "kun": "だれ"
+  },
+  {
+    "id": 882,
+    "kanji": "丹",
+    "type": "missing_kun",
+    "kun": "に"
+  },
+  {
+    "id": 883,
+    "kanji": "綻",
+    "type": "missing_kun",
+    "kun": "ほころ"
+  },
+  {
+    "id": 889,
+    "kanji": "凋",
+    "type": "missing_kun",
+    "kun": "しぼ"
+  },
+  {
+    "id": 890,
+    "kanji": "嘲",
+    "type": "missing_kun",
+    "kun": "あざけ"
+  },
+  {
+    "id": 891,
+    "kanji": "喋",
+    "type": "missing_kun",
+    "kun": "しゃべ"
+  },
+  {
+    "id": 893,
+    "kanji": "捗",
+    "type": "missing_kun",
+    "kun": "はかど"
+  },
+  {
+    "id": 894,
+    "kanji": "椎",
+    "type": "missing_kun",
+    "kun": "しい"
+  },
+  {
+    "id": 895,
+    "kanji": "錘",
+    "type": "missing_kun",
+    "kun": "つむ"
+  },
+  {
+    "id": 896,
+    "kanji": "槌",
+    "type": "missing_kun",
+    "kun": "つち"
+  },
+  {
+    "id": 898,
+    "kanji": "爪",
+    "type": "missing_kun",
+    "kun": "つめ"
+  },
+  {
+    "id": 899,
+    "kanji": "鶴",
+    "type": "missing_kun",
+    "kun": "つる"
+  },
+  {
+    "id": 900,
+    "kanji": "鼎",
+    "type": "missing_kun",
+    "kun": "かなえ"
+  },
+  {
+    "id": 901,
+    "kanji": "暮",
+    "type": "missing_kun",
+    "kun": "く"
+  },
+  {
+    "id": 902,
+    "kanji": "骨",
+    "type": "missing_kun",
+    "kun": "ほね"
+  },
+  {
+    "id": 903,
+    "kanji": "祈",
+    "type": "missing_kun",
+    "kun": "いの"
+  },
+  {
+    "id": 904,
+    "kanji": "叫",
+    "type": "missing_kun",
+    "kun": "さけ"
+  },
+  {
+    "id": 905,
+    "kanji": "互",
+    "type": "missing_kun",
+    "kun": "たが"
+  },
+  {
+    "id": 906,
+    "kanji": "悲",
+    "type": "missing_kun",
+    "kun": "かな"
+  },
+  {
+    "id": 907,
+    "kanji": "怒",
+    "type": "missing_kun",
+    "kun": "いか"
+  },
+  {
+    "id": 908,
+    "kanji": "恐",
+    "type": "missing_kun",
+    "kun": "おそ"
+  },
+  {
+    "id": 909,
+    "kanji": "恥",
+    "type": "missing_kun",
+    "kun": "は"
+  },
+  {
+    "id": 910,
+    "kanji": "頼",
+    "type": "missing_kun",
+    "kun": "たの"
+  },
+  {
+    "id": 911,
+    "kanji": "悩",
+    "type": "missing_kun",
+    "kun": "なや"
+  },
+  {
+    "id": 912,
+    "kanji": "迷",
+    "type": "missing_kun",
+    "kun": "まよ"
+  },
+  {
+    "id": 913,
+    "kanji": "戻",
+    "type": "missing_kun",
+    "kun": "もど"
+  },
+  {
+    "id": 914,
+    "kanji": "眠",
+    "type": "missing_kun",
+    "kun": "ねむ"
+  },
+  {
+    "id": 915,
+    "kanji": "捕",
+    "type": "missing_kun",
+    "kun": "と"
+  },
+  {
+    "id": 916,
+    "kanji": "逃",
+    "type": "missing_kun",
+    "kun": "に"
+  },
+  {
+    "id": 917,
+    "kanji": "渡",
+    "type": "missing_kun",
+    "kun": "わた"
+  },
+  {
+    "id": 918,
+    "kanji": "喜",
+    "type": "missing_kun",
+    "kun": "よろこ"
+  },
+  {
+    "id": 919,
+    "kanji": "破",
+    "type": "missing_kun",
+    "kun": "やぶ"
+  },
+  {
+    "id": 920,
+    "kanji": "割",
+    "type": "missing_kun",
+    "kun": "わ"
+  },
+  {
+    "id": 921,
+    "kanji": "飾",
+    "type": "missing_kun",
+    "kun": "かざ"
+  }
+]

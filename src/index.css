@@ -888,6 +888,8 @@ body {
   /* 루비 문자가 들어갈 충분한 공간 확보 */
   display: block;
   margin-bottom: 0.5rem;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 ruby {
